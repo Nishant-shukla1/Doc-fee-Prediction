@@ -1,0 +1,1031 @@
+,name,Speciality,Experience,Location,District,DP_score,Num_of_votes,Consultation_Fee,Degree
+0,Dr. Rohit Krishna,Plastic Surgeon,26,Delhi,Greater Kailash Part 2,88% ,8,500,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+1,Dr. Abhiyan Kumar Pattnaik,Ophthalmologist,22,Delhi,Lajpat Nagar III,95% ,21,500,"DO, MBBS"
+2,Dr. Vinay Sabharwal,General Surgeon,46,Delhi,Karol Bagh,88% ,7,700,"MBBS, MS - General Surgery"
+3,Dr. Rakesh Mahajan,Ophthalmologist,36,Delhi,Pitampura,100% ,1,500,"MBBS, DO"
+4,Dr. Rajat Jain,Ophthalmologist,15,Delhi,Delhi,86% ,11,599,"MBBS, MS - Ophthalmology"
+5,Dr. Madhur Mahna,Orthopedist,12,Delhi,Rajouri Garden,90% ,117,600,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+6,Dr. Manik Mittal,Ophthalmologist,12,Delhi,Paschim Vihar,98% ,45,699,"MBBS, MD - Ophthalmology"
+7,Dr. Shweta Jain,Ophthalmologist,10,Delhi,Paschim Vihar,97% ,64,499,"MBBS, DNB - Ophthalmology"
+8,Dr. Tapeshwar Sehgal,Plastic Surgeon,24,Delhi,Dwarka,75% ,11,699,"MBBS, MS - General Surgery, DNB - Plastic Surgery"
+9,Dr. Ashutosh Mishra,Plastic Surgeon,22,Delhi,Greater Kailash Part 1,79% ,9,999,"MBBS, MCh - Plastic Surgery, MS - General Surgery"
+10,Dr. Chandan Das,General Surgeon,17,Delhi,Greater Kailash Part 2,98% ,59,499,"MBBS, MS - General Surgery"
+11,Dr. Saurabh Kumar Goyal,General Surgeon,14,Delhi,Greater Kailash Part 2,80% ,5,799,"MBBS, MS - General Surgery"
+12,Dr. Brahmanand Lal,Pediatric Surgeon,13,Delhi,Greater Kailash Part 2,100% ,26,1000,"MBBS, MS - General Surgery, MCh - Pediatric  Surgery"
+13,Dr. Surjeet Kumar,Laparoscopic Surgeon,17,Delhi,Greater Kailash Part 2,N/A,N/A,99,"MBBS, MS - General Surgery"
+14,Dr. Varun Gogia,Ophthalmologist,15,Delhi,Lajpat Nagar 4,99% ,425,800,"MBBS, MD - Ophthalmology"
+15,Dr. Ankush Mutreja,Ophthalmologist,14,Delhi,Dwarka,92% ,84,699,"MBBS, MS - Ophthalmology, DNB - Ophthalmology, FAICO (Fellow of All India Collegium of Ophthalmology)"
+16,Dr. Lagan Paul Mutreja,Ophthalmologist,12,Delhi,Dwarka,100% ,N/A,500,"MBBS, MS - Ophthalmology"
+17,Dr. Chandrakant Kar,Urologist,24,Delhi,Dwarka,81% ,49,699,"MCh - Urology, MS - General Surgery, MBBS"
+18,Dr. Deepankur Mahajan,Ophthalmologist,16,Delhi,Pitampura,91% ,7,1000,"MD - Ophthalmology, MBBS"
+19,Dr. Alkesh Chaudary,Ophthalmologist,29,Delhi,Greater Kailash Part 2,86% ,N/A,1000,"MS - Ophthalmology, MBBS"
+20,Dr. Nikunj Bansal,General Surgeon,21,Delhi,Karol Bagh,100% ,6,499,"MBBS, MS - General Surgery"
+21,Dr. Robin Aggarwal,Ophthalmologist,12,Delhi,Panchsheel Park,100% ,2,699,"MD - Physician, DO"
+22,Dr. Saurabh Singh,Ophthalmologist,20,Delhi,Panchsheel Park,75% ,3,699,"MBBS, MS - Ophthalmology"
+23,Dr. Vipin Kumar Grover,General Surgeon,37,Delhi,Vikas Puri,67% ,2,699,"MBBS, MS - General Surgery"
+24,Dr. Rahul Sinha,General Surgeon,16,Delhi,Pitampura,100% ,N/A,1000,"MBBS, DNB - General Surgery"
+25,Dr. Sushil Kumar,General Surgeon,31,Delhi,Greater Kailash Part 2,N/A,N/A,1000,"MBBS, MS - General Surgery"
+26,Dr. Shobha Jindal,Plastic Surgeon,26,Delhi,Greater Kailash Part 2,N/A,N/A,999,"MBBS, MS - General Surgery, DNB - Plastic Surgery, MCh - Plastic Surgery"
+27,Dr. Prakash Kumar Mehta,Laparoscopic Surgeon,23,Delhi,Dwarka,N/A,N/A,500,"MBBS, MS - General Surgery"
+28,Dr. Ratnesh Mahajan,General Surgeon,11,Delhi,Ashok Vihar,60% ,4,500,"MBBS, MS - General Surgery"
+29,Dr. Arun Anand,General Surgeon,10,Delhi,Dwarka,N/A,N/A,500,"MBBS, MS - General Surgery"
+30,Dr. Anil Vardani,Internal Medicine,36,Delhi,Pusa Road,87% ,29,1800,"MBBS, MD - General Medicine"
+31,Dr. Rajinder Kumar Singal,Internal Medicine,40,Delhi,Pusa Road,89% ,2,1800,"MBBS, MD - General Medicine"
+32,Dr. Jeevanjyot Bahia,General Physician,30,Delhi,Pusa Road,83% ,5,800,"MBBS, DNB - Family Medicine"
+33,Dr. Vishal Kaura Aggarwal,Internal Medicine,25,Delhi,Pusa Road,100% ,5,1500,"MD - Medicine, MBBS"
+34,Dr. Amitabh Khanna,Diabetologist,33,Delhi,Dwarka,80% ,130,1000,"MBBS, Diploma in Cardiology"
+35,Dr. Navneet Kaur,General Physician,24,Delhi,Nehru Place,90% ,4,500,MBBS
+36,Dr. Narinder Tikoo,Internal Medicine,46,Delhi,Sarita Vihar,100% ,4,1500,"MBBS, MD - General Medicine"
+37,Dr. Anuj Gupta,Pulmonologist,23,Delhi,Munirka,97% ,187,1250,"MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD)"
+38,Dr. (Maj.)Sharad Shrivastava,General Physician,29,Delhi,Dwarka Sector 7,93% ,139,800,MBBS
+39,Dr. Yatin Kukreja,General Physician,19,Delhi,Lajpat Nagar 4,98% ,134,650,MD - Physician
+40,Dr. Jaspreet Singh Lamba,General Physician,25,Delhi,Malviya Nagar,98% ,96,800,"MBBS, MD - General Medicine"
+41,Dr. Pradeep Kawatra,General Physician,41,Delhi,Nehru Place,71% ,2,1200,"MBBS, MD - Medicine"
+42,Dr. Sham Sunder,Nephrologist,46,Delhi,Safdarjung Development Area,96% ,71,1500,"MBBS, MD - Medicine, DM - Nephrology"
+43,Dr. Yuvraj Arora Monga,General Physician,25,Delhi,Lajpat Nagar,83% ,805,800,"MBBS, MD - Pharmacology"
+44,Dr. Amarpreet Singh Riar,General Practitioner,9 ,Delhi,Dwarka,96% ,497,800,MD - Physician
+45,Dr. Mohammada Asim Siddiqui,Internal Medicine,23,Delhi,Sarita Vihar,100% ,6,2500,"MD - General Medicine, MBBS"
+46,Dr. Gagan N. Jain,Internal Medicine,Sp,Delhi,Pitampura,98% ,27,2,"MBBS, MD - General Medicine"
+47,Dr. Vikram Sabharwal,General Physician,25,Delhi,Janakpuri,100% ,15,1000,MBBS
+48,Dr. Charu Goel Sachdeva,Internal Medicine,21,Delhi,Dwarka Sector 6,73% ,18,900,"MBBS, DNB - General Medicine"
+49,Dr. Virendra Kumar Raju,Internal Medicine,27,Delhi,Dwarka,91% ,46,1000,"MBBS, MD - General Medicine"
+50,Dr. N.M. Agarwal,Internal Medicine,37,Delhi,Pusa Road,N/A,N/A,1800,"MBBS, MD - Medicine"
+51,Dr. Deepak Gargi Pande,General Physician,26,Delhi,Pusa Road,100% ,2,1800,"MD - General Medicine, MBBS"
+52,Dr. Vimal Gupta,General Physician,Sp,Delhi,Nehru Place,100% ,1,2,"MBBS, MD - General Medicine"
+53,Dr. Lalit Kumar,General Physician,43,Delhi,Vivek Vihar,98% ,37,600,MBBS
+54,Dr. Praveen Tiwari,General Physician,21,Delhi,Vasundhra Enclave,97% ,20,1000,"MD - Medicine, MBBS"
+55,Dr. Usha Gupta,General Practitioner,39,Delhi,Jhilmil Colony,100% ,33,600,MBBS
+56,Dr. Anupama Khanna,General Physician,31,Delhi,Dwarka,96% ,8,800,MBBS
+57,Dr. Rakesh Kumar,Internal Medicine,35,Delhi,Sarita Vihar,N/A,N/A,2000,"MBBS, MD - General Medicine"
+58,Dr. Ankit Nijhara,General Physician,2 ,Delhi,Patel Nagar East,100% ,59,600,MBBS
+59,Dr. Hitesh Punyani,Internal Medicine,25,Delhi,Moti Nagar,98% ,38,1200,"MBBS, MD - Medicine"
+60,Dr. Ayush Gupta,Internal Medicine,32,Delhi,Shalimar Bagh,56% ,8,800,"MBBS, MD - Medicine"
+61,Dr. Kamal Ahmad,Internal Medicine,28,Delhi,Sarita Vihar,100% ,1,2000,"MBBS, MD - General Medicine"
+62,Dr. Bimal Kumar Dubey,General Physician,25,Delhi,Rohini,93% ,46,600,MD - Physician
+63,Dr. Rakesh Dewan,General Physician,37,Delhi,Tri Nagar,92% ,7,400,"MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD)"
+64,Dr. Nandini Agarwal,General Physician,17,Delhi,Vikas Puri,96% ,35,700,"MBBS, MD - Physiology"
+65,Dr. Gagan Anand,Internal Medicine,7 ,Delhi,Pusa Road,N/A,N/A,1100,"MBBS, DNB - General Medicine"
+66,Dr. R K Raman,General Physician,13,Delhi,Uttam Nagar,100% ,8,600,MBBS
+67,Dr. Amrita Ghosh,General Physician,14,Delhi,Nehru Place,86% ,7,1200,MBBS
+68,Dr. Himanshu Shekhar,General Physician,16,Delhi,Greater Kailash Part 1,78% ,4,800,MD - Physician
+69,Dr. Surya Aggarwal,General Physician,13,Delhi,Preet Vihar,99% ,53,700,"MBBS, MD - General Medicine"
+70,Dr. Nitin Garg,General Physician,18,Delhi,Punjabi Bagh,100% ,4,1000,"MD - Anaesthesiology, MBBS"
+71,Dr. Rajesh Kansal,General Physician,38,Delhi,Paschim Vihar,100% ,24,500,MBBS
+72,Dr. Paru Sharma,General Physician,30,Delhi,Dwarka Sector 13,99% ,83,600,MBBS
+73,Dr. Anil Laul,General Physician,36,Delhi,Dwarka Sector 6,77% ,8,900,"MBBS, MD - General Medicine"
+74,Dr. Rumana Aziz,General Physician,15,Delhi,Panchsheel Park,N/A,N/A,800,MBBS
+75,Dr. Pankaj Lohia,Pulmonologist,24,Delhi,Pusa Road,N/A,N/A,1100,"MBBS, MD - Tuberculosis and Chest Diseases"
+76,Dr. Raj Kumar,Pulmonologist,21,Delhi,Vasant Kunj,93% ,25,1000,"MD - Tuberculosis and Chest Diseases, MBBS"
+77,Dr. Jay Kirtani,General Physician,19,Delhi,Panchsheel Park,92% ,5,1500,"MBBS, MD - Medicine, Diploma in Geriatric Medicine"
+78,Dr. Kalyanashish Das,Pediatrician,23,Delhi,CR Park,100% ,21,600,"MBBS, Diploma in Child Health (DCH)"
+79,Dr. Pramila Srivastava,General Physician,41,Delhi,Defence Colony,85% ,8,500,"MBBS, Diploma in Child Health (DCH)"
+80,Dr. Vineet Arora,General Physician,22,Delhi,Shalimar Bagh,73% ,9,1000,"MBBS, MD - Medicine"
+81,Dr. Vivek Pal Singh,Internal Medicine,17,Delhi,Pusa Road,N/A,N/A,1800,"MBBS, MD - General Medicine"
+82,Dr. S P Singh,Internal Medicine,45,Delhi,Okhla,23% ,9,1500,"MBBS, DNB - General Medicine"
+83,Dr. Sunny Sehgal,General Physician,12,Delhi,Laxmi Nagar,96% ,98,500,MD - Physician
+84,Dr. Sanchayan Roy,Internal Medicine,24,Delhi,CR Park,90% ,88,800,"MBBS, DNB - General Medicine"
+85,Dr. Saumya Rathi,General Physician,10,Delhi,Shakti Nagar,100% ,97,600,MBBS
+86,Dr. Pankaj Kumar,General Physician,15,Delhi,Janakpuri,96% ,118,650,"MBBS, DNB - Family Medicine, DNHE"
+87,Dr. Nirmala Lahoti,General Physician,34,Delhi,Preet Vihar,95% ,56,1100,"MBBS, MD - Medicine"
+88,Dr. Inder Kasturia,General Physician,30,Delhi,Dwarka Sector 12,92% ,8,700,MBBS
+89,Dr. Swetal chouhan,General Physician,12,Delhi,Saket,90% ,6,800,"MBBS, DNB - General Medicine"
+90,Dr. Akant Arora,Emergency & Critical Care,7 ,Delhi,Janakpuri,100% ,3,500,"DNB - Emergency Medicine, MBBS"
+91,Dr. Varun Verma,Nephrologist,23,Delhi,Patparganj,88% ,4,1500,"MBBS, MD - General Medicine, DNB - Nephrology"
+92,Dr. S.K. Tyagi,Internal Medicine,39,Delhi,Tilak Nagar,80% ,16,1000,"MBBS, MD - Medicine"
+93,Dr. Alka Bhasin,General Physician,28,Delhi,Saket,35% ,11,1600,"MBBS, Fellowship in Nephrology"
+94,Dr. Rajeev Gupta,General Physician,38,Delhi,Punjabi Bagh,67% ,3,1000,"MBBS, MD - Medicine"
+95,Dr. Ajay Gainda,General Physician,26,Delhi,Pitampura,100% ,N/A,600,"MBBS, MD - General Medicine"
+96,Dr. Zuha Ahmed,General Physician,4 ,Delhi,Jhilmil Colony,100% ,2,400,MBBS
+97,Dr. Manju Keshari,General Physician,23,Delhi,Patparganj,66% ,30,700,MBBS
+98,Dr. Dhananjay Kumar,Internal Medicine,28,Delhi,Okhla,100% ,N/A,1500,"MBBS, MD - General Medicine"
+99,Dr. Vineet Mittal,General Physician,19,Delhi,Rohini,100% ,50,500,"MBBS, DNB - General Medicine"
+100,Dr. Sanjay Dhall,General Physician,35,Delhi,Shalimar Bagh,60% ,1,1000,"MBBS, MD - General Medicine"
+101,Dr. Shailendra Bhadoriya,General Physician,20,Delhi,Greater Kailash,98% ,24,1000,MBBS
+102,Dr. Preeti Lall,General Physician,7 ,Delhi,Dwarka Sector 19,N/A,N/A,500,MBBS
+103,Dr. Atul Arora,Internal Medicine,30,Delhi,Kalkaji,98% ,42,1000,"MBBS, MD - General Medicine"
+104,Dr. Sushil Goyal,General Physician,34,Delhi,Rohini Sector 8,67% ,5,800,MBBS
+105,Dr. Md Shamim Reyaz,General Physician,10,Delhi,Chhatarpur Extension,88% ,16,500,MBBS
+106,Dr. Pankaj Rohilla,General Physician,18,Delhi,Vishnu Garden,80% ,4,250,MBBS
+107,Dr. Gaurav Thukran,General Physician,8 ,Delhi,Dwarka Sector 8,95% ,176,600,MD - Physician
+108,Dr. Naresh Dang,General Physician,35,Delhi,Patparganj,67% ,1,1000,MBBS
+109,Dr. Chetan Kumar Gupta,Pulmonologist,23,Delhi,Chattarpur,58% ,12,800,"MBBS, MD - Tuberculosis and Chest Diseases"
+110,Dr. Jayant Thakuria,Internal Medicine,23,Delhi,East Of Kailash,82% ,22,1000,"MD - General Medicine, MBBS"
+111,Dr. Rajendra Singh,Internal Medicine,27,Delhi,Dwarka Sector 6,56% ,3,900,"MBBS, MD - General Medicine"
+112,Dr. Rohan Rajpuut,General Physician,5 ,Delhi,Mayur Vihar Ph-I,75% ,2,349,MBBS
+113,Dr. Atul Verma,General Physician,21,Delhi,Pitampura,N/A,N/A,500,"MBBS, DNB - Family Medicine"
+114,Dr. Viresh Prashant Mehta,General Physician,24,Delhi,Patparganj,100% ,N/A,800,"MBBS, MD - General Medicine"
+115,Dr. Priyamvada Tyagi,General Physician,7 ,Delhi,Patparganj,N/A,N/A,1000,MBBS
+116,Dr. Danish Qureshi,General Physician,22,Delhi,Darya Ganj,100% ,22,500,MBBS
+117,Dr. Devinder Piplani,General Physician,46,Delhi,Lajpat Nagar,100% ,6,500,MBBS
+118,Dr. Shuchin Bajaj,Internal Medicine,24,Delhi,Paschim Vihar,98% ,79,1000,"MBBS, MD - Medicine, UMSHCP"
+119,Dr. Vivek Singh,General Physician,13,Delhi,Burari,100% ,57,650,"MBBS, DDV"
+120,Dr. Anil Kumar Jain,Pulmonologist,34,Delhi,Vishwas Nagar,90% ,27,1000,"MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD), Diploma in Child Health (DCH)"
+121,Dr. Gita Prakash,General Physician,43,Delhi,Panchsheel Park,100% ,4,800,MBBS
+122,Dr. Dolly Bagai,General Physician,38,Delhi,Kingsway Camp,100% ,16,700,MBBS
+123,Dr. Subhash Chander Sapra,Pediatrician,51,Delhi,Shakti Nagar,98% ,20,800,"Diploma in Child Health (DCH), MBBS"
+124,Dr. Sarthak Chakravarty,General Physician,9 ,Delhi,Neb Sarai,98% ,39,700,MBBS
+125,Dr. Rommel Tickoo,General Physician,25,Delhi,Panchsheel Park,96% ,16,1500,"MBBS, MD - General Medicine"
+126,Dr. Rakesh Sood,General Physician,38,Delhi,Shalimar Bagh,100% ,4,1000,"MBBS, MD - General Medicine"
+127,Dr. Rakesh Gupta,Internal Medicine,37,Delhi,Sarita Vihar,93% ,12,2000,"MD - Medicine, MBBS"
+128,Dr. Vishwajeet Singh,Sexologist,10,Delhi,Dwarka,100% ,3,600,Doctor of Homeopathic Medicine (HMD)
+129,Dr. Kishor Kumar Tuteja,General Physician,24,Delhi,Rani Bagh,80% ,3,300,MBBS
+130,Dr. M S Chaudhary,Internal Medicine,39,Delhi,Sarita Vihar,100% ,N/A,2000,"MBBS, MD - General Medicine"
+131,Dr. J M S Kalra,General Physician,53,Delhi,Shalimar Bagh,67% ,3,1200,"MBBS, MD - Medicine"
+132,Dr. Manish Jain,General Physician,4 ,Delhi,Dilshad Garden,100% ,11,1000,MBBS
+133,Dr. Himank Goyal,Neurologist,9 ,Delhi,Ashok Vihar Phase 1,92% ,15,1000,"MD - General Medicine, MBBS, DM - Neurology"
+134,Dr. Atul Bhasin,General Physician,31,Delhi,Pusa Road,100% ,3,1800,"MBBS, DNB - General Medicine"
+135,Dr. Chandrakant Lahariya,General Physician,19,Delhi,Safdarjung Enclave,100% ,1,500,"MBBS, MD - Community Medicine"
+136,Dr. Siddharth Sehgal,General Physician,20,Delhi,Patel Nagar West,100% ,24,500,MBBS
+137,Dr. Alok Kumar,General Physician,22,Delhi,Hari Nagar,90% ,15,500,MD - Physician
+138,Dr. Rajiva Gupta,Internal Medicine,42,Delhi,Punjabi Bagh,99% ,680,1400,"MBBS, MD - General Medicine"
+139,Dr. S N Kumar,General Physician,43,Delhi,Greater Kailash Part 1,80% ,4,800,MBBS
+140,Dr. K.S. Walia,General Physician,48,Delhi,Sarita Vihar,90% ,156,600,MBBS
+141,Dr. Amitabha Dutta,Gastroenterologist,42,Delhi,Sarita Vihar,100% ,4,1500,"MBBS,  FRCP, CCST - Gastroenterology"
+142,Dr. Arpita A. Sethi,General Physician,15,Delhi,Ashok Vihar Phase 2,100% ,8,500,MBBS
+143,Dr. Satbir Singh,Cardiologist,23,Delhi,Rajouri Garden,98% ,99,1000,"MBBS, DNB - General Medicine, DNB - Cardiology"
+144,Dr. Gaurav Bhalla,Internal Medicine,15,Delhi,Rani Bagh,86% ,4,1000,"MBBS, MD - General Medicine"
+145,Dr. Narayan Prasad Verma,General Physician,29,Delhi,Khanpur,100% ,N/A,250,MBBS
+146,Dr. Gurpreet,General Physician,8 ,Delhi,Mahavir Enclave,100% ,1,500,MD - Physician
+147,Dr. Mitu Papneja Shrikhande,General Physician,27,Delhi,Vasant Kunj,100% ,3,1400,"MBBS, MD - Medicine, DNB - General Medicine"
+148,Dr. Govind Singh Bisht,General Physician,29,Delhi,Panchsheel Park,91% ,3,1400,MBBS
+149,Dr. M.L.Kalra,Internal Medicine,39,Delhi,Panchsheel Park,70% ,4,1200,"MBBS, MD - Medicine"
+150,Dr. Sushma Chawla,General Physician,50,Delhi,Greater Kailash Part 2,93% ,38,1000,MBBS
+151,Dr. R N Saini,Internal Medicine,47,Delhi,Pusa Road,100% ,N/A,1800,"MBBS, MD - Medicine"
+152,Dr. Leena Batra,General Physician,17,Delhi,Rohini,97% ,86,500,MBBS
+153,Dr. Manish Chandra Prabhakar,General Physician,9 ,Delhi,Uttam Nagar,100% ,5,500,"MBBS, MD - Community Medicine"
+154,Dr. Chiranjib Deb,General Physician,12,Delhi,Palam Colony,100% ,9,500,MBBS
+155,Dr. Meenu Virdi,General Physician,16,Delhi,Panchsheel Park,96% ,59,1000,MD - Physician
+156,Dr. Sunil Chauhan,General Physician,13,Delhi,Sarita Vihar,96% ,35,600,"MD - Physician, DNB - General Medicine"
+157,Dr. Vipul Mohan,General Physician,14,Delhi,Hauz Khas,86% ,15,1000,"MD - General Medicine, MBBS"
+158,Dr. Mugdha Tapdiya,Internal Medicine,26,Delhi,Vasant Kunj,79% ,6,1300,"MBBS, MD - Medicine"
+159,Dr. Tarun Sahni,General Physician,42,Delhi,Sarita Vihar,100% ,1,2000,"MBBS, MD - General Medicine"
+160,Dr. Vandana Bhasin,General Physician,28,Delhi,Janakpuri,62% ,9,500,"MBBS, DNB - Family Medicine"
+161,Dr. Sanjay Sikka,General Physician,37,Delhi,Sarita Vihar,100% ,1,2000,"MBBS, MD - Medicine"
+162,Dr. Amit Chauhan,General Physician,17,Delhi,Pandav Nagar,80% ,5,400,MBBS
+163,Dr. Rachna Kucheria,Family Physician,30,Delhi,Gulmohar Park,95% ,21,1000,"MBBS, MD - Community Medicine, Diplomate of the American Board of Family Medicine"
+164,Dr. Rahul Jain,General Physician,17,Delhi,Shalimar Bagh,100% ,1,1200,"MBBS, MD - General Medicine"
+165,Dr. Swati Kanodia,General Physician,13,Delhi,Pusa Road,86% ,6,1100,"MBBS, MD - Pediatrics"
+166,Dr. Alok Joshi,General Physician,39,Delhi,Shalimar Bagh,100% ,4,800,"MBBS, DNB - General Medicine"
+167,Dr. Nikhilesh Pathak,General Physician,7 ,Delhi,Old Rajendra Nagar,100% ,20,800,MBBS
+168,Dr. Ramit Singh Sambyal,General Physician,9 ,Delhi,Safdarjung Enclave,98% ,39,1000,MBBS
+169,Dr. Narain Harisinghani,General Physician,45,Delhi,Krishna Nagar,N/A,N/A,500,"MBBS, Diploma in Anesthesiology"
+170,Dr. Blessy S Bhalla,Nephrologist,16,Delhi,Rani Bagh,87% ,11,1000,"MBBS, MD - Medicine, DM - Nephrology"
+171,Dr. Rajkumar Karwani,General Physician,28,Delhi,Panchsheel Park,67% ,3,800,MD - Physician
+172,Dr. Amanpreet Jodhka,General Physician,7 ,Delhi,Hari Nagar,50% ,2,400,MD - Physician
+173,Dr. Niren Garg,General Physician,22,Delhi,Rohini Sector 24,100% ,N/A,400,"MD - General Medicine, MBBS"
+174,Dr. Aviansh Chanana,General Practitioner,4 ,Delhi,Nangloi,N/A,N/A,300,MBBS
+175,Dr. Alok Agrawal,General Physician,42,Delhi,Sarita Vihar,N/A,N/A,2000,"MBBS, MD - General Medicine"
+176,Dr. Anu Khera,General Physician,24,Delhi,Nangloi,N/A,N/A,500,MBBS
+177,Dr. Ramneek Verma,Internal Medicine,45,Delhi,Greater Kailash Part 2,100% ,1,1200,"MD - Medicine, MBBS"
+178,Dr. Geetanjali Kochar,Internal Medicine,35,Delhi,Sarita Vihar,N/A,N/A,2000,"MBBS, MRCP (UK)"
+179,Dr. Ajay Sinha,General Physician,33,Delhi,Sarita Vihar,50% ,9,1500,"MBBS, MD - General Medicine"
+180,Dr. S K Nagrani,General Physician,36,Delhi,Shalimar Bagh,84% ,9,1200,"MBBS, MD - General Medicine"
+181,Dr. Navneet  Kaur,General Physician,15,Delhi,Dwarka Sector 8,N/A,N/A,500,MD - Physician
+182,Dr. Ashok Sharma,General Physician,45,Delhi,Okhla,100% ,1,1500,MBBS
+183,Dr. Ashwani Sharma,General Physician,12,Delhi,Uttam Nagar,50% ,N/A,500,"DNB - Anaesthesia, MBBS"
+184,Dr. Prashant Bhatia,General Physician,19,Delhi,Vasant Kunj,N/A,N/A,1500,"MBBS, Diploma in Anesthesiology"
+185,Dr. Jeevan Aggarwal,General Physician,22,Delhi,Shalimar Bagh,67% ,N/A,1500,"MBBS, MD - Medicine"
+186,Dr. Abha Arora,Psychologist,42,Delhi,Mayur Vihar Ph-III,75% ,6,1100,"MBBS, MS - Counselling and Psychotherapy"
+187,Dr. Brajesh Agrawal,Internal Medicine,7 ,Delhi,Mayur Vihar Ph-III,100% ,N/A,800,"MBBS, MD - General Medicine"
+188,Dr. S.B Agarwal,General Physician,56,Delhi,Patparganj,100% ,1,800,MBBS
+189,Dr. Reshma Chauhan,General Physician,11,Delhi,Sarita Vihar,100% ,9,500,MD - Physician
+190,Dr. Shyam Sunder Kanodia,General Physician,42,Delhi,Kamla Nagar,100% ,1,800,MBBS
+191,Dr. Vivek Raj,General Physician,28,Delhi,Saket,86% ,6,1500,MBBS
+192,Dr. Raj Kumar Jain,General Physician,47,Delhi,Okhla,100% ,N/A,1500,MBBS
+193,Dr. Amit Verma,Pharmacist,16,Delhi,Patparganj,N/A,N/A,800,"MBBS, MD - Bio-Chemistry"
+194,Dr. Eqbal Ahmed,General Physician,41,Delhi,Patparganj,67% ,5,800,MBBS
+195,Dr. Sukesh Kumar,General Physician,6 ,Delhi,IP Extension,100% ,18,300,MBBS
+196,Dr. Ravikant Rana,General Physician,5 ,Delhi,Dwarka Sector 12,99% ,253,800,MBBS
+197,Dr. Uma Mallaiah,General Physician,28,Delhi,Greater Kailash Part 2,50% ,1,1500,"MBBS, DO"
+198,Dr. Tanjot Kaur,General Physician,15,Delhi,Dwarka Sector 12,100% ,3,650,"MBBS, DNB - Family Medicine"
+199,Dr. Ashok Gupta,General Surgeon,31,Delhi,Saket,N/A,N/A,1000,"MBBS, MS - General Surgery"
+200,Dr. Arun Garg,General Physician,24,Delhi,Okhla,100% ,N/A,1500,MBBS
+201,Dr. Sujata Agarwal,General Physician,29,Delhi,Okhla,N/A,N/A,1500,MBBS
+202,Dr. Sameer Narad,General Physician,4 ,Delhi,Tagore Garden,100% ,3,500,MBBS
+203,Dr. Guglani Sanyyam Ravikant,General Physician,3 ,Delhi,Sultanpuri,N/A,N/A,400,MBBS
+204,Dr. Om Prakash Sharma,General Physician,53,Delhi,Sarita Vihar,N/A,N/A,500,"MBBS, MD - Medicine"
+205,Dr. Neeraj Awasthy,General Physician,19,Delhi,Saket,67% ,1,600,MBBS
+206,Dr. Sharwari Dabhade Dua,General Physician,10,Delhi,Greater Kailash Part 2,83% ,2,1500,"MD - General Medicine, MBBS, Post Graduate Diploma in Endocrinology"
+207,Dr. Navin Dalal,Internal Medicine,14,Delhi,Saket,N/A,N/A,1000,"MBBS, MD - General Medicine"
+208,Dr. Thara Fotedar,General Physician,21,Delhi,Malviya Nagar,100% ,1,600,MD - Physician
+209,Dr. Abha Rathore,General Physician,3 ,Delhi,Dwarka Sector 19,N/A,N/A,200,"MBBS, MD - Biochemistry"
+210,Dr. Ankit Tyagi,General Physician,7 ,Delhi,Madhu Vihar,100% ,N/A,700,"MBBS, MD - General Medicine"
+211,Dr. Ashok Kumar,General Physician,19,Delhi,Saket,N/A,N/A,1500,"MBBS, MD - General Medicine"
+212,Dr. Nidhi Rawal,General Physician,11,Delhi,Malviya Nagar,67% ,N/A,1600,"MBBS, Diplomate of the American Board of Paediatrics"
+213,Dr. Abhimanyou Singh Jasrotia,General Physician,1 ,Delhi,Palam Village,N/A,N/A,500,MBBS
+214,Dr. Neeraj Pasricha,Homoeopath,40,Delhi,Paschim Vihar,93% ,67,1000,"MD - Homeopathy, DHMS (Diploma in Homeopathic Medicine and Surgery)"
+215,Dr. Ajay Kumar Ajmani,Endocrinologist,38,Delhi,Pusa Road,89% ,23,1600,"MBBS, MD - General Medicine, DM - Endocrinology"
+216,Dr. Deep Goel,Bariatric Surgeon,31,Delhi,Pusa Road,75% ,2,1500,"MBBS, DNB - General Surgery"
+217,Dr. Sourabh Nagpal,Dentist,17,Delhi,Vasant Vihar,99% ,621,500,"BDS, MDS - Prosthodontics, Fellowship and Diplomate in Implantology from ICOI (USA), PGDE (Cosmetic & Esthetic Dentist)"
+218,Dr. Sapan Vinayak,Pediatrician,22,Delhi,Vasant Kunj,98% ,113,1000,"MBBS, Diploma in Child Health (DCH)"
+219,Dr. Manish Jain,Psychiatrist,19,Delhi,Pusa Road,98% ,82,1800,"MBBS, M.D. (Psychiatry)"
+220,Dr. Ruchi Gupta,Dentist,15,Delhi,Pitampura,97% ,73,300,BDS
+221,Dr. Rajesh Bawari,Orthopedist,32,Delhi,Panchsheel Park,91% ,7,1400,"MBBS, Diploma in Anesthesiology, MS - Orthopaedics"
+222,Dr. Malvika Sabharwal,Gynecologist/Obstetrician,41,Delhi,Karol Bagh,88% ,45,1050,"MBBS, DGO"
+223,Dr. Shriyans Jain,Sexologist,17,Delhi,Karol Bagh,82% ,89,900,MBBS
+224,Dr. Col Akhil Mishra V S M,Nephrologist,56,Delhi,Sarita Vihar,100% ,3,2500,"MBBS, MD - General Medicine, DM - Nephrology"
+225,Dr. Sandeep Bhasin,General Surgeon,27,Delhi,CR Park,90% ,30,1000,"MS - General Surgery, MBBS"
+226,Dr. Ashok Kumar Dutta,Pediatrician,51,Delhi,Sarita Vihar,100% ,3,1000,"MBBS, MD - Pediatrics"
+227,Dr. Neeraj Bhalla,Cardiologist,39,Delhi,Pusa Road,95% ,13,1800,"MBBS, MD - Medicine, DM - Cardiology, FACC"
+228,Dr. Amit Agarwal,Laparoscopic Surgeon,19,Delhi,Pusa Road,100% ,14,1800,"MBBS, MS - General Surgery, DNB - General Medicine"
+229,Dr. Gaurav Sagar,Nephrologist,26,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, MD - Medicine, DNB - Nephrology"
+230,Dr. Keerti Khetan,Gynecologist/Obstetrician,29,Delhi,Pusa Road,92% ,9,1500,"MBBS, MS - Obstetrics & Gynaecology"
+231,Dr. Aparna Singhal,Dentist,14,Delhi,Punjabi Bagh,98% ,93,300,"BDS, MDS - Prosthodontics"
+232,Dr. J.C Vij,Gastroenterologist,52,Delhi,Pusa Road,85% ,12,1500,"MBBS, MD - Medicine, DM - Gastroenterology"
+233,Dr. Chanchal Pal,Ear-Nose-Throat (ENT) Specialist,38,Delhi,Sarita Vihar,72% ,19,2000,"MBBS, MS - ENT"
+234,Dr. Manish Agarwal,General Surgeon,25,Delhi,Panchsheel Park,93% ,16,1000,"MBBS, MS - General Surgery"
+235,Dr. Mahesh Shah,Ayurveda,53,Delhi,Patel Nagar East,93% ,341,50,BSAM
+236,Dr. Arun Antony,Urologist,13,Delhi,Pusa Road,99% ,180,1200,N/A
+237,Dr. Nityanand Tripathi,Cardiologist,30,Delhi,Shalimar Bagh,87% ,3,1200,N/A
+238,Dr. Vaishali Sharma,Gynecologist/Obstetrician,17,Delhi,Panchsheel Park,99% ,351,2000,"MBBS, MD - Obstetrics & Gynaecology"
+239,Dr. Shikha Gurnani,Gynecologist/Obstetrician,19,Delhi,Dwarka,98% ,654,800,"MBBS, DNB - Obstetrics & Gynecology"
+240,Dr. Shikha Gurnani,Gynecologist/Obstetrician,19,Delhi,Dwarka,98% ,654,800,"MBBS, DNB - Obstetrics & Gynecology"
+241,Dr. Sajal Ajmani,Rheumatologist,11,Delhi,Pusa Road,98% ,36,1200,"MBBS, MD - Medicine, MRCP (UK), DM - Clinical Immunology and Rheumatology"
+242,Dr. Neema Sharma,Gynecologist/Obstetrician,26,Delhi,Vasant Kunj,95% ,42,1200,"MBBS, MD - Obstetrics & Gynaecology, MRCOG(UK)"
+243,Dr. Paras Agarwal,Endocrinologist,15,Delhi,Panchsheel Park,97% ,93,1200,"MRCP (UK), MBBS, MD - Community Medicine"
+244,Dr. Monica Mahajan,Internal Medicine,28,Delhi,Panchsheel Park,98% ,26,1500,"MBBS, DNB - General Medicine"
+245,Dr. Sanjeev Gulati,Nephrologist,37,Delhi,Vasant Kunj,80% ,8,1500,"MBBS, MD - Pediatrics, DNB - Paediatrics, DM - Nephrology, DNB - Nephrology"
+246,Dr. Amite Pankaj Aggarwal,Orthopedist,25,Delhi,Shalimar Bagh,96% ,164,1200,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+247,Dr. Meeka Gulati,Dentist,15,Delhi,Janakpuri,97% ,108,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+248,Dr. Manish Sarkar,Psychiatrist,20,Delhi,CR Park,96% ,233,1800,"MBBS, DPM (Psychiatry)"
+249,Dr. Yash Anand,Dentist,13,Delhi,Vikas Puri,97% ,85,300,"MDS - Orthodontics, BDS"
+250,Dr. Sohan Lal Broor,Gastroenterologist,55,Delhi,Sarita Vihar,80% ,4,1500,"MBBS, MD - Medicine, DM - Gastroenterology"
+251,Dr. Prem Narayan Dubey,Pediatrician,56,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MD - Pediatrics"
+252,Dr. Kalyanpury Jawaharlal Choudhury,Pain Management Specialist,52,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, MD - Anaesthesiology, MNAMS - Anesthesia"
+253,Dr. Pradeep Jain,GastroIntestinal Surgeon,36,Delhi,Shalimar Bagh,85% ,24,1500,"MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery, MCh - Surgical Oncology"
+254,Dr. Rakesh Kumar,Ophthalmologist,17,Delhi,Panchsheel Park,97% ,86,1000,"MBBS, MS - Ophthalmology"
+255,Dr. Mary Abraham,Pain Management Specialist,34,Delhi,Panchsheel Park,100% ,5,1500,"MBBS, MD - Anaesthesiology, DNB - Anaesthesia"
+256,Dr. Sirisha Singh,Dermatologist,28,Delhi,Greater Kailash Part 1,98% ,94,1500,"MBBS, MD - Dermatology , Venereology & Leprosy"
+257,Dr. Kumar Ankur,Pediatrician,20,Delhi,Pusa Road,100% ,14,1100,"MBBS, MD - Pediatrics, DNB - Neonatology"
+258,Dr. Sudha Asokan,Ayurveda,43,Delhi,Safdarjung Enclave,96% ,99,1200,"BAMS, MD - Ayurveda Medicine"
+259,Dr. Rakesh Kumar Dua,Neurosurgeon,44,Delhi,Shalimar Bagh,75% ,5,1200,"MBBS, MCh - Neuro Surgery"
+260,Dr. Dhwani Mago,Gynecologist/Obstetrician,15,Delhi,Greater Kailash Part 1,100% ,89,1000,"DGO, MBBS"
+261,Dr. Sonal Gupta,Neurosurgeon,30,Delhi,Shalimar Bagh,91% ,2,1200,"MBBS, MCh - Neuro Surgery"
+262,Dr. Mohit Jain,General Surgeon,22,Delhi,Pusa Road,97% ,19,1800,"MBBS, MS - General Surgery"
+263,Dr. Manoj Miglani,Orthopedist,25,Delhi,Vasant Kunj,81% ,5,1000,"MBBS, MS - Orthopaedics"
+264,Dr. Glossy Sabharwal,Radiologist,18,Delhi,Karol Bagh,100% ,N/A,550,"MBBS, MD - Radio Diagnosis/Radiology"
+265,Dr. B K Agarwal,Ear-Nose-Throat (ENT) Specialist,37,Delhi,Janakpuri,98% ,140,700,"MBBS, MS - ENT"
+266,Dr. A J Kanwar,Dermatologist,51,Delhi,Greater Kailash Part 1,95% ,381,1500,"MBBS, MD - Dermatology and Venerology"
+267,Dr. Rajan Madan,General Surgeon,40,Delhi,Pusa Road,100% ,2,1800,"MBBS, MS - General Surgery"
+268,Dr. Deepti  Shrivastava,Dermatologist,27,Delhi,Anand Vihar,95% ,300,800,"MBBS, Diploma in Dermatology"
+269,Dr. Gautam Banga,Urologist,17,Delhi,Greater Kailash Part 1,91% ,28,1300,"MBBS, MS - General Surgery, MCh - Urology"
+270,Dr. B. B. Aggarwal,Pediatrician,33,Delhi,Pusa Road,100% ,N/A,1300,"MBBS, DNB - Paediatrics, Diploma in Child Health (DCH)"
+271,Dr. Ankit Jain,Dentist,10,Delhi,Tri Nagar,100% ,68,300,"BDS, MDS - Oral Medicine and Radiology"
+272,Dr. Arush Sabharwal,Bariatric Surgeon,13,Delhi,Karol Bagh,100% ,1,850,"MBBS, MS - General Surgery"
+273,Dr. K.N. Srivastava,Laparoscopic Surgeon,49,Delhi,Pusa Road,78% ,3,1800,"MBBS, MS - General Surgery"
+274,Dr. Sushil Sharma,Orthopedist,37,Delhi,Mayur Vihar Ph-II,93% ,29,700,"MBBS, Diploma in Orthopaedics"
+275,Dr. Prita Trehan,Pediatrician,51,Delhi,Sarita Vihar,100% ,1,2000,"MBBS, MD - Pediatrics"
+276,Dr. Subhash.C.Gupta,Dentist,54,Delhi,Munirka,97% ,15,1000,"BDS, MDS - Periodontics"
+277,Dr. Shanti Swaroop Dhar,Gastroenterologist,22,Delhi,Panchsheel Park,92% ,11,1500,"MBBS, MD - General Medicine, DM - Gastroenterology"
+278,Dr. Sudhir Kumar,General Surgeon,26,Delhi,Sarita Vihar,100% ,2,1700,"MBBS, MS - General Surgery"
+279,Dr. Shoaib Zaidi,Oncologist,27,Delhi,Sarita Vihar,100% ,4,1000,"MBBS, DNB - General Surgery, MCh - Surgical Oncology"
+280,Dr. Shakti Bhan Khanna,Gynecologist/Obstetrician,58,Delhi,Sarita Vihar,100% ,4,2000,"MBBS, MD - Obstetrics & Gynaecology"
+281,Dr. Sushma Sinha,Gynecologist/Obstetrician,36,Delhi,Sarita Vihar,100% ,N/A,2000,"MBBS, MD - Obstetrics & Gynaecology, MRCOG(UK)"
+282,Dr. Puneet Mishra,Orthopedist,22,Delhi,Shalimar Bagh,100% ,4,1000,"MBBS, MS - Orthopaedics"
+283,Dr. Rohit Garg,Psychiatrist,19,Delhi,CR Park,96% ,148,4000,"MBBS, M.D. (Psychiatry)"
+284,Dr. Prof. Vipul Vijay,Orthopedist,16,Delhi,Mayur Vihar Ph-II,99% ,110,800,"MBBS, MS - Orthopaedics"
+285,Dr. Prof. Sadhana Kala,Gynecologist/Obstetrician,44,Delhi,Kalkaji,98% ,212,1500,"MBBS, MS - Obstetrics & Gynaecology"
+286,Dr. Parinita Kalita,Gynecologist/Obstetrician,32,Delhi,IP Extension,89% ,177,700,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+287,Dr. R K Alwadhi,Pediatrician,26,Delhi,Pusa Road,100% ,N/A,1100,"MD - Pediatrics, DNB - Paediatrics, MBBS"
+288,Dr. Pratibha Gupta,Gynecologist/Obstetrician,21,Delhi,Janakpuri,95% ,377,600,"MBBS, MS - Obstetrics & Gynaecology"
+289,Dr. Ankit Parakh,Pediatrician,20,Delhi,Pusa Road,95% ,6,1000,"MBBS, MD - Pediatrics, DNB - Paediatrics"
+290,Dr. Gurmeet Bansal,Gynecologist/Obstetrician,35,Delhi,Nehru Place,71% ,3,1200,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+291,Dr. Prof Padmashree J M Hans,Ear-Nose-Throat (ENT) Specialist,44,Delhi,Anand Lok,87% ,29,1500,"MBBS, MS - ENT, Diploma in Otorhinolaryngology (DLO)"
+292,Dr. Gayatri Bala Juneja,Gynecologist/Obstetrician,29,Delhi,Model Town,99% ,84,1500,"MBBS, DGO, DNB - Obstetrics & Gynecology, MRCOG(UK)"
+293,Dr. Raj Arya,Dentist,25,Delhi,Dwarka,98% ,46,500,BDS
+294,Dr. Sonia Naik,Gynecologist/Obstetrician,29,Delhi,Panchsheel Park,62% ,15,1200,"MBBS, MD - Obstetrics & Gynaecology"
+295,Dr. Rajesh Taneja,Urologist,36,Delhi,Sarita Vihar,80% ,4,1500,"MBBS, MS - General Surgery, MCh - Urology"
+296,Dr. Shelley Hukku,Oncologist,41,Delhi,Pusa Road,100% ,N/A,1800,"MBBS, MD - Radiotherapy"
+297,Dr. Neeraj Verma,Dentist,45,Delhi,Sarita Vihar,67% ,2,1000,BDS
+298,Dr. Sunita Lulla Gur,Ophthalmologist,32,Delhi,Sarita Vihar,99% ,606,600,"MBBS, MS - Ophthalmology"
+299,Dr. Aman Popli,Dentist,26,Delhi,Panchsheel Park,100% ,N/A,1200,"BDS, MDS - Prosthodontics"
+300,Dr. Sumeet Rastogi,Orthopedist,19,Delhi,Panchsheel Park,100% ,N/A,1400,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+301,Dr. Sumanto Bagchi,Dentist,16,Delhi,Dwarka,99% ,211,400,BDS
+302,Dr. H.S.Bhatyal,Urologist,50,Delhi,Pusa Road,56% ,3,1500,"MBBS, MS - General Surgery, MCh - Urology"
+303,Dr. Neha Berry,Gastroenterologist,11,Delhi,Pusa Road,88% ,5,1000,"MBBS, MD - General Medicine, DM - Gastroenterology"
+304,Dr. Mridul Seth,Dentist,30,Delhi,Panchsheel Park,97% ,39,1200,"BDS, MDS"
+305,Dr. Pawan Kumar,Pediatrician,21,Delhi,Malviya Nagar,99% ,418,1100,"MBBS, MD - Pediatrics"
+306,Dr. Vijay Abbot,Sexologist,48,Delhi,Patel Nagar East,82% ,192,50,G.A.M.S
+307,Dr. Ashok Damir,Internal Medicine,33,Delhi,Pusa Road,73% ,2,1200,"MBBS, MD - General Medicine"
+308,Dr. Ekta Narula,Dentist,24,Delhi,New Rajendra Nagar,98% ,57,600,BDS
+309,Dr. Ritesh Gupta,Internal Medicine,27,Delhi,Nehru Place,95% ,7,1500,"MBBS, MD - General Medicine"
+310,Dr. (Lt Gen) CS Narayanan,Neurologist,42,Delhi,Dwarka Sector 6,92% ,140,1100,"MBBS, MD - Medicine, DM - Neurology"
+311,Dr. Subhash Chandra,Cardiologist,38,Delhi,Pusa Road,75% ,3,2000,"MBBS, MD - General Medicine, DNB - Cardiology, DM - Cardiology"
+312,Dr. Sushil Kumar Jain,Laparoscopic Surgeon,36,Delhi,Sarita Vihar,100% ,7,2000,"MBBS, MS - General Surgery"
+313,Dr. Muneendra Gupta,Laparoscopic Surgeon,46,Delhi,Vasant Kunj,85% ,19,1500,"MBBS, MS - General Surgery"
+314,Dr. Sutopa Banerjee,Gynecologist/Obstetrician,25,Delhi,Vasant Kunj,97% ,757,1200,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+315,Dr. Richa Chaturvedi,Diabetologist,17,Delhi,Sarita Vihar,81% ,6,1500,"MBBS, MD - General Medicine, DM - Endocrinology"
+316,Dr. Anuradha Dakour,Gynecologist/Obstetrician,18,Delhi,Lajpat Nagar,97% ,197,500,"MBBS, DGO"
+317,Dr. Sumit Datta,Dentist,25,Delhi,Panchsheel Park,100% ,N/A,1200,"BDS, MDS - Orthodontics"
+318,Dr. Rajagopalan Krishnan,Orthopedist,46,Delhi,Sarita Vihar,50% ,N/A,2000,"MBBS, MS - Orthopaedics"
+319,Dr. Kalpana Aggrawal,Gynecologist/Obstetrician,19,Delhi,Dwarka,91% ,325,500,"MBBS, MS - Obstetrics & Gynaecology"
+320,Dr. Rakesh Singh,Ear-Nose-Throat (ENT) Specialist,16,Delhi,Panchsheel Park,100% ,3,1000,"MBBS, MS - ENT"
+321,Dr. Mayur Dass,Gynecologist/Obstetrician,19,Delhi,Vasundhra Enclave,97% ,124,600,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+322,Dr. Madhu Ahuja,Gynecologist/Obstetrician,38,Delhi,Patparganj,93% ,24,1100,"MBBS, MD - Obstetrics & Gynaecology, MRCOG(UK)"
+323,Dr. Shalini Agarwal,Gynecologist/Obstetrician,22,Delhi,Patparganj,99% ,197,1100,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+324,Dr. Vineeta Goel,Oncologist,22,Delhi,Shalimar Bagh,100% ,N/A,1000,"MBBS, DNB - Radiotherapy"
+325,Dr. Rajesh Verma,Orthopedist,17,Delhi,Pusa Road,100% ,1,1800,"MD - Physician, DNB - Orthopedics/Orthopedic Surgery"
+326,Dr. Ramji Mehrotra,Cardiothoracic Surgeon,32,Delhi,Pusa Road,80% ,1,2200,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+327,Dr. Naresh Kumar Goyal,Cardiologist,19,Delhi,Shalimar Bagh,100% ,2,1800,"MBBS, MD - Medicine, DM - Cardiology"
+328,Dr. Saket Goel,General Surgeon,30,Delhi,Greater Kailash Part 2,98% ,143,1200,"MBBS, MS - General Surgery"
+329,Dr. Neel Shah,General Surgeon,36,Delhi,Sarita Vihar,100% ,1,2000,"MBBS, DNB - General Surgery"
+330,Dr. Vivek Gupta,Cardiologist,34,Delhi,Sarita Vihar,71% ,6,2500,"MBBS, MD - General Medicine, DM - Cardiology"
+331,Dr. Shivani Agarwal,Dentist,22,Delhi,Sarita Vihar,99% ,36,1000,"BDS, MDS - Conservative Dentistry & Endodontics"
+332,Dr. Ashish Saini,Urologist,19,Delhi,Greater Kailash Part 1,94% ,118,1100,"MBBS, MS - General Surgery, MCh - Urology, DNB - Urology/Genito - Urinary Surgery"
+333,Dr. Tarun Kapur,Ophthalmologist,24,Delhi,Panchsheel Park,90% ,1,1000,"MBBS, MS - Ophthalmology"
+334,Dr. Alka Sinha,Gynecologist/Obstetrician,22,Delhi,Pusa Road,62% ,16,1300,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+335,Dr. Anoop Kohli,Neurologist,42,Delhi,Sarita Vihar,60% ,10,1500,"MBBS, MD - Pharmacology and Therapeutics, DM - Neurology"
+336,Dr. Vinay Aggarwal,Orthopedist,16,Delhi,Panchsheel Park,94% ,47,1200,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+337,Dr. Vikas Jain,Urologist,22,Delhi,Shalimar Bagh,100% ,N/A,1500,"MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery"
+338,Dr. K K Pandey,Vascular Surgeon,28,Delhi,Sarita Vihar,100% ,2,2200,"MBBS, PhD - Cardio Thoracic & Vascular Surgery, MS - General Surgery"
+339,Dr. Vikas Panwar,General Surgeon,27,Delhi,Panchsheel Park,60% ,5,1000,"MBBS, MS - General Surgery"
+340,Dr. Shruti Gupta,Dermatologist,12,Delhi,Kamla Nagar,99% ,1496,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+341,Dr. Deepak Chaudhary,Orthopedist,39,Delhi,Pusa Road,50% ,5,1700,"MBBS, MS - Orthopaedics"
+342,Dr. Chhavi Bansal,Homoeopath,11,Delhi,Pitampura,98% ,103,500,"BHMS, MS - Psychology"
+343,Dr. Richa seth,Gynecologist/Obstetrician,14,Delhi,Panchsheel Park,N/A,N/A,1200,"MBBS, DNB - Obstetrics & Gynecology"
+344,Dr. Jayant Jaswal,Ear-Nose-Throat (ENT) Specialist,35,Delhi,Dwarka,89% ,114,1000,"MBBS, MS - ENT, DNB - Otorhinolaryngology"
+345,Dr. Sandeep Sindhu,Ear-Nose-Throat (ENT) Specialist,37,Delhi,Sarita Vihar,93% ,9,1500,"MBBS, MS - ENT"
+346,Dr. Namita Karna,Dentist,24,Delhi,Panchsheel Park,33% ,2,1000,"BDS, MDS - Periodontology and Oral Implantology"
+347,Dr. Rajni Farmania,Pediatric Neurologist,10,Delhi,Pusa Road,83% ,3,1200,"DM - Pediatric Neurology, MBBS, MD - Pediatrics"
+348,Dr. Jasleen Kaur Malhotra,Gynecologist/Obstetrician,23,Delhi,Dwarka,98% ,382,600,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+349,Dr. Manorama Bhutani,Gynecologist/Obstetrician,64,Delhi,Greater Kailash Part 2,83% ,4,1200,"MBBS, MD - Obstetrics & Gynaecology"
+350,Dr. Vinay Singh,Dermatologist,27,Delhi,Pitampura,92% ,176,1400,"MBBS, MD - Dermatology"
+351,Dr. Jayant Kumar Hota,Nephrologist,23,Delhi,Sarita Vihar,100% ,N/A,1500,"MBBS, MD - Medicine, DM - Nephrology"
+352,Dr. Shiv Chouksey,Orthopedist,14,Delhi,Pusa Road,N/A,N/A,1100,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics"
+353,Dr. Poonam Pasricha,Homoeopath,37,Delhi,Paschim Vihar,100% ,1,700,BHMS
+354,Dr. Amit Agarwal,Oncologist,30,Delhi,Shalimar Bagh,100% ,4,1200,"MBBS, MD - Medicine, DM - Medical Oncology"
+355,Dr. Shikha Mahajan,Pediatrician,32,Delhi,Pusa Road,40% ,5,1100,"MBBS, DNB - Paediatrics"
+356,Dr. Lalit Bafna,Orthopedist,11,Delhi,Greater Kailash Part 1,100% ,91,1000,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FNB - Sports Medicine"
+357,Dr. Sneh Khera,Homoeopath,37,Delhi,Lajpat Nagar 4,92% ,111,330,BHMS
+358,Dr. Naveen Gupta,Dentist,24,Delhi,Karol Bagh,97% ,205,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+359,Dr. Manish Kulshrestha,General Surgeon,23,Delhi,Shalimar Bagh,40% ,4,1000,"MBBS, MS - General Surgery"
+360,Dr. Anshul Gupta,General Surgeon,16,Delhi,Panchsheel Park,100% ,3,1000,"MBBS, MS - General Surgery"
+361,Dr. Prateek Sondhi,Dermatologist,12,Delhi,South Extension 2,97% ,364,1200,"MBBS, MD - Dermatology , Venereology & Leprosy"
+362,Dr. Swati Bhardwaj,Pediatrician,13,Delhi,Pusa Road,100% ,1,1100,"MBBS, MD - Pediatrics"
+363,Dr. Sugandha Gupta,Psychiatrist,17,Delhi,Karol Bagh,96% ,112,1200,"MBBS, DNB - Psychiatry"
+364,Dr. Saloni Arora,Gynecologist/Obstetrician,12,Delhi,Pusa Road,100% ,1,1200,"MBBS, MD - Obstetrics & Gynaecology"
+365,Dr. Manish Gupta,Dentist,28,Delhi,Munirka,99% ,170,1000,"BDS, MDS - Conservative Dentistry & Endodontics"
+366,Dr. Sanjay Jain,Gastroenterologist,46,Delhi,Sarita Vihar,75% ,1,1500,"MBBS, MD - General Medicine, MRCP (UK), FRCP - Gastroenterology, FRCP - Gastroenterology"
+367,Dr. Tina Goel,Pediatrician,21,Delhi,Dwarka,98% ,98,600,"MBBS, DNB - Paediatrics"
+368,Dr. Sameer Kaul,General Surgeon,29,Delhi,Sarita Vihar,50% ,1,3000,"MBBS, MS - General Surgery"
+369,Dr. Anil Raheja,Orthopedist,25,Delhi,Karol Bagh,78% ,4,1050,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics"
+370,Dr. Vijay Singhal,Dermatologist,17,Delhi,Punjabi Bagh,93% ,151,800,"MBBS, MD - Dermatology"
+371,Dr. S K Agarwal,Internal Medicine,53,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MD - General Medicine & Therapeutics"
+372,Dr. Prashanta Kumar Ghosh,Cardiologist,48,Delhi,Sarita Vihar,100% ,1,1500,"MBBS, MD - General Medicine, DM - Cardiology"
+373,Dr. Rajesh Kumar Watts,Plastic Surgeon,18,Delhi,Sarita Vihar,100% ,N/A,2000,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+374,Dr. Nivedita Pandey,Gastroenterologist,16,Delhi,Panchsheel Park,85% ,11,1500,"MBBS, Diplomate of American Board of Internal Medicine (Internal Medicine), Diplomate of American Board of Internal Medicine (Gastroenterology)"
+375,Dr. Amit Garg,Psychiatrist,19,Delhi,Rohini Sector 9,97% ,93,1500,"MBBS, M.D. (Psychiatry)"
+376,Dr. Shishir Seth,Hematologist,17,Delhi,Sarita Vihar,80% ,3,2000,"DM - Clinical Haematology, MBBS, MD - Pathology"
+377,Dr. Kalpana Nagpal,Ear-Nose-Throat (ENT) Specialist,32,Delhi,Sarita Vihar,57% ,10,1500,"MBBS, MS - ENT, DNB - Otorhinolaryngology"
+378,Dr. Neatu Narang,Psychiatrist,34,Delhi,Sarita Vihar,57% ,6,2500,"MBBS, M.D. (Psychiatry), DNB - Psychiatry"
+379,Dr. Hemant Sharma,Dermatologist,47,Delhi,Pusa Road,96% ,42,1500,"MBBS, MD - Dermatology , Venereology & Leprosy"
+380,Dr. Payal Pal   (Physiotherapist),Physiotherapist,17,Delhi,Dwarka,99% ,180,500,"MPTh/MPT - Musculoskeletal Physiotherapy, BPTh/BPT"
+381,Dr. D Mukherjee,Nephrologist,31,Delhi,Pusa Road,67% ,N/A,1800,"DM - Nephrology, MD - General Medicine, MBBS"
+382,Dr. Harsh Dua,Internal Medicine,49,Delhi,Sarita Vihar,100% ,2,2000,"MBBS, MD - Medicine"
+383,Dr. Vivek Mittal,Orthopedist,29,Delhi,Pusa Road,100% ,4,1500,"MBBS, MS - Orthopaedics"
+384,Dr. Anshuman Agarwal,Urologist,26,Delhi,Sarita Vihar,90% ,18,1500,"MBBS, MS - General Surgery, MCh - Urology/Genito-Urinary Surgery"
+385,Dr. Muthu Jothi,Thoracic (Chest) Surgeon,25,Delhi,Sarita Vihar,N/A,N/A,1500,"MCh - Thoracic Surgery, MS - General Surgery, MBBS"
+386,Dr. Jyoti Arora Monga,Ayurveda,22,Delhi,Lajpat Nagar,87% ,569,800,BAMS
+387,Dr. Poonam Khera,Gynecologist/Obstetrician,25,Delhi,Pusa Road,92% ,17,1300,"DGO, DNB - Obstetrics & Gynecology, MBBS"
+388,Dr. Janak Raj Sabharwal,Dentist,41,Delhi,Vikas Puri,96% ,63,1000,"BDS, MDS - Oral & Maxillofacial Surgery"
+389,Dr. V. K. Gupta,Pediatrician,48,Delhi,Dwarka Sector 12,95% ,36,800,"MD - Pediatrics, Diploma in Child Health (DCH), MBBS"
+390,Dr. V. K. Gupta,Pediatrician,48,Delhi,Dwarka Sector 12,95% ,36,800,"MD - Pediatrics, Diploma in Child Health (DCH), MBBS"
+391,Dr. Jasjit Singh Bhasin,Pediatrician,38,Delhi,Pusa Road,82% ,2,1400,"MBBS, MD - Pediatrics"
+392,Dr. Kunal Das,Gastroenterologist,26,Delhi,Dwarka Sector 6,83% ,66,1100,"MBBS, MD - General Medicine, DM - Gastroenterology"
+393,Dr. Amit Modi,Pediatrician,13,Delhi,Vasundhra Enclave,99% ,79,600,"MD - Pediatrics, MBBS"
+394,Dr. Shivani Sabharwal,Gynecologist/Obstetrician,17,Delhi,Karol Bagh,87% ,23,1050,"MBBS, MS - Obstetrics & Gynaecology"
+395,Dr. Sandeep Gupta,Dermatologist,18,Delhi,Hari Nagar,95% ,138,600,"MBBS, MD - Dermatology , Venereology & Leprosy"
+396,Dr. Harsh Goyal,Dentist,13,Delhi,Janakpuri,100% ,235,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+397,Dr. Chander Shekar,Orthopedist,42,Delhi,Sarita Vihar,100% ,1,1500,"MBBS, MS - Orthopaedics"
+398,Dr. S K Agarwal,Internal Medicine,42,Delhi,Sarita Vihar,75% ,2,1500,"MBBS, MD - General Medicine"
+399,Dr. S Mahanta,Orthopedist,26,Delhi,Dwarka,95% ,150,600,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+400,Dr. Rachna Sharma,Pediatrician,19,Delhi,Pusa Road,N/A,N/A,1000,"MBBS, MD - Pediatrics"
+401,Dr. Ashwini Goel,Nephrologist,39,Delhi,Pusa Road,75% ,N/A,1500,"MBBS, MD - Medicine, DM - Nephrology"
+402,Dr. Ajay K Tiwari,Pediatrician,35,Delhi,Vikas Puri,100% ,52,700,"MBBS, MD - Pediatrics"
+403,Dr. Lochan Arora   (Physiotherapist),Physiotherapist,13,Delhi,Gujranwala Town,96% ,82,400,"MPTh/MPT - Musculoskeletal Physiotherapy, DNHE, BPTh/BPT"
+404,Dr. Yashica Gudesar,Gynecologist/Obstetrician,23,Delhi,Dwarka Sector 6,95% ,194,900,"MBBS, DNB - Obstetrics & Gynecology"
+405,Dr. Animesh Agarwal,Dentist,16,Delhi,Kingsway Camp,99% ,901,200,"BDS, MDS - Orthodontics"
+406,Dr. Sudhir Seth,Orthopedist,40,Delhi,CR Park,83% ,51,1000,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+407,Dr. Neha Sood,Ear-Nose-Throat (ENT) Specialist,21,Delhi,Pusa Road,55% ,7,1800,"MBBS, DNB - Otorhinolaryngology"
+408,Dr. Asheesh Gupta,Dentist,23,Delhi,Paschim Vihar,95% ,150,250,"BDS, MDS - Prosthodontist And Crown Bridge, Certificate of Oral Implantology"
+409,Dr. Vibhu V Mittal,Gastroenterologist,20,Delhi,Patparganj,87% ,69,1000,"MBBS, MD - Medicine, DM - Gastroenterology"
+410,Dr. Vijay Kakkar,Plastic Surgeon,39,Delhi,Janakpuri,97% ,28,1000,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+411,Dr. Yogesh Batra,Gastroenterologist,23,Delhi,Sarita Vihar,90% ,6,1500,"MBBS, MD - Medicine, DM - Gastroenterology"
+412,Dr. Aman Arora,Dentist,30,Delhi,Ashok Vihar,98% ,104,500,"BDS, MDS - Prosthodontics"
+413,Dr. Dinesh Kansal,Gynecologist/Obstetrician,38,Delhi,Pusa Road,65% ,13,1500,"MBBS, MD - Obstetrics & Gynaecology, DGO, FCPS - Mid. & Gynae"
+414,Dr. Nidhi Bansal,Dentist,18,Delhi,Pitampura,98% ,161,200,BDS
+415,Dr. Rakesh Mahajan,Orthopedist,38,Delhi,Pusa Road,61% ,9,1500,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+416,Dr. Laxmi Mantri,Gynecologist/Obstetrician,35,Delhi,Pusa Road,82% ,3,1300,"MBBS, MS - Obstetrics & Gynaecology"
+417,Dr. Navin Pahwa,Dentist,26,Delhi,Rohini,90% ,10,300,"BDS, MDS - Periodontics"
+418,Dr. Tripti Sharan,Gynecologist/Obstetrician,29,Delhi,Pusa Road,64% ,4,1500,"MBBS, MS - Obstetrics & Gynaecology"
+419,Dr. Sachin Pruthi,Dentist,20,Delhi,Pitampura,99% ,240,300,BDS
+420,Dr. Geeta Chadha,Gynecologist/Obstetrician,39,Delhi,Nehru Place,75% ,10,2100,"MBBS, MD - Obstetrics & Gynaecology"
+421,Dr. Harveen Kaur,Gynecologist/Obstetrician,22,Delhi,Malviya Nagar,97% ,65,800,"MBBS, DNB - Obstetrics & Gynecology"
+422,Dr. Prof. Suraj R Suvarna,Dentist,22,Delhi,Sheikh Sarai,100% ,95,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+423,Dr. Radhika Sachdev,Pediatrician,24,Delhi,Dwarka,98% ,204,600,"MBBS, Diploma in Child Health (DCH)"
+424,Dr. Naresh Lal,Pediatrician,11,Delhi,Pusa Road,100% ,3,800,"MBBS, MD - Pediatrics, FNB - Pediatric Intensive Care"
+425,Dr. Jangid,Dermatologist,15,Delhi,Saket,94% ,423,1200,"MD - Dermatology , Venereology & Leprosy, MBBS"
+426,Dr. Niraj Rampal,Dentist,45,Delhi,Greater Kailash Part 2,100% ,18,1500,"BDS, MDS - Prosthodontics"
+427,Dr. Sachin Bansal,Dentist,20,Delhi,Pitampura,100% ,294,400,"BDS, MDS - Orthodontics"
+428,Dr. (Maj Gen.) Darshan Singh Bhakuni,Rheumatologist,40,Delhi,Dwarka Sector 6,100% ,279,1100,"MBBS, DNB - General Medicine, PGCC - Rheumatology"
+429,Dr. Vishal Arya,Dentist,24,Delhi,Pitampura,99% ,138,500,"BDS, MDS - Pedodontics, Certificate of Oral Implantology"
+430,Dr. Tyag Murti Sharma,Ophthalmologist,34,Delhi,Janakpuri,99% ,123,900,"MBBS, MD - Ophthalmology"
+431,Dr. Vishal Dutt Gour,Urologist,20,Delhi,Greater Kailash Part 1,89% ,10,1200,"MBBS, MS - General Surgery, MCh - Urology/Genito-Urinary Surgery"
+432,Dr. Amandeep Sapra,Dentist,22,Delhi,Lajpat Nagar,98% ,198,400,BDS
+433,Dr. Akash Sachdeva,Dentist,24,Delhi,Kirti Nagar,95% ,5,500,"MDS, BDS"
+434,Dr. Nargesh Agrawal,Orthopedist,15,Delhi,Pusa Road,100% ,1,1100,"MS - Orthopaedics, MBBS"
+435,Dr. Chandragouda Dodagoudar,Oncologist,22,Delhi,Pusa Road,N/A,N/A,1800,"MBBS, MD - General Medicine, DNB  - Medical Oncology"
+436,Dr. Munish Taneja,Ear-Nose-Throat (ENT) Specialist,25,Delhi,Dwarka,89% ,33,600,"MBBS, MS - ENT"
+437,Dr. Pardeep Bageja,Orthopedist,27,Delhi,Patel Nagar West,89% ,153,900,"DNB - Orthopedics/Orthopedic Surgery, MBBS"
+438,Dr. Simran Kataria,Dentist,16,Delhi,Saket,98% ,195,300,"BDS, MDS - Paedodontics And Preventive Dentistry"
+439,Dr. Mukesh Goel,General Surgeon,28,Delhi,Sarita Vihar,100% ,N/A,1200,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+440,Dr. Mukesh Goel,General Surgeon,28,Delhi,Sarita Vihar,100% ,N/A,1200,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+441,Dr. Dimple Arora,Dentist,25,Delhi,Ashok Vihar,100% ,68,500,BDS
+442,Dr. Anuneet Sabharwal,Psychiatrist,11,Delhi,Vivek Vihar,99% ,365,1000,"MBBS, M.D. (Psychiatry)"
+443,Dr. Bachan Singh Barthwal,General Surgeon,41,Delhi,Patparganj,96% ,48,1000,"MBBS, MS - General Surgery"
+444,Dr. Abhideep Chaudhary,General Surgeon,22,Delhi,Pusa Road,N/A,N/A,1500,"MBBS, MS - General Surgery"
+445,Dr. Sunita Verma,Gynecologist/Obstetrician,33,Delhi,Dwarka,92% ,36,1000,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+446,Dr. Sandeep Nayar,Pulmonologist,31,Delhi,Pusa Road,60% ,18,1500,"MBBS, MD - TB & Chest"
+447,Dr. Abhishek Arora,Dentist,20,Delhi,Malviya Nagar,99% ,544,500,BDS
+448,Dr. Shivani Mangal,Dentist,11,Delhi,Dwarka Sector 23,100% ,142,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+449,Dr. Ruchi Malhotra,Gynecologist/Obstetrician,30,Delhi,Kingsway Camp,90% ,76,700,"DGO, DNB - Obstetrics & Gynecology, MBBS"
+450,Dr. Anoop Ganjoo,Cardiothoracic Surgeon,43,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MS - General Surgery, MCh - Cardio Thoracic and Vascular Surgery"
+451,Dr. Neha Singhal,Dentist,15,Delhi,Kingsway Camp,99% ,19,200,"BDS, PhD - Orthodontics & Dentofacial Orthopaedics"
+452,Dr. Sanjeev K Garg,Dentist,28,Delhi,Pitampura,98% ,33,500,"BDS, Certificate of Oral Implantology"
+453,Dr. Madhu Sudan,Ayurveda,13,Delhi,Kalkaji,88% ,211,1000,BAMS
+454,Dr. Neha Khandelwal,Gynecologist/Obstetrician,17,Delhi,Greater Kailash Part 1,99% ,435,1200,"MBBS, MS - Obstetrics & Gynaecology"
+455,Dr. Ritu S Bhola,Dentist,18,Delhi,Vishnu Garden,91% ,10,250,BDS
+456,Dr. Sunil Kumar Dwivedi,Homoeopath,17,Delhi,Dwarka,94% ,138,400,"MD - Homeopathy, BHMS"
+457,Dr. Anjana Gulani,Pediatrician,27,Delhi,Vasant Kunj,95% ,23,700,"MBBS, Diploma in Child Health (DCH), DNB - Paediatrics"
+458,Dr. Divya Singhal,Gynecologist/Obstetrician,38,Delhi,Pitampura,98% ,92,900,"MBBS, DGO"
+459,Dr. Lubat Seth,Ophthalmologist,36,Delhi,Sarita Vihar,N/A,N/A,2000,"MBBS, DOMS, MS - Ophthalmology"
+460,Dr. Arihant Surana,Dermatologist,22,Delhi,Defence Colony,96% ,118,1000,"DDV, MBBS"
+461,Dr. Anita K Jain,Gynecologist/Obstetrician,23,Delhi,Paschim Vihar,98% ,57,600,"MBBS, DGO"
+462,Dr. Viraj Chopra,Dentist,31,Delhi,New Friends Colony,98% ,37,1000,"BDS, MDS - Operative Dentistry"
+463,Dr. Dipanjan Panda,Oncologist,15,Delhi,Sarita Vihar,50% ,2,1500,"MBBS, MD - General Medicine, DM - Medical Oncology"
+464,Dr. Manish Gupta,Ear-Nose-Throat (ENT) Specialist,22,Delhi,Greater Kailash Part 1,99% ,45,1000,"MBBS, MS - ENT"
+465,Dr. Rajneesh Gulati,Gastroenterologist,30,Delhi,Vikas Puri,65% ,49,1000,"MBBS, MD - Medicine, DM - Gastroenterology"
+466,Dr. Sushen Sharma,Dentist,13,Delhi,Patel Nagar West,99% ,93,200,"BDS, MDS - Prosthodontist And Crown Bridge"
+467,Dr. Kapil Garg,Dentist,17,Delhi,Pitampura,99% ,311,500,"BDS, MDS - Periodontics"
+468,Dr. Manisha Chopra,Dermatologist,24,Delhi,Greater Kailash Part 2,97% ,77,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+469,Dr. Arvinder Singh Chilana,General Surgeon,42,Delhi,Shalimar Bagh,67% ,1,1200,"MBBS, MS - General Surgery"
+470,Dr. Rajeev Nangia,Ear-Nose-Throat (ENT) Specialist,36,Delhi,Karol Bagh,60% ,3,1000,"MBBS, MS - ENT"
+471,Dr. Robin Khosa,Oncologist,14,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MD - Radiotherapy"
+472,Dr. Usha Maheshwari,Laparoscopic Surgeon,34,Delhi,Nehru Place,N/A,N/A,1000,"MBBS, MS - General Surgery"
+473,Dr. Aniel Malhotra,Ophthalmologist,32,Delhi,Sarita Vihar,100% ,N/A,2000,"MBBS, DO, MS - Ophthalmology"
+474,Dr. Gaurav Goel,Dentist,22,Delhi,Patparganj,98% ,38,500,BDS
+475,Dr. Prerna Taneja Mathur,Cosmetologist,22,Delhi,Jagriti Enclave,96% ,48,500,"BDS, MDS - Oral Medicine and Radiology, Fellowship in Medical Cosmetology (FMC)"
+476,Dr. Anoop Jain,Dentist,14,Delhi,Rohini,99% ,318,200,"BDS, MDS - Prosthodontist And Crown Bridge"
+477,Dr. Deepak Punhani,Dentist,23,Delhi,Vikas Puri,97% ,141,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+478,Dr. Suchindra Sachdeva,Homoeopath,36,Delhi,Sukhdev Vihar,99% ,67,1800,BHMS
+479,Dr. Pankaj Rao,Dentist,16,Delhi,Dwarka,98% ,721,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+480,Dr. Karishma Bhatia,Gynecologist/Obstetrician,11,Delhi,Rohini,97% ,76,500,"MBBS, MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, MNAMS - Obstetrics & Gynaecology"
+481,Dr. Mudasir Khan,Dermatologist,28,Delhi,Jasola,94% ,88,800,"MBBS, Masters in Clinical Dermatology"
+482,Dr. Pankaj Jain,Ophthalmologist,46,Delhi,Karol Bagh,67% ,4,1050,"MBBS, MS - Ophthalmology"
+483,Dr. Vishal Vaidya,Pediatrician,22,Delhi,Dwarka,98% ,42,800,"MBBS, Diploma in Child Health (DCH)"
+484,Dr. Sunil Kaul,General Surgeon,33,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, MS - General Surgery"
+485,Dr. Swapnil Gupta,Dentist,14,Delhi,Alaknanda,97% ,201,300,BDS
+486,Dr. Anuj Saigal,Dermatologist,14,Delhi,Green Park,97% ,131,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+487,Dr. Rajesh Kr. Bhardwaj,Ear-Nose-Throat (ENT) Specialist,39,Delhi,Vasant Vihar,97% ,230,2500,"MBBS, MS - ENT, DNB - ENT"
+488,Dr. Manak Gupta,Dentist,16,Delhi,Dwarka,99% ,328,500,"BDS, MDS - Periodontics"
+489,Dr. Neeti Sharma,Dentist,12,Delhi,Katwaria Sarai,96% ,63,350,BDS
+490,Dr. Deepa Sharma,Pediatrician,27,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, Diploma in Child Health (DCH), DNB - Paediatrics"
+491,Dr. Rajiv Mehta   (Physiotherapist),Physiotherapist,23,Delhi,Pitampura,97% ,196,500,BPTh/BPT
+492,Dr. Pooja Choudhary,Gynecologist/Obstetrician,22,Delhi,Safdarjung Enclave,96% ,121,900,"MD - Obstetrics & Gynaecology, MBBS"
+493,Dr. Kapil Gandhi,Dentist,25,Delhi,Kalkaji,98% ,121,800,"BDS, MDS - Paedodontics And Preventive Dentistry"
+494,Dr. Neetu Singh,Dentist,15,Delhi,Dwarka Sector 7,100% ,81,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+495,Dr. Saurabh Gupta,Dentist,28,Delhi,South Extension 2,97% ,84,700,"BDS, MDS - Prosthodontics"
+496,Dr. Rajat Sachdeva,Dentist,18,Delhi,Ashok Vihar,96% ,577,500,"BDS, MDS - Oral Pathology and Oral Microbiology"
+497,Dr. Mukul Prabhat,Dentist,14,Delhi,Shahdara,96% ,7,250,"BDS, MDS - Oral Medicine and Radiology, Certificate of Oral Implantology"
+498,Dr. Madhu Goel,Gynecologist/Obstetrician,29,Delhi,Greater Kailash Part 2,99% ,179,1200,"MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, MBBS, MNAMS - Obstetrics & Gynaecology"
+499,Dr. Akta Bajaj,Gynecologist/Obstetrician,25,Delhi,Paschim Vihar,96% ,47,700,"MBBS, MD - Obstetrics & Gynaecology"
+500,Dr. Pallavi Dhama,Dentist,12,Delhi,IP Extension,100% ,66,300,"BDS, MDS - Paedodontics And Preventive Dentistry"
+501,Dr. Anurag Krishna,Pediatric Surgeon,39,Delhi,Saket,88% ,12,1200,"MBBS, MS - General Surgery, MS - Paediatrics Surgery"
+502,Dr. Harveen Nakra,Dentist,22,Delhi,Punjabi Bagh,99% ,173,500,BDS
+503,Dr. Geeta Kalra,Dentist,22,Delhi,Lajpat Nagar,93% ,55,700,BDS
+504,Dr. Mehak Nagpal Sharma,Dentist,11,Delhi,Dwarka,100% ,89,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+505,Dr. Priya Oberoi,Dentist,21,Delhi,Kalkaji,97% ,35,500,BDS
+506,Dr. Aradhana Pandey,Veterinarian,24,Delhi,Rohini,90% ,92,500,Bachelor in Veterinary Science and Animal Husbandary (BVSc & AH)
+507,Dr. Rekha Sharma,Dentist,20,Delhi,Mayur Vihar Ph-II,100% ,24,600,BDS
+508,Dr. Smita Malhotra,Pediatrician,25,Delhi,Sarita Vihar,100% ,N/A,1500,"MBBS, DNB - Paediatrics"
+509,Dr. Deepti Rana,Dermatologist,16,Delhi,Panchsheel Park,86% ,30,1200,"MBBS, MD - Dermatology , Venereology & Leprosy"
+510,Dr. Shivani Kataria,Dentist,9 ,Delhi,Patel Nagar West,99% ,111,300,BDS
+511,Dr. Madhumani Kumra,Dentist,28,Delhi,Greater Kailash Part 1,99% ,96,750,"MDS - Oral Pathology and Oral Microbiology, BDS"
+512,Dr. Deepti Chhabra   (Physiotherapist),Physiotherapist,16,Delhi,Janakpuri,100% ,28,500,N/A
+513,Dr. Rima khanna,Neurologist,14,Delhi,Shalimar Bagh,40% ,16,1000,"MBBS, DNB - Neurology, DNB - General Medicine"
+514,Dr. Prachi Kohli,Dentist,13,Delhi,Kamla Nagar,100% ,45,300,"MDS - Periodontics, BDS"
+515,Dr. Raj Bokaria,Gynecologist/Obstetrician,46,Delhi,Greater Kailash Part 2,100% ,1,1500,"MBBS, MS - Obstetrics & Gynaecology"
+516,Dr. Yajvender Pratap Singh Rana,Urologist,18,Delhi,Pusa Road,77% ,12,1200,"MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery"
+517,Dr. C B Singh,Homoeopath,10,Delhi,Laxmi Nagar,91% ,404,500,BHMS
+518,Dr. Rajesh Madan,Cardiologist,17,Delhi,Dwarka,88% ,52,700,N/A
+519,Dr. Mansi Arora,Dentist,17,Delhi,Paschim Vihar,99% ,202,500,N/A
+520,Dr. Sajal Halder,Plastic Surgeon,26,Delhi,Lajpat Nagar,96% ,34,1000,"DNB - Plastic Surgery, MBBS, MS - General Surgery"
+521,Dr. Jyoti Ahlawat,Dentist,14,Delhi,Vasundhra Enclave,99% ,110,500,N/A
+522,Dr. Shilpa Kalra,Dentist,13,Delhi,Dwarka,100% ,30,400,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+523,Dr. Lalit K Garg,Orthopedist,16,Delhi,Vasant Kunj,90% ,196,800,"MBBS, MS - Orthopaedics"
+524,Dr. Divij Khanna,Dentist,13,Delhi,Saket,98% ,18,500,"BDS, MDS - Periodontology and Oral Implantology"
+525,Dr. Vivek Garg,Ophthalmologist,17,Delhi,Pusa Road,100% ,1,1000,"MBBS, DOMS"
+526,Dr. Ruchika Mittal   (PhD),Audiologist,19,Delhi,Rajouri Garden,97% ,205,900,"Ph. D - ENT, MSc. - Speech and Hearing, BSc - Speech & Hearing"
+527,Dr. Shilpa Dhameja,Gynecologist/Obstetrician,20,Delhi,Vasant Kunj,98% ,576,800,N/A
+528,Dr. Sanjay Kumar,Dentist,28,Delhi,CR Park,99% ,124,1000,N/A
+529,Dr. Kailash Nath Gupta,Pulmonologist,27,Delhi,Dwarka,94% ,346,800,"MD - Physician, DNB - Respiratory Diseases"
+530,Dr. Chandrashekhar,Cardiologist,18,Delhi,Shalimar Bagh,86% ,6,1200,"MBBS, MD - General Medicine, DM - Cardiology, FACC"
+531,Dr. Abhinav Gupta,Dentist,19,Delhi,Vijaynagar,98% ,123,500,BDS
+532,Dr. Ruchir Chawla,Dentist,12,Delhi,Katwaria Sarai,96% ,80,350,BDS
+533,Dr. Yachna Grover,Gynecologist/Obstetrician,30,Delhi,Greater Kailash Part 2,98% ,299,1200,"MBBS, DGO"
+534,Dr. Arvind Kumar,Diabetologist,24,Delhi,Dwarka,98% ,140,900,"MBBS, MD - Medicine"
+535,Dr. Samvedna Sindwani,Gynecologist/Obstetrician,13,Delhi,Vikas Puri,97% ,29,500,"MBBS, DGO"
+536,Dr. (Maj) Pankaj N Surange,Spine And Pain Specialist,26,Delhi,Dwarka Sector 19,97% ,317,1000,"MBBS, MD - Anaesthesiology"
+537,Dr. Jyoti Anand,Dentist,11,Delhi,Paschim Vihar,98% ,53,500,BDS
+538,Dr. Arun Kant,Dentist,12,Delhi,Dwarka,99% ,694,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+539,Dr. Sumit Dubey,Dentist,19,Delhi,Lajpat Nagar,96% ,33,500,BDS
+540,Dr. Sumit Dubey,Dentist,19,Delhi,Lajpat Nagar,96% ,33,500,BDS
+541,Dr. Praveen Sodhhi,General Surgeon,26,Delhi,Sarita Vihar,100% ,1,1500,"MBBS, MS - General Surgery"
+542,Dr. Jasbir Chandna,Gynecologist/Obstetrician,43,Delhi,Greater Kailash Part 2,92% ,6,1500,"MBBS, MD - Obstetrics & Gynaecology"
+543,Dr. Kamal Gandhi,Dentist,26,Delhi,Vasant Vihar,98% ,106,800,BDS
+544,Dr. Ashna Khanna,Dentist,12,Delhi,Saket,100% ,18,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+545,Dr. Vineet Jain,Dentist,20,Delhi,Pitampura,99% ,48,500,"BDS, MDS - Prosthodontics"
+546,Dr. Rita Bakshi,Gynecologist/Obstetrician,38,Delhi,Green Park,95% ,142,1500,"MBBS, MD - Obstetrics & Gynaecology, DGO"
+547,Dr. Anshul Gupta,Ear-Nose-Throat (ENT) Specialist,17,Delhi,Pitampura,83% ,116,800,"MBBS, DNB - ENT"
+548,Dr. Aparna Muddana,Gynecologist/Obstetrician,20,Delhi,Greater Kailash Part 2,100% ,17,800,"MBBS, MS - Obstetrics & Gynaecology"
+549,Dr. Simrata Garg,Dentist,13,Delhi,Paschim Vihar,99% ,99,500,N/A
+550,Dr. Garima Srivastav,Gynecologist/Obstetrician,10,Delhi,Pitampura,93% ,33,800,"MBBS, MD - Obstetrics & Gynaecology"
+551,Dr. Kamal Goyal,Ear-Nose-Throat (ENT) Specialist,14,Delhi,Dwarka,94% ,86,700,N/A
+552,Dr. Sumit Aggarwal,Dentist,11,Delhi,Kamla Nagar,98% ,51,300,BDS
+553,Dr. Navjot Singh Arora,Dermatologist,11,Delhi,Dwarka Sector 7,97% ,185,800,N/A
+554,Dr. Simran,Dentist,15,Delhi,Paschim Vihar,97% ,53,500,N/A
+555,Dr. Vinod Khanna,Dentist,13,Delhi,Ramesh Nagar,98% ,127,300,N/A
+556,Dr. Poonam Gupta,Ophthalmologist,27,Delhi,Shalimar Bagh,N/A,N/A,700,N/A
+557,Dr. Anupam Sinha,Dentist,20,Delhi,Greater Kailash Part 1,97% ,59,750,N/A
+558,Dr. Sarita Sharma,Pediatrician,20,Delhi,Sarvodaya Enclave,97% ,15,800,N/A
+559,Dr. Sadhna Singhal Vishnoi,Gynecologist/Obstetrician,28,Delhi,Punjabi Bagh,97% ,104,1000,N/A
+560,Dr. Naina Chopra,Dentist,16,Delhi,Ramesh Nagar,100% ,77,600,N/A
+561,Dr. Sonam Duggal,Dentist,13,Delhi,Uday Park,100% ,21,500,N/A
+562,Dr. Abhimanyu Kumar   (Physiotherapist),Physiotherapist,14,Delhi,Tagore Garden,100% ,107,400,N/A
+563,Dr. Vikas Taneja,Pediatrician,28,Delhi,Dwarka Sector 6,100% ,11,900,"DNB - Paediatrics, MBBS"
+564,Dr. Deepshikha Goel   (Physiotherapist),Physiotherapist,17,Delhi,Anand Vihar,100% ,25,500,N/A
+565,Dr. Indu Ballani,Dermatologist,17,Delhi,Pusa Road,91% ,18,1000,N/A
+566,Dr. Dheeraj Bhardwaj,Veterinarian,17,Delhi,Dwarka,99% ,144,700,N/A
+567,Dr. Anisha Sekhri   (Physiotherapist),Physiotherapist,14,Delhi,Preet Vihar,97% ,32,500,N/A
+568,Dr. Chhavi Bajaj,Dentist,6 ,Delhi,Dwarka Sector 3,100% ,38,350,N/A
+569,Dr. Vijay Tanwar,Dentist,10,Delhi,Chattarpur,98% ,76,500,N/A
+570,Dr. Puneet Bedi,Gynecologist/Obstetrician,42,Delhi,Sarita Vihar,40% ,3,2000,"MBBS, MD - Obstetrics & Gynaecology"
+571,Dr. Karuna Bector  Arora,Dentist,11,Delhi,Vasant Vihar,100% ,13,500,"MDS - Orthodontics and Dentofacial Orthopaedics, BDS"
+572,Dr. Ajay Pal Singh,Ayurveda,14,Delhi,Tilak Nagar,86% ,126,1500,BAMS
+573,Dr. Jasneet Singh,Dentist,15,Delhi,Paschim Vihar,97% ,150,600,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+574,Dr. Pradeep Bansal,Dermatologist,19,Delhi,Shalimar Bagh,97% ,149,900,"MBBS, MD - Skin & VD"
+575,Dr. Poonam Yadav,Dentist,9 ,Delhi,Dwarka,100% ,98,400,N/A
+576,Dr. Srijan Shilpi,Dentist,10,Delhi,Saket,99% ,38,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics, Certificate in Cosmetic Dentistry"
+577,Dr. Amandeep Singh Arora,Dentist,8 ,Delhi,Vasant Vihar,99% ,52,500,MDS - Paedodontics And Preventive Dentistry
+578,Dr. Anashwar Bhalla,Dentist,13,Delhi,Nizamuddin East,100% ,149,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+579,Dr. Ferah Khanna,Dentist,12,Delhi,Ramesh Nagar,100% ,27,500,N/A
+580,Dr. Major Vipin Kumar,Dentist,16,Delhi,Greater Kailash Part 1,95% ,58,600,"BDS, MDS - Periodontics"
+581,Dr. Vidhya Vasanth,Dentist,8 ,Delhi,Jangpura,100% ,16,200,N/A
+582,Dr. Shivesh Mishra,Dentist,10,Delhi,Preet Vihar,98% ,34,400,"BDS, MDS - Periodontics"
+583,Dr. Puja Sharma,Gynecologist/Obstetrician,18,Delhi,Hauz Khas,98% ,163,1000,"MD - Obstetrics & Gynaecology, MBBS"
+584,Dr. Ramandeep Singh Chawla,Dentist,12,Delhi,Janakpuri,100% ,40,600,"BDS, MDS - Oral & Maxillofacial Surgery"
+585,Dr. Amit Sagar,Dentist,14,Delhi,Vasant Kunj,99% ,88,700,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+586,Dr. Ajaz Ahmad,Physiotherapist,16,Delhi,Saket,94% ,194,700,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy, Diploma in Physiotherapy"
+587,Dr. Sangeeta Mutreja,Ophthalmologist,37,Delhi,Dwarka,89% ,20,500,"MBBS, DO"
+588,Dr. Anukriti Bansal Aggarwal,Dentist,10,Delhi,Rohini Sector 18,100% ,72,400,BDS
+589,Dr. Surpreet Bhandari,Dentist,10,Delhi,Laxmi Nagar,100% ,79,500,"BDS, MDS - Periodontics"
+590,Dr. Shilpi Bansal,Dermatologist,5 ,Delhi,Rohini Sector 3,95% ,23,500,"MD - Dermatology , Venereology & Leprosy, MBBS"
+591,Dr. Aakriti Bansal,Dentist,8 ,Delhi,Pitampura,100% ,24,400,BDS
+592,Dr. Sanjeev Dua,Neurosurgeon,44,Delhi,Patparganj,91% ,5,1000,"MBBS, MS - General Surgery, MCh - Neuro Surgery"
+593,Dr. Harpreet Singh,Ear-Nose-Throat (ENT) Specialist,20,Delhi,Dwarka Sector 6,93% ,14,900,"MBBS, MS - ENT, DNB - Otorhinolaryngology"
+594,Dr. Archana Bhardwaj,Dentist,17,Delhi,South Extension 1,99% ,84,800,"BDS, MDS - Conservative Dentistry & Endodontics"
+595,Dr. Aman Sachdev,Dentist,11,Delhi,Paschim Vihar,100% ,13,500,"BDS, MDS - Orthodontics"
+596,Dr. Ankur Arya,Urologist,12,Delhi,Pusa Road,100% ,1,1200,"MBBS, MS - General Surgery, MCh - Urology/Genito-Urinary Surgery"
+597,Dr. Shweta Gupta,Dentist,21,Delhi,Ashok Vihar,95% ,46,1000,BDS
+598,Dr. Ashish Bansal,Dentist,11,Delhi,Pitampura,100% ,43,400,"BDS, MDS - Prosthodontist And Crown Bridge"
+599,Dr. Tejashri Shrotri,Gynecologist/Obstetrician,18,Delhi,Hauz Khas,100% ,88,1000,"MBBS, MS - Obstetrics & Gynaecology, FCPS - Mid. & Gynae"
+600,Dr. Shweta Gupta,Dentist,21,Delhi,Ashok Vihar,95% ,46,1000,BDS
+601,Dr. Kamal Bachani,Orthopedist,32,Delhi,Malviya Nagar,96% ,309,1500,"MBBS, MS - Orthopaedics"
+602,Dr. Pallav Kinra,Dentist,13,Delhi,Sheikh Sarai,98% ,101,400,"BDS, MDS - Oral & Maxillofacial Surgery, Fellowship in Oral implantlogy"
+603,Dr. Avantika Sharma,Dentist,9 ,Delhi,Dwarka Sector 12,100% ,16,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+604,Dr. Namrata Sharma,Dentist,12,Delhi,Vasant Kunj,100% ,16,700,"BDS, MDS - Conservative Dentistry & Endodontics"
+605,Dr. Shiv P Mahapatra,Dentist,10,Delhi,Dwarka Sector 22,94% ,25,500,"MDS - Oral & Maxillofacial Surgery, BDS"
+606,Dr. Manni Hingorani,Ear-Nose-Throat (ENT) Specialist,20,Delhi,South Extension 1,95% ,14,1200,"MBBS, MS - ENT"
+607,Dr. Priyank Bhandari,Dentist,10,Delhi,Laxmi Nagar,99% ,87,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+608,Dr. Nipun Jain,Dermatologist,25,Delhi,Dwarka,98% ,227,700,"MD - Dermatology , Venereology & Leprosy, MBBS"
+609,Dr. Amit Bhargava,Oncologist,27,Delhi,Vasant Kunj,N/A,N/A,1500,"MBBS, DNB - Radiotherapy"
+610,Dr. Nimmi Rastogi,Gynecologist/Obstetrician,20,Delhi,Malviya Nagar,84% ,21,1000,"MBBS, DGO"
+611,Dr. Smita Mishra,Pediatric Cardiologist,35,Delhi,Dwarka Sector 6,100% ,2,900,"MBBS, MD - Pediatrics, FNB - Pediatric Cardiology"
+612,Mr. Santosh Kumar,Occupational Therapist,15,Delhi,Vasant Kunj,100% ,26,1000,Master of Occupational Therapy (MOT)
+613,Dr. Anil Kochar,Dentist,25,Delhi,Tilak Nagar,98% ,77,500,BDS
+614,Dr. Pranjal Joshi,Dermatologist,11,Delhi,Shivalik,96% ,27,900,"MBBS, MD - Dermatology , Venereology & Leprosy"
+615,Dr. Vidhi Walia Mishra,Dentist,9 ,Delhi,Preet Vihar,98% ,80,400,"BDS, MDS - Paedodontics And Preventive Dentistry"
+616,Dr. Neha Goel,Ophthalmologist,13,Delhi,Bali Nagar,71% ,5,600,"MBBS, MS - Ophthalmology, DNB - Ophthalmology, FRCS - General Surgery, MNAMS - Ophthalmology"
+617,Dr. Vaishali Aggarwal,Dentist,12,Delhi,Kamla Nagar,93% ,52,300,BDS
+618,Dr. Nikhil,Dentist,5 ,Delhi,Vasant Kunj,100% ,214,500,BDS
+619,Dr. Natalia Desilva,Dentist,16,Delhi,Greater Kailash Part 1,99% ,25,750,"BDS, MDS - Oral Medicine and Radiology"
+620,Dr. Surbhi Anand,Dentist,12,Delhi,East Of Kailash,99% ,96,800,"BDS, MDS - Conservative Dentistry & Endodontics"
+621,Dr. Seema Kushwaha,Dentist,17,Delhi,New Friends Colony,100% ,45,600,"BDS, MDS - Oral Medicine and Radiology"
+622,Dr. Amogh Tanwar,Dentist,16,Delhi,Janakpuri,99% ,94,800,"BDS, MDS - Pedodontics"
+623,Dr. Yukti Wadhawan,Gynecologist/Obstetrician,17,Delhi,Rajouri Garden,98% ,51,1000,"MBBS, MS - Obstetrics & Gynaecology"
+624,Dr. Naveen Chauhan,Dentist,13,Delhi,Model Town 1,96% ,35,500,BDS
+625,Dr. Rashi Khare,Cardiologist,16,Delhi,Shalimar Bagh,25% ,4,800,"MBBS, MD - Medicine, DM - Cardiology"
+626,Dr. Amandeep Dhillon,Dentist,14,Delhi,East Of Kailash,99% ,97,800,"MDS - Periodontics, BDS"
+627,Dr. Vikas Mittal,Pulmonologist,21,Delhi,Shalimar Bagh,96% ,44,800,"MBBS, MD - Tuberculosis & Respiratory Diseases / Pulmonary Medicine"
+628,Dr. Sapna Manocha Verma,Oncologist,28,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MD - Radiotherapy"
+629,Dr. Shashank Arora,Dentist,12,Delhi,Saket,100% ,6,700,BDS
+630,Dr. Dhruv Yadav,Dentist,12,Delhi,Mayur Vihar Ph-II,100% ,19,600,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+631,Dr. Sunita Arora,Gynecologist/Obstetrician,25,Delhi,Greater Kailash Part 2,100% ,48,1500,"MBBS, MD - Obstetrics & Gynaecology, Fellow of Indian College of Obstetrics and Gynecology (FICOG), FICS"
+632,Dr. Neena Singh,Gynecologist/Obstetrician,35,Delhi,Greater Kailash Part 2,100% ,5,1500,"MBBS, MD - Midwifery & Gynecology"
+633,Dr. Paramjeet Singh,Psychiatrist,18,Delhi,Karol Bagh,100% ,34,1200,"M.D. (Psychiatry), MBBS"
+634,Dr. Amit Bhatia,Dentist,14,Delhi,Malviya Nagar,99% ,78,500,"BDS, MDS - Orthodontics"
+635,Dr. Priya Shukla,Gynecologist/Obstetrician,12,Delhi,Nehru Place,100% ,1,1500,"MBBS, DNB - Obstetrics & Gynecology"
+636,Dr. Sanchi Chhabra,Dentist,10,Delhi,Defence Colony,98% ,29,500,BDS
+637,Dr. Suhail Qureshi,Oncologist,5 ,Delhi,Shalimar Bagh,100% ,1,1200,"MBBS, DNB - General Medicine, DNB  - Medical Oncology"
+638,Dr. Sameer Gupta,Cardiologist,19,Delhi,Greater Kailash Part 1,100% ,19,2000,"MBBS, Diplomate of American Board of Internal Medicine (Internal Medicine), Diplomate in Cardiovascular Disease, Diplomate in Interventional Cardiology, Diplomate, American Board of Endovascular Medicine "
+639,Dr. Shikhar Gupta,Ear-Nose-Throat (ENT) Specialist,10,Delhi,Rohini Sector 9,98% ,94,600,"DNB - Otorhinolaryngology, MBBS"
+640,Dr. Neelabh,Orthopedist,27,Delhi,Pusa Road,100% ,1,1200,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+641,Dr. Gholam Sarwar   (Physiotherapist),Physiotherapist,14,Delhi,Dwarka Sector 6,99% ,316,600,"BPTh/BPT, Doctor of Chiropractic"
+642,Dr. Brigadier RK Sharma,Gynecologist/Obstetrician,39,Delhi,Janakpuri,100% ,3,1000,"MD - Obstetrics & Gynaecology, MBBS"
+643,Dr. Shivani Nivedita,Dentist,12,Delhi,Dwarka Sector 22,98% ,36,500,"BDS, MDS - Orthodontics"
+644,Dr. Gaurav Bhagra,Dentist,17,Delhi,Shalimar Bagh,96% ,58,1000,BDS
+645,Dr. Shilpi Sachdev,Gynecologist/Obstetrician,22,Delhi,Moti Nagar,98% ,197,1200,"MBBS, DNB - Obstetrics & Gynecology"
+646,Ms. Niyati Chopra,Audiologist,16,Delhi,Vikas Puri,97% ,28,1000,"BASLP, MASLP"
+647,Dr. Rajeev Verma,Orthopedist,22,Delhi,Dwarka Sector 6,89% ,31,900,"MBBS, MS - Orthopaedics, MRCS (UK)"
+648,Dr. Avadesh Ahuja,Pediatrician,15,Delhi,Greater Kailash Part 2,100% ,5,1100,"MBBS, Diploma in Child Health (DCH)"
+649,Dr. Hitesh Arora   (Physiotherapist),Physiotherapist,17,Delhi,Safdarjung Development Area,100% ,16,1000,"BPTh/BPT, MPTh/MPT - Cardiovascular & Pulmonary Physiotherapy"
+650,Dr. Akhilesh Rathi,Orthopedist,16,Delhi,Dwarka,98% ,211,700,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+651,Dr. Srikant Sharma,Psychiatrist,14,Delhi,Patel Nagar East,99% ,401,1500,"M.D. (Psychiatry), MBBS"
+652,Dr. Syed Nazim Hussain,Dermatologist,17,Delhi,Saket,87% ,63,1200,"MD - Physician, DNB - Dermatology & Venereology, Diploma in Dermatology, Diploma in Aesthetic Medicine"
+653,Dr. Indu Kumari,Dermatologist,11,Delhi,Malviya Nagar,93% ,21,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+654,Dr. Ankit Aggarwal   (Physiotherapist),Physiotherapist,14,Delhi,Safdarjung Enclave,99% ,84,1000,MPTh/MPT - Orthopedic Physiotherapy
+655,Dr. Sonia Baijal   (Physiotherapist),Physiotherapist,14,Delhi,South Extension 1,100% ,23,800,"BPTh/BPT, MPTh/MPT - Cardiovascular & Pulmonary Physiotherapy"
+656,Dr. Praveen Kumar Garg,Oncologist,29,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, MCh - Surgical Oncology, MS - General Surgery"
+657,Dr. Poonam Dutt,Dentist,35,Delhi,Defence Colony,97% ,49,800,"BDS, MDS - Periodontics"
+658,Dr. Prashant Saxena,Pulmonologist,22,Delhi,Saket,81% ,24,1400,"MBBS, MD - TB & Chest"
+659,Dr. Meenu Ahuja,Gynecologist/Obstetrician,21,Delhi,Lajpat Nagar,99% ,122,ree,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+660,Dr. Raj Kumar Singh,General Surgeon,9 ,Delhi,Green Park,98% ,124,1000,"MBBS, MS - General Surgery"
+661,Dr. Jyoti Bali,Gynecologist/Obstetrician,24,Delhi,Karol Bagh,96% ,19,500,"MBBS, MS - Obstetrics & Gynaecology"
+662,Dr. Harleen Gandhi Kalsi,Dentist,13,Delhi,South Extension 2,100% ,43,700,BDS
+663,Dr. Shabnam,Gynecologist/Obstetrician,17,Delhi,Mehrauli,99% ,246,1500,"MBBS, DNB - Obstetrics & Gynecology"
+664,Dr. Sameer Malhotra,Psychiatrist,19,Delhi,Panchsheel Park,73% ,8,2400,"MBBS, M.D. (Psychiatry)"
+665,Ms. Bipasha Das,Dietitian/Nutritionist,14,Delhi,CR Park,99% ,44,1400,MSc - Dietitics / Nutrition
+666,Dr. Deepa Dureja,Gynecologist/Obstetrician,35,Delhi,Greater Kailash Part 2,95% ,44,800,"MBBS, MD - Obstetrics & Gynaecology"
+667,Dr. Sunil Kumar agrawal,General Surgeon,23,Delhi,Rohini Sector 18,100% ,14,500,"MBBS, MS - General Surgery"
+668,Dr. Yashwant Singh Tanwar,Orthopedist,16,Delhi,Sarita Vihar,N/A,N/A,1200,"MBBS, MS - Orthopaedics"
+669,Dr. Unnati Gupta,Dentist,26,Delhi,South Extension 2,99% ,82,700,BDS
+670,Dr. Rakesh,Dermatologist,11,Delhi,Rohini,93% ,89,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+671,Dr. Ankit Gupta,Psychiatrist,12,Delhi,CR Park,100% ,24,1200,"MBBS, MRCPsych, M.D. (Psychiatry)"
+672,Dr. Soumiya Mudgal,Psychiatrist,16,Delhi,Panchsheel Park,80% ,17,1500,"M.D. (Psychiatry), MBBS"
+673,Mr. Vijay Aggarwal,Speech Therapist,30,Delhi,Janakpuri,99% ,70,800,N/A
+674,Dr. Peush Bajpai,Oncologist,19,Delhi,Dwarka Sector 6,100% ,5,1100,"MBBS, MD - Medicine, DM - Medical Oncology"
+675,Ms. Mani Bansal,Audiologist,17,Delhi,Panchsheel Park,92% ,11,900,"BASLP, Master of Science in Speech-Language Pathology"
+676,Dr. Ritika Gupta   (Physiotherapist),Physiotherapist,4 ,Delhi,Safdarjung Enclave,98% ,56,750,"BPTh/BPT, MPTh/MPT - Sports Physiotherapy"
+677,Ms. Shweta,Dietitian/Nutritionist,14,Delhi,Punjabi Bagh,99% ,219,1500,"Diploma in Nutrition and Health Education, Diploma in Diet and Nutrition, Diploma in Diet and Nutrition"
+678,Mr. Lovedeep Kholia,Audiologist,13,Delhi,Vikas Puri,98% ,38,1000,"MSc - Audiology, BASLP"
+679,Dr. Sanjida Yasmin,Gynecologist/Obstetrician,19,Delhi,Nehru Place,100% ,76,800,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+680,Dr. Puneet Khanna,Pulmonologist,21,Delhi,Dwarka Sector 6,97% ,12,1100,"MBBS, MD - Tuberculosis & Respiratory Diseases / Pulmonary Medicine"
+681,Dr. Ankur Gupta,Dentist,11,Delhi,Dwarka,100% ,3,200,"MDS - Orthodontics, BDS"
+682,Ms. Mala Vohra Khanna,Psychologist,7 ,Delhi,Shahdara,99% ,79,1000,M.Phil - Clinical Psychology
+683,Dr. Anjani Kumar Agrawal,Urologist,27,Delhi,Saket,97% ,21,1800,"MBBS, MS - General Surgery, MCh - Urology"
+684,Dr. Gaurav Garg,Dermatologist,15,Delhi,Green Park,92% ,99,1200,"MBBS, MD - Dermatology , Venereology & Leprosy"
+685,Dr. Manish Malik,Pediatrician,26,Delhi,Saket,100% ,89,1200,"MBBS, MD - Pediatrics"
+686,Dr. Juhee Jain,Gynecologist/Obstetrician,37,Delhi,Mehrauli,93% ,123,800,"MBBS, MD - Obstetrics & Gynaecology"
+687,Dr. Shivani Gupta,Dentist,25,Delhi,Kilokri,99% ,74,1500,BDS
+688,Dr. Neha Sachdeva,Dentist,12,Delhi,Greater Kailash Part 2,98% ,57,800,"BDS, MDS - Prosthodontist And Crown Bridge"
+689,Dr. Sunil Oberoi,Dentist,24,Delhi,Kalkaji,88% ,15,550,"MDS - Prosthodontist And Crown Bridge, BDS"
+690,Dr. Rakhi Ratnam   (Physiotherapist),Physiotherapist,11,Delhi,Safdarjung Development Area,98% ,43,1000,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy"
+691,Dr. Geetika Bansal,Homoeopath,24,Delhi,Dwarka Sector 2,83% ,5,500,BHMS
+692,Dr. B. S. Solanki,Nephrologist,31,Delhi,Civil Lines,98% ,81,1800,"MBBS, MD - General Medicine, DM - Nephrology"
+693,Dr. Aditi Singh,Pediatrician,18,Delhi,Dwarka Sector 7,96% ,26,600,"MBBS, Diploma in Child Health (DCH)"
+694,Dr. Shilpi Malhotra,Dentist,17,Delhi,Dwarka Sector 12,94% ,15,500,BDS
+695,Dr. Sanjiv Kalra,Dentist,45,Delhi,Defence Colony,92% ,50,1000,BDS
+696,Dr. Vikram Gagneja,Pediatrician,18,Delhi,Dwarka Sector 6,98% ,20,900,"MBBS, DNB - Paediatrics, Post Doctoral fellowship in Pediatric Critical Care Medicine"
+697,Dr. Simrandeep Kaur,Gynecologist/Obstetrician,16,Delhi,Moti Nagar,100% ,18,1200,"MBBS, MD - Obstetrics & Gynaecology"
+698,Dr. Amrish Sahney,,15,Delhi,Pusa Road,100% ,1,1000,"MBBS, MD - Medicine, DM - Hepatology"
+699,Dr. Ritesh,Dentist,17,Delhi,Vasant Kunj,99% ,111,500,BDS
+700,Dr. Parag Gupta,Urologist,24,Delhi,Janakpuri,93% ,287,800,"MBBS, MS - General Surgery, MCh - Urology"
+701,Dr. Vimal Sharma   (Physiotherapist),Physiotherapist,16,Delhi,Gulmohar Park,98% ,51,1500,BPTh/BPT
+702,Dr. Sandeep Arora,Ear-Nose-Throat (ENT) Specialist,12,Delhi,Saket,100% ,39,1200,"MBBS, DNB - ENT, MS - ENT, MNAMS - Otorhinolaryngology"
+703,Dr. Navnit Haror,Dermatologist,9 ,Delhi,Greater Kailash Part 1,92% ,108,1000,"DDVL, MBBS"
+704,Dr. Poonam Valecha,Dentist,22,Delhi,Rohini,100% ,129,500,BDS
+705,Dr. Aashwiin Miglani,Dentist,10,Delhi,Kirti Nagar,100% ,77,500,"MDS - Periodontics, BDS, Fellowship in Oral implantlogy"
+706,Dr. Manav Kalra,Dentist,14,Delhi,Defence Colony,95% ,197,1000,"MDS - Prosthodontist And Crown Bridge, Certificate of Oral Implantology, BDS"
+707,Ms. Neha Gupta,Psychologist,13,Delhi,Vijaynagar,100% ,18,1500,"MA - Clinical Psychology, BA - Psychology, Post Graduate Diploma in Rehabilitation Psychology"
+708,Dr. Shivani Sachdev Gour,Gynecologist/Obstetrician,17,Delhi,Greater Kailash Part 1,60% ,13,1000,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+709,Dr. Subhash Agarwal,Pediatrician,50,Delhi,Punjabi Bagh,N/A,N/A,1500,"MBBS, MD - Pediatrics"
+710,Dr. Bithika Bhattacharya,Gynecologist/Obstetrician,37,Delhi,Saket,76% ,11,1200,"MBBS, MD - Obstetrics & Gynaecology"
+711,Dr. Ashish Chopra,Dentist,20,Delhi,Ramesh Nagar,99% ,100,400,"BDS, MDS - Orthodontics"
+712,Dr. Mani Kapur,Gynecologist/Obstetrician,23,Delhi,Vikas Puri,96% ,256,500,"MBBS, MD - Obstetrics & Gynaecology, DGO"
+713,Dr. Sunny Kalra,Pulmonologist,17,Delhi,Pusa Road,N/A,N/A,1300,"MBBS, DNB - Respiratory Diseases"
+714,Dr. Sharad Mishra,Plastic Surgeon,17,Delhi,Karol Bagh,83% ,8,500,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+715,Dr. Divya Chowdhry,Dermatologist,14,Delhi,Pusa Road,57% ,3,1300,"MBBS, MD - Dermatology , Venereology & Leprosy"
+716,Dr. Saurabh Verma,Spine And Pain Specialist,17,Delhi,Dwarka Sector 6,95% ,45,1100,"FNB - Spine Surgery, MS - Orthopaedics, Diploma in Anesthesiology, MBBS"
+717,Dr. Amit Baranwal,Dentist,23,Delhi,Dwarka Sector 6,92% ,30,500,BDS
+718,Dr. Aloy J Mukherjee,Laparoscopic Surgeon,25,Delhi,Sarita Vihar,100% ,2,1500,"MBBS, MS - General Surgery"
+719,Dr. Rajesh Kumar,Psychiatrist,14,Delhi,Patparganj,93% ,19,1000,"MBBS, M.D. (Psychiatry)"
+720,Dr. Kashish Kalra,Dermatologist,15,Delhi,Saket,96% ,16,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+721,Dr. Meetu Bansal,Ophthalmologist,23,Delhi,Malviya Nagar,95% ,62,650,"MBBS, DO"
+722,Dr. R.C Upadhyaya,Homoeopath,35,Delhi,Vasundhra Enclave,92% ,77,1300,DHMS (Diploma in Homeopathic Medicine and Surgery)
+723,Dr. Sanjay Gogoi,Urologist,24,Delhi,Dwarka Sector 6,83% ,16,1100,"MBBS, MS - General Surgery, MCh - Urology/Genito-Urinary Surgery, DNB - Urology/Genito - Urinary Surgery, MNAMS - Urology"
+724,Dr. Pranshu Tripathi,Dentist,12,Delhi,Dwarka Sector 12,100% ,12,500,"BDS, MDS - Conservative Dentistry "
+725,Dr. Manjit Singh Paul,Gastroenterologist,42,Delhi,Shalimar Bagh,94% ,24,1200,"MBBS, MD - Medicine, DM - Gastroenterology"
+726,Dr. Ajay Arora,Dentist,21,Delhi,Rohini Sector 7,96% ,38,300,BDS
+727,Dr. Shalini Chaudhry,Gynecologist/Obstetrician,25,Delhi,Dwarka,91% ,90,700,"MBBS, DGO"
+728,Dr. Adiba Kauser,Dentist,15,Delhi,Zakir Nagar,96% ,47,200,BDS
+729,Dr. Kapil Garella,Dentist,26,Delhi,Paschim Vihar,100% ,261,400,BDS
+730,Dr. Bhupesh Budhiraja,Dentist,26,Delhi,Mayur Vihar Ph-II,75% ,39,800,BDS
+731,Dr. Rahul Sharma,Orthopedist,13,Delhi,Saket,96% ,75,1200,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+732,Dr. Shishta Nadda Basu,Gynecologist/Obstetrician,42,Delhi,Shalimar Bagh,100% ,1,1000,"MBBS, MS - Obstetrics & Gynaecology"
+733,Dr. Anshika Mitra   (Physiotherapist),Physiotherapist,14,Delhi,Rohini,98% ,72,400,"BPTh/BPT, MPT/MPTh - Sports Medicine"
+734,Dr. Vineet Kumar Surana,Endocrinologist,12,Delhi,Dwarka Sector 6,96% ,33,1100,"MBBS, DM - Endocrinology, MD - Pediatrics"
+735,Dr. Ranendra Chaudhry,General Surgeon,52,Delhi,Dwarka Sector 12,100% ,1,800,"MBBS, MS - General Surgery"
+736,Dr. Jitender Dabas,Dentist,13,Delhi,Dwarka Sector 6,100% ,4,500,"MDS - Oral & Maxillofacial Surgery, BDS"
+737,Dr. S K Singh,Ayurveda,36,Delhi,Rohini,89% ,469,1500,"BAMS, MS - Ayurvedic General Surgery"
+738,Dr. Surya Prakash Bharadwaj,Dentist,17,Delhi,Dwarka,99% ,486,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+739,Dr. Laxman Vekaria,Ophthalmologist,11,Delhi,Janakpuri,100% ,3,500,"MBBS, MD - Ophthalmology"
+740,Dr. Shailendra Lalwani,Gastroenterologist,21,Delhi,Dwarka Sector 6,80% ,4,1100,"MBBS, MS - General Surgery, DNB - Surgical Gastroenterology"
+741,Dr. Rohit Bansil,Neurologist,14,Delhi,Pusa Road,N/A,N/A,1500,"MBBS, DNB - Neurosurgery"
+742,Dr. Arvind Gautam,Psychiatrist,16,Delhi,Dwarka Sector 6,98% ,33,1500,"MBBS, DNB - Psychiatry"
+743,Dr. Neeta Kejriwal,Pediatrician,24,Delhi,Dwarka Sector 6,100% ,1,900,"MBBS, MD - Pediatrics"
+744,Dr. Harmesh Kapoor,Orthopedist,26,Delhi,Paschim Vihar,95% ,26,800,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+745,Dr. Vineet Narula,Ear-Nose-Throat (ENT) Specialist,15,Delhi,Saket,91% ,33,1300,"MBBS, MS - ENT"
+746,Dr. Vishakha Gupta,Dentist,19,Delhi,Hari Nagar,99% ,41,500,BDS
+747,Dr. Usha Rawat,Homoeopath,36,Delhi,Old Rajendra Nagar,N/A,N/A,1500,BHMS
+748,Dr. Nidhi Walia,Dentist,9 ,Delhi,Preet Vihar,100% ,13,400,"MDS - Prosthodontist And Crown Bridge, BDS"
+749,Dr. Shivam Tiwari,Orthopedist,8 ,Delhi,Pusa Road,N/A,N/A,1100,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+750,Dr. Vipin Kumar,Sexologist,39,Delhi,Patel Nagar East,98% ,71,50,BAMS
+751,Dr. Indira Mohan,Ophthalmologist,34,Delhi,Lajpat Nagar,92% ,5,1800,"MBBS, DOMS"
+752,Dr. Rajnish Sethi,Orthopedist,20,Delhi,Dwarka Sector 8,97% ,42,800,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+753,Dr. Rakesh Gupta,Ayurveda,20,Delhi,Rohini,97% ,174,500,BAMS
+754,Dr. Ruchi Gupta,Ayurveda,21,Delhi,Rohini,88% ,32,500,BAMS
+755,Dr. Seema Sharma,Gynecologist/Obstetrician,28,Delhi,Rajouri Garden,96% ,344,1000,"MBBS, DGO, MD - Physiology"
+756,Dr. Arpit Agrawal,Ear-Nose-Throat (ENT) Specialist,14,Delhi,Rohini Sector 14,99% ,86,600,"MBBS, MS - ENT"
+757,Dr. Satvinder Kapoor,Pediatrician,29,Delhi,Shalimar Bagh,90% ,7,1000,"MBBS, DNB - Paediatrics"
+758,Dr. Geetali Kharghoria,Dermatologist,7 ,Delhi,Defence Colony,100% ,6,800,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology"
+759,Dr. Kanul Chawla Kapoor,Dentist,13,Delhi,Mayur Vihar Ph-II,99% ,96,300,BDS
+760,Dr. V K Sahni,Orthopedist,38,Delhi,Pitampura,96% ,149,900,"MBBS, MS - Orthopaedics"
+761,Dr. Sheetal Sachdeva,Gynecologist/Obstetrician,21,Delhi,Pitampura,98% ,227,800,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+762,Dr. Rudra,Dentist,9 ,Delhi,Vasundhra Enclave,100% ,15,500,BDS
+763,Dr. Palash Gupta,Orthopedist,27,Delhi,Shalimar Bagh,72% ,14,1000,"MBBS, MS - Orthopaedics"
+764,Dr. Lekh Ram Sharma,Internal Medicine,45,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MD - General Medicine"
+765,Dr. Ishita Anand,Ophthalmologist,13,Delhi,Malviya Nagar,95% ,38,650,"MBBS, DNB - Ophthalmology"
+766,Dr. D.K. Das,Orthopedist,26,Delhi,CR Park,83% ,45,1200,"MBBS, MS - Orthopaedics"
+767,Dr. Ravindra Vats,Bariatric Surgeon,22,Delhi,Pusa Road,N/A,N/A,1500,"MBBS, MS - General Surgery"
+768,Dr. Mehak Gupta,Dentist,13,Delhi,Vasant Kunj,100% ,62,500,BDS
+769,Dr. Animesh Sharma,Psychiatrist,6 ,Delhi,South Extension 1,100% ,10,800,"MBBS, M.D. (Psychiatry)"
+770,Dr. Sandeep Taneja,Pediatrician,25,Delhi,Janakpuri,97% ,19,800,"MBBS, Diploma in Child Health (DCH), DNB - Paediatrics"
+771,Dr. Jatin Sidhwa,Dermatologist,7 ,Delhi,Vasant Kunj,100% ,36,800,"MBBS, MD - Dermatology"
+772,Dr. Gagan Khanna,Dentist,18,Delhi,Janakpuri,100% ,64,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+773,Dr. Hiten Kalra,Dentist,21,Delhi,Anand Niketan,100% ,156,600,N/A
+774,Dr. Shailender Kumar Jain,General Surgeon,27,Delhi,Dwarka,83% ,28,500,"MBBS, MS - General Surgery"
+775,Dr. Rachita Mehlawat,Dentist,8 ,Delhi,Dwarka Sector 6,97% ,68,500,"MDS - Paedodontics And Preventive Dentistry, BDS"
+776,Dr. Amit Nagar,Dermatologist,11,Delhi,Panchsheel Park,100% ,N/A,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+777,Dr. Gaurav Garg,Ophthalmologist,7 ,Delhi,Mayur Vihar Ph-I,100% ,7,600,"MBBS, MD - Ophthalmology"
+778,Dr. Vineeta Taneja,Internal Medicine,32,Delhi,Shalimar Bagh,60% ,3,900,"MBBS, MD - Medicine"
+779,Dr. Ajay Kumar Grover,Homoeopath,30,Delhi,Old Rajendra Nagar,100% ,5,1500,BHMS
+780,Dr. Surbhi Sharma   (Physiotherapist),Physiotherapist,17,Delhi,Vasant Kunj,98% ,27,500,BPTh/BPT
+781,Dr. Swati Bajaj,Dentist,11,Delhi,Kamla Nagar,100% ,5,500,"MDS - Prosthodontist And Crown Bridge, BDS"
+782,Dr. Sugeeta Mutreja,Ayurveda,22,Delhi,Dwarka,99% ,155,1000,"BAMS, DNHE"
+783,Dr. Ajit Singh Narula,Nephrologist,45,Delhi,Okhla,83% ,2,1500,"MBBS, MD - General Medicine, DM - Nephrology"
+784,Dr. Abhishek Massey   (Physiotherapist),Physiotherapist,6 ,Delhi,Vasant Kunj,94% ,65,400,MPTh/MPT - Orthopedic Physiotherapy
+785,Dr. Aanchal Agarwal,Gynecologist/Obstetrician,21,Delhi,Punjabi Bagh,100% ,N/A,1000,"MBBS, DNB - Obstetrics & Gynecology, DGO"
+786,Dr. Ashish Chopra,Orthopedist,10,Delhi,East Of Kailash,100% ,15,600,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics"
+787,Dr. Ripen Gupta,Cardiologist,24,Delhi,Saket,100% ,N/A,1200,"MBBS, MD - Medicine, FNB - Interventional  Cardiology, DM - Cardiology"
+788,Dr. Bhavna Mangla,Dermatologist,20,Delhi,Pitampura,99% ,233,1000,"MBBS, DVD"
+789,Dr. Priyanka Jain,Dentist,10,Delhi,Rohini Sector 24,99% ,42,200,BDS
+790,Dr. Amit Parashar,Dentist,14,Delhi,Greater Kailash Part 1,N/A,N/A,500,"BDS, MDS - Public Health Dentistry"
+791,Dr. Anil Kansal,Neurosurgeon,28,Delhi,Shalimar Bagh,76% ,10,1500,"MBBS, MS - General Surgery, MCh - Neuro Surgery"
+792,Dr. Lt.Col. Preeti Tahlan Arora,Dentist,21,Delhi,Malviya Nagar,100% ,59,500,BDS
+793,Dr. Purva Shrivastava,Dentist,11,Delhi,Paschim Vihar,100% ,15,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+794,Dr. Jasleen Kaur Malhotra,Gynecologist/Obstetrician,23,Delhi,Dwarka,98% ,382,600,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+795,Dr. Sudhansu Sekhar Parida,Cardiologist,17,Delhi,Shalimar Bagh,95% ,13,800,"MBBS, MD - General Medicine, DM - Cardiology"
+796,Dr. Sreenita Chowdhury,Dentist,14,Delhi,Greater Kailash Part 2,99% ,136,700,"BDS, MDS - Paedodontics And Preventive Dentistry"
+797,Dr. Kanu Verma,Dermatologist,20,Delhi,Dwarka,94% ,74,1000,"MBBS, MD - Dermatology"
+798,Dr. Kunal Aneja,Orthopedist,9 ,Delhi,Rohini,100% ,11,800,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics, FICS, Fellow of American College of Surgeons(FACS)"
+799,Dr. Gayatri Soin,Dentist,22,Delhi,Old Rajendra Nagar,98% ,318,700,"BDS, MDS - Conservative Dentistry "
+800,Dr. Praveen Tittal,Orthopedist,22,Delhi,Dwarka Sector 6,96% ,25,700,"MS - Orthopaedics, MBBS"
+801,Dr. Payal Chaudhary,Gynecologist/Obstetrician,22,Delhi,Malviya Nagar,99% ,35,1200,"MBBS, MD - Obstetrics & Gynaecology"
+802,Dr. Abhishek Shekhar,Dentist,6 ,Delhi,Uttam Nagar,100% ,45,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+803,Dr. Abhimanyu Sharma,Dentist,14,Delhi,Vasundhra Enclave,100% ,14,500,"MDS - Oral & Maxillofacial Surgery, BDS"
+804,Dr. Navin Sakhuja,Ophthalmologist,36,Delhi,Panchsheel Park,99% ,33,2000,"MD - Ophthalmology, DNB - Ophthalmology, MBBS"
+805,Dr. Khyati   (Physiotherapist),Physiotherapist,6 ,Delhi,Pitampura,100% ,10,500,BPTh/BPT
+806,Dr. Sheenam Goyal,Psychiatrist,10,Delhi,Paschim Vihar,88% ,15,1500,"MBBS, M.D. (Psychiatry)"
+807,Dr. Aastha Gupta,Endocrinologist,14,Delhi,Kamla Nagar,98% ,51,1200,"MBBS, MD - General Medicine, Post Graduate Diploma in Endocrinology"
+808,Dr. Aarushi Dogra,Dentist,10,Delhi,Dwarka Sector 7,100% ,28,400,"BDS, MDS - Conservative Dentistry & Endodontics"
+809,Dr. Sufla Saxena,Pediatrician,20,Delhi,Dwarka Sector 6,100% ,10,1100,"MBBS, Member of the Royal College of Paediatrics and Child Health (MRCPCH, London, Glasgow or Edinburgh)"
+810,Dr. Sufla Saxena,Pediatrician,20,Delhi,Dwarka Sector 6,100% ,10,1100,"MBBS, Member of the Royal College of Paediatrics and Child Health (MRCPCH, London, Glasgow or Edinburgh)"
+811,Dr. L C Sunda,Psychiatrist,40,Delhi,Paschim Vihar,100% ,N/A,1800,"MBBS, DNB - Psychiatry"
+812,Dr. Abhishek Bhardwaj,Dentist,16,Delhi,South Extension 1,98% ,109,800,"MDS - Oral & Maxillofacial Surgery, BDS"
+813,Dr. Manoj Kumar,Gastroenterologist,35,Delhi,Saket,50% ,32,1000,"MBBS, DM - Gastroenterology, MD - Pediatrics"
+814,Dr. Anurag Saxena,Neurosurgeon,18,Delhi,Dwarka Sector 6,100% ,4,1100,"MBBS, MCh - Neuro Surgery, FRCS - Neurosurgery, MS - General Surgery"
+815,Dr. Eisha Kathuria,Dentist,19,Delhi,Tagore Garden,96% ,133,800,"BDS, MDS - Prosthodontist And Crown Bridge"
+816,Dr. Harsh Priyankar,Dentist,16,Delhi,Kingsway Camp,100% ,24,500,BDS
+817,Dr. Namrata Ghai,Dermatologist,21,Delhi,Bali Nagar,92% ,39,1000,"MBBS, DDVL"
+818,Dr. Akhilesh Shrivastava,Cardiologist,39,Delhi,Panchsheel Park,100% ,N/A,1200,"MBBS, Diploma in Cardiology"
+819,Dr. Swati Mehrotra,Gynecologist/Obstetrician,11,Delhi,Naraina Vihar,100% ,20,600,"MBBS, DNB - Obstetrics & Gynecology"
+820,Dr. Swati Mehrotra,Gynecologist/Obstetrician,11,Delhi,Naraina Vihar,100% ,20,600,"MBBS, DNB - Obstetrics & Gynecology"
+821,Dr. Neha Midha,Ophthalmologist,8 ,Delhi,Rohini Sector 3,100% ,7,500,"MD - Ophthalmology, MBBS"
+822,Dr. Sowjanya Aggarwal,Gynecologist/Obstetrician,18,Delhi,Patparganj,100% ,4,1000,"MBBS, MS - Obstetrics & Gynaecology"
+823,Dr. Nidhi Kumar   (Physiotherapist),Physiotherapist,17,Delhi,Rajouri Garden,99% ,65,800,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy"
+824,Dr. Anurag Puri,Urologist,16,Delhi,Vasant Kunj,94% ,19,1000,"MBBS, MS - General Surgery, MCh - Urology"
+825,Dr. Parul Kohli,Dentist,15,Delhi,Gujranwala Town,100% ,87,500,BDS
+826,Dr. Pratima Grover,Homoeopath,37,Delhi,Mayur Vihar Ph-I,100% ,35,500,BHMS
+827,Dr. Ashok Sarin,Nephrologist,52,Delhi,Safdarjung Development Area,92% ,55,2000,"MBBS, MD - Medicine,  FRCP"
+828,Dr. Shikha Goel,Dentist,16,Delhi,Malviya Nagar,98% ,304,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+829,Dr. Anurag Tandon,Ear-Nose-Throat (ENT) Specialist,33,Delhi,Patparganj,57% ,27,1000,"MBBS, Diploma in Otorhinolaryngology (DLO), MS - ENT"
+830,Dr. Shikha Goel,Dentist,16,Delhi,Malviya Nagar,98% ,304,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+831,Dr. Anurag Tandon,Ear-Nose-Throat (ENT) Specialist,33,Delhi,Patparganj,57% ,27,1000,"MBBS, Diploma in Otorhinolaryngology (DLO), MS - ENT"
+832,Dr. Prerna Mahapatra,Dentist,8 ,Delhi,Dwarka Sector 22,100% ,13,400,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+833,Dr. Sukanya Patra,Gynecologist/Obstetrician,26,Delhi,Vasant Vihar,98% ,89,1000,"MBBS, DGO, MRCOG(UK)"
+834,Dr. Ankita Chandna,Gynecologist/Obstetrician,17,Delhi,Shalimar Bagh,89% ,8,1100,"MBBS, MD - Obstetrics & Gynaecology"
+835,Dr. Dixit Kumar Thakur,Pulmonologist,9 ,Delhi,Friends Colony West,100% ,7,1000,"MBBS, DNB - Pulmonary Medicine"
+836,Dr. Subhima Bhalla,Dentist,11,Delhi,Nizamuddin East,100% ,90,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+837,Dr. Sanneya Manchanda,Dentist,9 ,Delhi,Jangpura,100% ,115,400,"BDS, MDS - Conservative Dentistry & Endodontics"
+838,Mr. Dharmendra Kumar,Speech Therapist,18,Delhi,Vasant Kunj,100% ,18,1000,"Diploma in Hearing Language & Speech, BASLP"
+839,Dr. SK Khanna,Ophthalmologist,47,Delhi,Patel Nagar West,99% ,83,800,"MBBS, MS - Ophthalmology"
+840,Dr. Madhav Shyam,Homoeopath,27,Delhi,Dwarka Sector 12,93% ,44,300,BHMS
+841,Dr. Sonal,Dentist,16,Delhi,Kingsway Camp,100% ,6,500,BDS
+842,Dr. Ashwini Jain,Ophthalmologist,28,Delhi,Shahdara,81% ,16,400,"MBBS, DOMS"
+843,Dr. Manreet Sidhu,Dentist,11,Delhi,Greater Kailash Part 2,100% ,12,1000,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+844,Dr. Anil Sabharwal,Pediatrician,46,Delhi,Ram Vihar,100% ,9,1000,"MBBS, MD - Pediatrics"
+845,Dr. Manu Saxena,Dermatologist,34,Delhi,Nehru Place,75% ,2,1000,"MBBS, DVD"
+846,Dr. Sankalp Bali,Orthopedist,22,Delhi,Model Town 1,98% ,142,700,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+847,Dr. Santosh Jha,Pulmonologist,11,Delhi,Malviya Nagar,99% ,170,1000,"MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD), DNB - Respiratory Diseases"
+848,Dr. Vivek Bindal,Bariatric Surgeon,13,Delhi,Patparganj,100% ,4,1000,"MBBS, DNB - General Surgery, MS - General Surgery, MRCS (UK), FNB - Minimal Access Surgery, MNAMS - General Surgery"
+849,Dr. Suyesha Khanijao,Gynecologist/Obstetrician,14,Delhi,Saket,95% ,81,1000,"MBBS, DNB - Obstetrics & Gynecology"
+850,Dr. S.K.Pandey,Veterinarian,31,Delhi,Rohini,88% ,4,500,Bachelor in Veterinary Science and Animal Husbandary (BVSc & AH)
+851,Dr. Nikhil Modi,Pulmonologist,12,Delhi,Sarita Vihar,83% ,6,1500,"MBBS, MD - Pulmonary Medicine"
+852,Dr. Rajesh Sardana,Cosmetologist,13,Delhi,Panchsheel Park,100% ,5,900,"BDS, MDS, Fellowship in Aesthetic Medicine (FAM)"
+853,Dr. Sukhvinder Singh Saggu,General Surgeon,22,Delhi,Punjabi Bagh,91% ,8,1000,"MBBS, MS - General Surgery, Fellow of American College of Surgeons(FACS)"
+854,Dr. Sheri Yadav,Dentist,12,Delhi,Pitampura,100% ,76,500,BDS
+855,Dr. Bipin Dubey,Cardiologist,36,Delhi,Dwarka Sector 6,83% ,11,1100,"MBBS, MD - Medicine, DM - Cardiology"
+856,Dr. Raju Easwaran,Orthopedist,19,Delhi,Shalimar Bagh,100% ,3,1500,"MS - Orthopaedics, MBBS"
+857,Dr. Smita Saraf,Dentist,12,Delhi,Pitampura,100% ,22,500,BDS
+858,Dr. Rishikesh Jha,Oncologist,13,Delhi,Sarita Vihar,100% ,1,1500,"MBBS, MD - General Medicine, DNB  - Medical Oncology"
+859,Dr. Mahima Wadhwa,Dermatologist,11,Delhi,Shalimar Bagh,100% ,51,800,"MBBS, MD - Dermatology , Venereology & Leprosy"
+860,Dr. Saloni Chopra,Gynecologist/Obstetrician,11,Delhi,Vikas Puri,94% ,30,500,"MD - Obstetrics & Gynaecology, MBBS"
+861,Dr. Abhishek Kumar Mishra,Orthopedist,25,Delhi,Hauz Khas,97% ,121,1200,"MBBS, MS - Orthopaedics"
+862,Dr. Shyla Vahab,Ayurveda,28,Delhi,Dwarka Sector 13,93% ,11,500,BAMS
+863,Dr. Manoj Ranka,Internal Medicine,19,Delhi,Panchsheel Park,25% ,1,1500,"MBBS, MD - Medicine"
+864,Dr. Yogesh Solanki,Ophthalmologist,26,Delhi,Rohini,83% ,7,500,"MBBS, DO"
+865,Dr. Sabina Vij,Pediatrician,21,Delhi,Panchsheel Park,100% ,12,1000,"MBBS, Diploma in Child Health (DCH), DNB - Pediatrics"
+866,Dr. Harshita Surange,Radiologist,25,Delhi,Dwarka Sector 19,95% ,248,1000,"MBBS, Diploma in Medical Radio-Diagnosis"
+867,Dr. Parvathi Unninayar Iyer,Pediatrician,39,Delhi,Okhla,N/A,N/A,1500,"MBBS, MD - Pediatrics, Fellowship in Neonatology"
+868,Dr. Nitika Nijhara,Dermatologist,7 ,Delhi,Patel Nagar East,99% ,52,800,"MBBS, MD - Dermatology , Venereology & Leprosy"
+869,Dr. Atmesh Kumar,Psychiatrist,17,Delhi,Rohini,96% ,45,1200,"MBBS, M.D. (Psychiatry)"
+870,Dr. Abu Jonayed   (Physiotherapist),Physiotherapist,8 ,Delhi,Siri Fort Road,100% ,2,1000,"BPTh/BPT, MPTh/MPT - Sports Physiotherapy"
+871,Dr. Jaishree Noor,Dermatologist,18,Delhi,Vasant Vihar,97% ,16,1500,"MBBS, MD - Dermatology , Venereology & Leprosy"
+872,Dr. Lalit,Orthopedist,10,Delhi,Green Park,100% ,16,1200,"MBBS, MS - Orthopaedics"
+873,Dr. Surendra Nath Khanna,Cardiothoracic Surgeon,36,Delhi,Okhla,100% ,N/A,1500,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+874,Dr. Harsh Goyal,Dentist,13,Delhi,Janakpuri,100% ,235,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+875,Dr. S.Srivastava   (Physiotherapist),Physiotherapist,11,Delhi,Burari,100% ,N/A,350,"MPTh/MPT - Neurological Physiotherapy, BPTh/BPT"
+876,Dr. Ashitabh Tiwari,Psychiatrist,17,Delhi,Pusa Road,N/A,N/A,1200,"M.D. (Psychiatry), MBBS"
+877,Dr. S Mahanta,Orthopedist,26,Delhi,Dwarka,95% ,150,600,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+878,Dr. (Prof) RK Suri   (PhD),Psychologist,38,Delhi,Dwarka,96% ,215,4000,"PhD -  Clinical Psychology, MA - Applied Psychology, M.Phil - Clinical Psychology, LLB"
+879,Dr. Ila Gupta,Gynecologist/Obstetrician,38,Delhi,Patparganj,58% ,7,1100,"MBBS, MD - Obstetrics & Gynaecology, Diploma in Advanced Endoscopic Gynae Surgery"
+880,Dr. Jaya Gupta,Dermatologist,11,Delhi,Greater Kailash Part 1,98% ,35,1200,"MD - Dermatology, MBBS"
+881,Dr. Manoj Khanal,Neurologist,16,Delhi,Shalimar Bagh,64% ,8,1000,"MBBS, MD - General Medicine, DM - Neurology"
+882,Dr. Kuntal Deb Barma,Hair Transplant Surgeon,17,Delhi,Safdarjung Enclave,94% ,15,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+883,Dr. Yugal K Mishra,Cardiac Surgeon,41,Delhi,Dwarka Sector 6,67% ,3,1100,"MBBS, MS - General Surgery, PhD - Cardio Thoracic & Vascular Surgery"
+884,Dr. Srishti Bhatia,Dentist,8 ,Delhi,Janakpuri,97% ,47,500,"BDS, MDS - Orthodontics"
+885,Dr. Kapil Aggarwal,General Surgeon,23,Delhi,Nehru Place,64% ,17,1000,"MS - General Surgery, MBBS"
+886,Dr. Ankur Sharma,Orthopedist,10,Delhi,Rohini Sector 24,100% ,1,500,"MBBS, MS - Orthopaedics"
+887,Dr. Amit K Tyagi,Pediatrician,17,Delhi,Pusa Road,N/A,N/A,1100,"MD - Pediatrics, MBBS"
+888,Dr. Archana Rawat,Gynecologist/Obstetrician,15,Delhi,Dwarka Sector 7,98% ,116,500,"DGO, MBBS, DNB - Obstetrics & Gynecology"
+889,Dr. Sunil Kumar S,Hair Transplant Surgeon,18,Delhi,Safdarjung Enclave,84% ,10,1000,"MBBS, MD - (Dermatology & STD)"
+890,Dr. Juhi Agrawal,Plastic Surgeon,16,Delhi,Dwarka Sector 6,100% ,N/A,1100,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+891,Dr. Shailesh Jain,Neurosurgeon,20,Delhi,Pitampura,95% ,84,1200,"MBBS, MS - General Surgery, MCh - Neuro Surgery"
+892,Dr. Heena Gandhi,Dentist,14,Delhi,Shalimar Bagh,100% ,1,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+893,Ms. Kanika Chaturvedi,Occupational Therapist,8 ,Delhi,Vasant Kunj,100% ,25,1000,Bachelor of Occupational Therapy (BOT)
+894,Dr. Mukta Garg,Homoeopath,24,Delhi,Janakpuri,100% ,54,500,BHMS
+895,Dr. Atul Kumar Garg,Orthopedist,22,Delhi,Rohini,99% ,52,600,N/A
+896,Dr. Amit Kumar Srivastava,Orthopedist,21,Delhi,Patparganj,100% ,N/A,1000,N/A
+897,Dr. Gaurav Kharbanda,Dentist,20,Delhi,Lajpat Nagar,100% ,8,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+898,Dr. Sasha Raikhy,Psychiatrist,18,Delhi,Safdarjung Enclave,92% ,182,1500,"MBBS, DNB - Psychiatry"
+899,Dr. Rajat Saha,Oncologist,21,Delhi,Patparganj,80% ,4,800,"MBBS, MD - General Medicine, DNB  - Medical Oncology"
+900,Dr. Vimal Kumar Dakour,Orthopedist,18,Delhi,Lajpat Nagar,96% ,36,500,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+901,Dr. Sandip Banerjee,Laparoscopic Surgeon,19,Delhi,Kalkaji,100% ,N/A,1050,"MBBS, DNB - General Surgery"
+902,Dr. Krishna Subramony Iyer,General Surgeon,43,Delhi,Okhla,67% ,2,1500,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+903,Dr. Vishal Arya,Dentist,24,Delhi,Pitampura,99% ,138,500,"BDS, MDS - Pedodontics, Certificate of Oral Implantology"
+904,Dr. Manjusha Goel,Gynecologist/Obstetrician,24,Delhi,Punjabi Bagh,50% ,1,1000,"MBBS, MD - Obstetrics & Gynaecology"
+905,Dr. Shashi Garg,Homoeopath,23,Delhi,Janakpuri,88% ,5,600,"BHMS, MD - Homeopathy"
+906,Dr. Nithish Anchal,Vascular Surgeon,18,Delhi,Sarita Vihar,60% ,3,1500,"MBBS, MS - General Surgery, FNB- Peripheral Vascular Surgery"
+907,Dr. Raj Kumar Bajpai,Homoeopath,50,Delhi,Dwarka,91% ,9,700,BMS(H)
+908,Dr. Ankita Kalra,Dentist,12,Delhi,Dwarka Sector 7,93% ,10,300,BDS
+909,Dr. Sanjay Kumar Gudwani,Ear-Nose-Throat (ENT) Specialist,30,Delhi,Okhla,100% ,N/A,1500,"MBBS, MS - ENT"
+910,Dr. Lovkesh Anand,Gastroenterologist,17,Delhi,Dwarka Sector 6,74% ,15,1100,"MBBS, MD - General Medicine, DM - Hepatology"
+911,Dr. Satinder Kumar Jain,Thoracic (Chest) Surgeon,44,Delhi,Dwarka Sector 6,100% ,1,1100,"MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery"
+912,Dr. I P S Kochar,Pediatrician,37,Delhi,Sarita Vihar,N/A,N/A,2000,"MBBS, MD - Pediatrics"
+913,Ms. Divya Malhotra,Psychologist,7 ,Delhi,Model Town,98% ,38,1200,"BA (Hons.) - Applied Psychology, MA - Counseling Psychology, Diploma in Special Education (Autism Spectrum Disorder)"
+914,Dr. Khushbu Goel,Neurologist,15,Delhi,Dwarka Sector 6,95% ,50,1100,"MBBS, MD - General Medicine, DM - Neurology"
+915,Dr. Ankita Katiyar,Pediatrician,5 ,Delhi,Malviya Nagar,100% ,11,400,"MBBS, Diploma in Child Health (DCH)"
+916,Dr. Raman Jain,Spine Surgeon,22,Delhi,Rohini,96% ,25,600,"MBBS, MS - Orthopaedics"
+917,Dr. Preeti Jain Pruthi,Dentist,16,Delhi,Krishna Nagar,100% ,6,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+918,Dr. Somnath Sengupta,Psychiatrist,32,Delhi,Greater Kailash Part 2,100% ,1,2000,"MD - Psychological Medicine, MBBS"
+919,Dr. Vikas Chopra,Cardiologist,26,Delhi,Green Park,90% ,17,750,"MBBS, DM - Cardiology"
+920,Dr. Sandhya Thakkar   (Physiotherapist),Physiotherapist,15,Delhi,Sarita Vihar,100% ,1,700,BPTh/BPT
+921,Dr. Bhawna Bhardwaj,Dermatologist,11,Delhi,Greater Kailash Part 1,100% ,2,600,"MBBS, DDVL"
+922,Dr. Vikas Chopra,Cardiologist,26,Delhi,Green Park,90% ,17,750,"MBBS, DM - Cardiology"
+923,Dr. Ankita singh,Gynecologist/Obstetrician,13,Delhi,Shalimar Bagh,100% ,2,800,"MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+924,Dr. Noor Ul Din Malik,Ear-Nose-Throat (ENT) Specialist,15,Delhi,Sarita Vihar,N/A,N/A,1500,"MBBS, MS - ENT"
+925,Dr. Amit Gupta,Spine Surgeon,20,Delhi,Rohini,100% ,12,1000,"MCh - Neuro Surgery, MS - General Surgery, MBBS"
+926,Dr. Amanjot Singh,Ophthalmologist,34,Delhi,Panchsheel Park,100% ,2,1000,"MS - Ophthalmology, MBBS"
+927,Dr. Neeraj Wadhwa,Ophthalmologist,22,Delhi,Malviya Nagar,87% ,272,650,"MD - Ophthalmology, MBBS"
+928,Dr. Nidhi Gupta,Dentist,22,Delhi,New Friends Colony,99% ,179,600,BDS
+929,Dr. R.S Chatterjee,Pulmonologist,42,Delhi,Dwarka Sector 12,N/A,N/A,1200,"MBBS, MD - General Medicine, DNB - Respiratory Diseases, MD - Tuberculosis & Respiratory Diseases/Medicine"
+930,Dr. R.S Chatterjee,Pulmonologist,42,Delhi,Dwarka Sector 12,N/A,N/A,1200,"MBBS, MD - General Medicine, DNB - Respiratory Diseases, MD - Tuberculosis & Respiratory Diseases/Medicine"
+931,Dr. Mala Bhattacharjee,Ear-Nose-Throat (ENT) Specialist,27,Delhi,Patparganj,100% ,4,800,"MBBS, MS - ENT"
+932,Dr. Anuj Sharma   (Physiotherapist),Physiotherapist,10,Delhi,Dilshad Garden,100% ,2,300,MPTh/MPT - Orthopedic Physiotherapy
+933,Dr. Abhishek Mathur,Dentist,10,Delhi,Lajpat Nagar,N/A,N/A,500,"BDS, MDS - Prosthodontics"
+934,Dr. Vinay Kumar Rai,Pediatrician,15,Delhi,Dwarka Sector 6,100% ,1,1100,"MBBS, MD - Pediatrics"
+935,Dr. S Radha Krishnan,Cardiologist,42,Delhi,Okhla,90% ,3,1500,"MBBS, MD - General Medicine, DM - Cardiology"
+936,Dr. Poonam Agarwal,Gynecologist/Obstetrician,32,Delhi,Paschim Vihar,99% ,128,1000,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+937,Dr. Archana Arora,Dentist,22,Delhi,Vikas Puri,96% ,85,500,"BDS, Comprehensive Course in Modern Endodontics"
+938,Dr. Nikky Yadav,Gynecologist/Obstetrician,10,Delhi,Greater Kailash Part 1,N/A,N/A,800,"MBBS, MS - Obstetrics & Gynaecology"
+939,Dr. Piyush Varshney,Urologist,19,Delhi,Vasundhra Enclave,88% ,41,600,"MBBS, MS - General Surgery, MCh - Urology"
+940,Dr. Sumiran Passey,Sports Medicine Specialist,10,Delhi,Vasant Vihar,100% ,2,2500,"MBBS, MD - Sports Medicine"
+941,Dr. Sajjan Rajpurohit,Oncologist,19,Delhi,Shalimar Bagh,80% ,5,1000,"MBBS, MD - Pediatrics, DNB  - Medical Oncology"
+942,Dr. Atish Narayanrao Bakane,Pediatrician,12,Delhi,Sarita Vihar,N/A,N/A,1000,"DNB - Paediatrics, Diploma in Child Health (DCH), MBBS, FNB -  Pediatric Hematology Oncology"
+943,Dr. Ashu Agarwal,Ophthalmologist,31,Delhi,Sarita Vihar,100% ,N/A,1500,"MBBS, MS - Ophthalmology"
+944,Dr. (Prof) Raju Vaishya,Orthopedist,40,Delhi,Sukhdev Vihar,86% ,46,1200,"MBBS, MS - Orthopaedics, FRCS - General Surgery"
+945,Dr. Rajiv Agarwal,Cardiologist,32,Delhi,Saket,50% ,1,1200,"MBBS, MD - Medicine, DM - Cardiology, Fellowship In Interventional  Cardiology"
+946,Dr. Anju Mangla,Dermatologist,27,Delhi,Sarita Vihar,68% ,18,2000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+947,Dr. Brig. Pankaj Puri,Gastroenterologist,33,Delhi,Okhla,94% ,11,1500,"MBBS, MD - General Medicine, DNB - General Medicine, DM - Gastroenterology"
+948,Dr. Anurag Ahuja,Dentist,15,Delhi,Mayur Vihar Ph-I,97% ,1106,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+949,Dr. Rakesh Kumar,Orthopedist,22,Delhi,Karol Bagh,N/A,N/A,1050,"MBBS, MS - Orthopaedics"
+950,Dr. Saipriya Tewari,Pain Management Specialist,8 ,Delhi,Dwarka Sector 6,100% ,N/A,900,"MD - Anaesthesiology, MBBS"
+951,Dr. Ashok Khera,Cardiologist,40,Delhi,Okhla,100% ,1,1500,"MBBS, MD - General Medicine, DNB - Cardiology"
+952,Dr. Ankit Bhartia,Orthopedist,14,Delhi,Dwarka Sector 3,98% ,316,600,"MBBS, MS - Orthopaedics"
+953,Dr. Ashish Prasad,Pediatric Surgeon,17,Delhi,Pusa Road,100% ,N/A,800,"MBBS, DNB - General Surgery, DNB - Pediatric Surgery"
+954,Dr. Ashima Gulia,Gynecologist/Obstetrician,15,Delhi,Malviya Nagar,100% ,1,1100,"MBBS, MD - Obstetrics & Gynaecology"
+955,Dr. Sourav Biswas,Homoeopath,19,Delhi,Pitampura,100% ,4,450,"MD - Homeopathy, BHMS"
+956,Dr. Neeru Chugh Dhingra,Ear-Nose-Throat (ENT) Specialist,20,Delhi,Pitampura,96% ,15,700,"MBBS, MS - ENT, DNB - Otorhinolaryngology"
+957,Dr. Vikram Kumar Singh,Pediatrician,23,Delhi,CR Park,100% ,2,1000,"MBBS, MD - Pediatrics"
+958,Dr. Rajiv Nandy   (PhD),Psychologist,21,Delhi,Yojana Vihar,83% ,4,1500,"PhD - Psychology, MA - Psychology"
+959,Dr. Sushma Dikhit,Gynecologist/Obstetrician,41,Delhi,Patparganj,63% ,22,1100,"MBBS, MS - Obstetrics & Gynaecology, MRCOG(UK)"
+960,Dr. Arpana Haritwal,Gynecologist/Obstetrician,17,Delhi,Saket,100% ,1,1000,"MBBS, MS - Obstetrics & Gynaecology"
+961,Dr. Harbinder Singh,Urologist,18,Delhi,Rohini Sector 3,98% ,65,800,"DNB - Urology/Genito - Urinary Surgery, MBBS, MS - General Surgery"
+962,Dr. Deepa Ekbote,Ophthalmologist,25,Delhi,Nehru Place,92% ,7,1000,"MBBS, MS - Ophthalmology"
+963,Dr. Gunjan Verma,Dermatologist,10,Delhi,Dwarka,96% ,51,500,"MD - Dermatology , Venereology & Leprosy, MBBS"
+964,Dr. Anibha  Pandey,Pediatrician,13,Delhi,Nehru Place,80% ,4,800,"MBBS, DNB - Paediatrics"
+965,Dr. Vishal Nigam,Ophthalmologist,21,Delhi,Neb Sarai,98% ,91,600,"MBBS, DNB - Ophthalmology"
+966,Dr. Neena Bahl,Gynecologist/Obstetrician,34,Delhi,Greater Kailash Part 2,97% ,13,1500,"MBBS, MD - Midwifery & Gynecology"
+967,Dr. Anuj Valecha,Dentist,21,Delhi,Rohini,100% ,82,500,BDS
+968,Dr. Richa Gupta   (Physiotherapist),Physiotherapist,14,Delhi,Jagriti Enclave,75% ,7,1200,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy"
+969,Dr. Sanjeev Kumar,Oncologist,13,Delhi,Dwarka Sector 6,100% ,1,1100,"MBBS, MS - General Surgery, MCh - Surgical Oncology"
+970,Dr. Richa Gupta   (Physiotherapist),Physiotherapist,14,Delhi,Jagriti Enclave,75% ,7,1200,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy"
+971,Dr. Parul Gupta,Dentist,20,Delhi,Karol Bagh,98% ,188,500,"BDS, Certification in Laser Dentistry"
+972,Dr. Ashok Saxena,Pediatrician,40,Delhi,Dwarka Sector 6,83% ,5,1100,"MBBS, MD - Pediatrics, DM - Neonatology"
+973,Dr. Arpana Jain,Gynecologist/Obstetrician,30,Delhi,Kingsway Camp,95% ,280,1500,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+974,Dr. Saurabh Pokhariyal,Nephrologist,26,Delhi,Dwarka Sector 6,100% ,3,1100,"MBBS, DM - Nephrology"
+975,Dr. Sandeep Jain,General Surgeon,20,Delhi,Patparganj,92% ,12,800,"MBBS, DNB - General Surgery"
+976,Dr. Apala Singh,Psychiatrist,6 ,Delhi,Pitampura,100% ,1,1000,N/A
+977,Dr. Sumeet Shah,General Surgeon,28,Delhi,Greater Kailash Part 1,100% ,2,1200,"MBBS, MS - General Surgery, DNB - General Surgery"
+978,Dr. Madhumita Patel,Gynecologist/Obstetrician,16,Delhi,Chattarpur,100% ,177,600,"MBBS, DNB - Obstetrics & Gynecology, DGO"
+979,Dr. Pradeep K Dewan,Bariatric Surgeon,42,Delhi,Patparganj,80% ,3,800,"MBBS, MS - General Surgery"
+980,Dr. Vibhu Bahl,Orthopedist,22,Delhi,Sarita Vihar,100% ,2,1200,N/A
+981,Dr. Manju Aggarwal,Gynecologist/Obstetrician,22,Delhi,Pitampura,100% ,39,800,"MBBS, DGO, Fellow of Indian College of Obstetrics and Gynecology (FICOG)"
+982,Dr. Tarun Sharma,Dentist,13,Delhi,Prashant Vihar,100% ,4,500,N/A
+983,Dr. Akash Sabharwal,Orthopedist,16,Delhi,Panchsheel Park,100% ,N/A,1500,"MBBS, M.Ch - Orthopaedics, MS - Orthopaedics"
+984,Dr. Nivedita Raizada,Gynecologist/Obstetrician,17,Delhi,Vasant Kunj,100% ,256,800,"MBBS, MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+985,Dr. Kiranjeet Kaur,Gynecologist/Obstetrician,25,Delhi,Saket,95% ,24,1000,"DNB - Obstetrics & Gynecology, DGO, MNAMS - Obstetrics & Gynaecology, MBBS"
+986,Dr. Jasvinder Kaur,Gynecologist/Obstetrician,18,Delhi,Rohini Sector 3,100% ,20,600,"MBBS, DNB - Obstetrics & Gynecology"
+987,Dr. Neha Jain,Gynecologist/Obstetrician,17,Delhi,Mehrauli,95% ,121,500,"MBBS, DGO"
+988,Dr. Mayank Ashok,Dentist,12,Delhi,Greater Kailash Part 1,99% ,125,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+989,Dr. Shalini Chawla Khanna,Gynecologist/Obstetrician,24,Delhi,Alaknanda,99% ,244,1000,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+990,Dr. Mridu Avinashi,Homoeopath,35,Delhi,Rajouri Garden,100% ,1,700,N/A
+991,Dr. Pearl Bhardwaj,Dentist,9 ,Delhi,Model Town 2,100% ,8,400,"BDS, MDS - Periodontics"
+992,Dr. Ginni Gulati,Gynecologist/Obstetrician,21,Delhi,Punjabi Bagh,90% ,16,1000,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+993,Dr. Priya Agarwal,Gynecologist/Obstetrician,11,Delhi,Dilshad Garden,100% ,14,500,"MS - Obstetrics & Gynaecology, MBBS"
+994,Dr. Poonam Sidana,Pediatrician,26,Delhi,Punjabi Bagh,100% ,10,1000,"MBBS, MD - Pediatrics"
+995,Dr. Deepak Nakra,Dentist,22,Delhi,Punjabi Bagh,97% ,24,500,"BDS, Fellowship in Oral implantlogy, Certificate of Oral Implantology"
+996,Dr. Mamta Mishra,Gynecologist/Obstetrician,29,Delhi,Vasant Kunj,97% ,74,1200,"MBBS, MD / MS - Obstetrics & Gynaecology, MRCOG(UK)"
+997,Dr. Anjali Deswal,Dentist,2 ,Delhi,Rohini Sector 16,100% ,3,200,BDS
+998,Dr. Naveen Kumar Verma,General Surgeon,7 ,Delhi,Dwarka Sector 6,N/A,N/A,1100,"MBBS, MS - General Surgery"
+999,Dr. Vijay Dagar,Ayurveda,12,Delhi,Uttam Nagar,92% ,9,500,BAMS
+1000,Dr. Tushita Singh,Dentist,11,Delhi,Dwarka Sector 11,99% ,129,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+1001,Dr. Anurag Jain,Ear-Nose-Throat (ENT) Specialist,26,Delhi,Patparganj,100% ,1,1000,"MBBS, MS - ENT"
+1002,Dr. Shivanjali Bansal,Dentist,18,Delhi,Shalimar Bagh,98% ,73,500,BDS
+1003,Dr. Inder Mohan Chugh,Pulmonologist,30,Delhi,Shalimar Bagh,100% ,3,2000,"MBBS, MD - Tuberculosis & Respiratory Diseases/Medicine, DNB - Respiratory Diseases"
+1004,Ms. Mahima Bhatia,Psychologist,4 ,Delhi,Malviya Nagar,100% ,14,1000,"PGD in Rehabilitation Psychology, MA - Psychology"
+1005,Dr. Rajendra Kumar Agarwal,Cardiologist,23,Delhi,Panchsheel Park,100% ,1,1000,"MBBS, MD - General Medicine, DNB - Cardiology, FNB - Interventional  Cardiology"
+1006,Dr. Alok Agarwal,Ear-Nose-Throat (ENT) Specialist,33,Delhi,Patel Nagar East,94% ,97,2000,N/A
+1007,Dr. Kushal jain,Psychiatrist,19,Delhi,Lajpat Nagar,96% ,150,1100,"M.D. (Psychiatry), MBBS, Master of Public Health (MPH)"
+1008,Dr. Prateek Bhandari,Dentist,14,Delhi,Krishna Nagar,100% ,50,350,N/A
+1009,Dr. Anupma Gupta,Gynecologist/Obstetrician,23,Delhi,Pitampura,80% ,7,600,"MBBS, MD - Obstetrics & Gynaecology"
+1010,Dr. Deepti Rajput,Dentist,16,Delhi,Rajouri Garden,97% ,10,669,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+1011,Dr. Atul Gupta,Dentist,23,Delhi,Ashok Vihar,95% ,80,1000,"BDS, MDS - Conservative Dentistry & Endodontics"
+1012,Dr. Meenakshi Kapoor,Dermatologist,12,Delhi,Rohini Sector 7,94% ,38,800,"MBBS, MD - Dermatology , Venereology & Leprosy"
+1013,Dr. Anirban Biswas,Diabetologist,20,Delhi,CR Park,90% ,86,1000,"MBBS, MD - General Medicine, Fellowship in Non-Invasive Cardiology (FIC)"
+1014,Dr. Chandresh Gupta,Laparoscopic Surgeon,17,Delhi,Shalimar Bagh,100% ,2,800,"MBBS, MS - General Surgery"
+1015,Dr. Ashish Sachan,GastroIntestinal Surgeon,11,Delhi,Dilshad Garden,100% ,62,800,"MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery"
+1016,Ms. Neha Agarwal,Dietitian/Nutritionist,19,Delhi,Subhash Nagar,96% ,114,500,M.Sc. - Home Science (Food & Nutrition)
+1017,Dr. Divya Bansal,Hematologist,19,Delhi,Dwarka Sector 6,N/A,N/A,1100,"MBBS, DNB - Pediatrics, DM - Clinical Haematology"
+1018,Dr. Yogita Parashar,Gynecologist/Obstetrician,18,Delhi,Dwarka Sector 6,97% ,74,900,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+1019,Dr. Gaurav Rastogi,Orthopedist,15,Delhi,Dwarka Sector 6,100% ,5,900,"MBBS, MS - Orthopaedics"
+1020,Dr. Rohit Yadav,Dentist,10,Delhi,Dwarka Sector 23,100% ,116,300,"BDS, MDS - Oral & Maxillofacial Surgery"
+1021,Dr. Saakshi Dhingra   (Physiotherapist),Physiotherapist,16,Delhi,CR Park,99% ,158,700,"BPTh/BPT, MPTh/MPT - Musculoskeletal Physiotherapy"
+1022,Dr. Nidhi Bansal Gupta,Gynecologist/Obstetrician,12,Delhi,Prashant Vihar,100% ,50,600,"MBBS, MS - Obstetrics & Gynaecology"
+1023,Dr. Anjana Kalia,Dietitian/Nutritionist,21,Delhi,Dwarka,99% ,124,1000,"BAMS, Fellowship in Applied Nutrition(FAN)"
+1024,Dr. Rahul Sekhri   (Physiotherapist),Physiotherapist,13,Delhi,Preet Vihar,97% ,54,500,"BPTh/BPT, Diploma in Diet and Nutrition"
+1025,Dr. L.N. Taneja,Pediatrician,39,Delhi,Patparganj,100% ,N/A,1000,"MD - Pediatrics, MBBS"
+1026,Dr. Hirday Kapoor,Gynecologist/Obstetrician,30,Delhi,Punjabi Bagh,78% ,5,1000,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+1027,Dr. Sarita Gulati,Cardiologist,30,Delhi,Dwarka Sector 6,37% ,13,1100,"MBBS, DM - Cardiology"
+1028,Dr. Samanjoy Mukherjee,Cardiologist,31,Delhi,Dwarka Sector 6,N/A,N/A,1100,"MBBS, MD - General Medicine, DM - Cardiology"
+1029,Dr. Sudhanshu Pandey,Ayurveda,13,Delhi,Laxmi Nagar,94% ,9,700,BAMS

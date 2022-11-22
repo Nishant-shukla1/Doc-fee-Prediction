@@ -1,0 +1,1021 @@
+,name,Speciality,Experience,Location,District,DP_score,Num_of_votes,Consultation_Fee,Degree
+0,Dr. Shradha Goel,Ophthalmologist,20,Mumbai,Andheri West,99% ,169,499,"MS - Ophthalmology, MBBS"
+1,Dr. Sony Mehta,Urologist,9 ,Mumbai,Andheri,99% ,303,2000,"MBBS, DNB - General Surgery, DNB - Urology/Genito - Urinary Surgery"
+2,Dr. Samir Bagadia,Urologist,8 ,Mumbai,Andheri,100% ,4,1000,"MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery"
+3,Dr. Nikunj Mody,Plastic Surgeon,15,Mumbai,Chembur,100% ,33,1000,"MCh - Plastic & Reconstructive Surgery, MS - General Surgery, MBBS"
+4,Dr. Saumil Sheth,Ophthalmologist,22,Mumbai,Jogeshwari West,95% ,27,499,"MBBS, MS - Ophthalmology, DNB - Ophthalmology, FCPS- Ophthalmology, DOMS"
+5,Dr. Prachi Parmar,Ophthalmologist,12,Mumbai,Ghatkopar,100% ,17,99,"DO, MBBS"
+6,Dr. Rajeev Naik,General Surgeon,17,Mumbai,Ghatkopar East,89% ,15,800,"MBBS, MS - General Surgery"
+7,Dr. Sanjeed C Pujary,Orthopedist,15,Mumbai,Andheri,N/A,N/A,1500,"MBBS, MS - Orthopaedics"
+8,Dr. Prakash Hindurao Kurane,General Surgeon,8 ,Mumbai,Chembur,100% ,1,999,"MBBS, MS - General Surgery"
+9,Dr. Sanjeev J Balani,Ophthalmologist,30,Mumbai,Bandra West,86% ,5,499,"MBBS, DOMS"
+10,Dr. Dinesh K Hegde,Laparoscopic Surgeon,40,Mumbai,Chembur,90% ,4,99,"MBBS, MS - General Surgery"
+11,Dr. Kunjal Sejpal,Ophthalmologist,20,Mumbai,Dadar,100% ,41,499,"MBBS, DNB - Ophthalmology, DO"
+12,Dr. Jatin Ashar,Ophthalmologist,13,Mumbai,Ghatkopar,96% ,661,499,"MBBS, MD - Ophthalmology, DNB - Ophthalmology, FAICO (Fellow of All India Collegium of Ophthalmology)"
+13,Dr. Aditi Agrawal,General Surgeon,17,Mumbai,Borivali West,97% ,111,799,"MBBS, MS - General Surgery"
+14,Dr. Mukesh Shah,Urologist,39,Mumbai,Andheri,90% ,9,700,"MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery"
+15,Dr. Pranay Kapadia,Ophthalmologist,23,Mumbai,Bandra West,100% ,4,799,"MS - Ophthalmology, MBBS"
+16,Dr. Vishal Diddi,Laparoscopic Surgeon,16,Mumbai,Andheri,100% ,29,700,"MBBS, DNB - General Surgery, FCPS - General Surgery"
+17,Dr. Vicky Jain,Plastic Surgeon,16,Mumbai,Borivali West,99% ,72,999,"MCh - Plastic & Reconstructive Surgery, MS - General Surgery, MBBS"
+18,Dr. Jamal Akhtar Azmi,Urologist,13,Mumbai,Ghatkopar East,100% ,260,900,"MCh - Urology, MS - General Surgery, MBBS"
+19,Dr. Prakash Vaswani,General Surgeon,43,Mumbai,Chembur,63% ,1,500,"MBBS, MS - General Surgery"
+20,Dr. Agraja Tripathi,General Surgeon,14,Mumbai,Ghatkopar East,100% ,4,699,"MBBS, DNB - General Surgery"
+21,Dr. Jeetendra Jadhav,General Surgeon,22,Mumbai,Borivali West,91% ,27,799,"MS - General Surgery, MBBS"
+22,Dr. Gaurav Shalya,Plastic Surgeon,14,Mumbai,Chembur,100% ,4,1000,"MBBS, MCh - Plastic Surgery, MS - General Surgery"
+23,Dr. Shulmit Vaidya,General Surgeon,21,Mumbai,Ghatkopar East,N/A,N/A,500,"MBBS, MS - General Surgery"
+24,Dr. Jyoti Sable,General Surgeon,15,Mumbai,Borivali West,N/A,N/A,699,"MBBS, DNB - General Surgery"
+25,Dr. Bulchandani Santosh Kumar Kamal,Ophthalmologist,22,Mumbai,Bandra West,100% ,N/A,299,"MBBS, DO, DOMS, DNB - Ophthalmology"
+26,Dr. Sanjay Shah,General Physician,37,Mumbai,Mulund West,87% ,10,1500,"MBBS, MD - General Medicine"
+27,Dr. Raman Shenoy,General Physician,23,Mumbai,Mulund West,100% ,N/A,1500,"MBBS, MD - General Medicine"
+28,Dr. Rajanshu Tiwari,General Physician,12,Mumbai,Chembur,93% ,57,800,"MBBS, DNB - Family Medicine"
+29,Dr. Shradha Doshi,General Physician,11,Mumbai,Mulund West,100% ,7,900,MBBS
+30,Dr. Rohit Munot,Plastic Surgeon,17,Mumbai,Andheri West,67% ,3,500,"MBBS, MCh - Plastic & Reconstructive Surgery"
+31,Dr. Gail Chaudhari,General Physician,29,Mumbai,Oshiwara,95% ,20,600,MBBS
+32,Dr. Madhulika Goyle,General Physician,15,Mumbai,Andheri West,88% ,6,800,MBBS
+33,Dr. Rupesh.N.Nayak,General Physician,15,Mumbai,Chembur,96% ,14,800,"MBBS, DNB - General Medicine"
+34,Dr. Dhrumil Vinesh Panchal,General Physician,7 ,Mumbai,Wadala,96% ,48,600,MBBS
+35,Dr. Seema S. Masrani,General Physician,29,Mumbai,Kandivali West,88% ,3,1000,MBBS
+36,Dr. Irfan Mamawala,General Physician,22,Mumbai,Cuffe Parade,100% ,5,600,MBBS
+37,Dr. Dias Jewel Josephine James,General Physician,6 ,Mumbai,Borivali West,100% ,2,600,MBBS
+38,Dr. Sumeeta Padgaonkar,General Physician,24,Mumbai,Kemps Corner,100% ,4,600,MBBS
+39,Dr. Amey Jadhav,General Physician,10,Mumbai,Parel,100% ,15,600,MBBS
+40,Dr. Vaijayanti Mahajan,General Physician,23,Mumbai,Bandra East,95% ,28,800,MBBS
+41,Dr. Pratibha Shukla,General Physician,7 ,Mumbai,Mulund West,100% ,5,400,MBBS
+42,Dr. Samvaad Shetty,General Physician,10,Mumbai,Andheri East,100% ,16,900,MBBS
+43,Dr. Saidu Mukesh Kota,General Physician,5 ,Mumbai,Dadar East,93% ,12,500,MBBS
+44,Dr. Kiran C Mhatre,General Physician,24,Mumbai,Chembur East,85% ,18,1000,"MBBS, MD - General Medicine"
+45,Dr. Kalpana B Tiwari,General Physician,11,Mumbai,Chembur,100% ,31,600,"MBBS, DNB - Family Medicine"
+46,Dr. Bharti Desai,General Physician,36,Mumbai,Matunga West,89% ,13,600,MBBS
+47,Dr. Kshitija Arjun Khillare,General Physician,2 ,Mumbai,Powai,100% ,N/A,600,MD - Medicine (Equivalent to MBBS)
+48,Dr. Anshudeep Dodake,General Physician,11,Mumbai,Parel,100% ,13,500,"MBBS, MD - Pharmacology"
+49,Dr. Harshil Shah,Pulmonologist,5 ,Mumbai,Kandivali West,80% ,8,1500,"MBBS, MD - Tuberculosis & Respiratory Diseases / Pulmonary Medicine"
+50,Dr. Vijay Agarwal,General Physician,40,Mumbai,Kandivali East,95% ,28,500,MBBS
+51,Dr. Mili S. Joshi,Pediatrician,25,Mumbai,Santacruz East,97% ,56,600,"MBBS, Diploma in Child Health (DCH)"
+52,Dr. Sangeeta Chokhani,General Physician,32,Mumbai,Andheri West,100% ,13,500,MBBS
+53,Dr. Ameet Thakkar,General Physician,33,Mumbai,Wadala,98% ,42,700,MBBS
+54,Dr. Harish V. Dhuri,General Physician,26,Mumbai,Goregaon West,86% ,19,700,MBBS
+55,Dr. Tanvi Mayur Patel,General Physician,16,Mumbai,Juhu,88% ,31,2500,"MBBS, DOMS"
+56,Dr. Sahil Nasir Fulara,General Physician,11,Mumbai,Peddar Road,100% ,135,2500,"MD - General Medicine, MBBS"
+57,Dr. Kavita Agarwal,General Physician,40,Mumbai,Kandivali East,100% ,31,500,MBBS
+58,Dr. Bhavik Saglani,General Physician,Sp,Mumbai,Tardeo,100% ,30,3,MBBS
+59,Dr. Paula Goel,General Physician,31,Mumbai,Prabhadevi,70% ,8,500,MBBS
+60,Dr. Mayur Shrirang ghadage,General Physician,7 ,Mumbai,Lower Parel,91% ,5,800,MBBS
+61,Dr. Shobha Subramanian Itolikar,General Physician,16,Mumbai,Mulund West,100% ,1,1500,"MBBS, MD - General Medicine, DNB - General Medicine"
+62,Dr. Ujjyani Sengupta Pawar,General Physician,2 ,Mumbai,Vileparle West,100% ,48,950,MD - Medicine (Equivalent to MBBS)
+63,Dr. Swaroop Y Choudhari,General Physician,10,Mumbai,Andheri East,100% ,1,700,"MD - General Medicine, MBBS"
+64,Dr. S. S. Duggal,General Physician,39,Mumbai,Andheri West,85% ,9,1500,MBBS
+65,Dr. Anita Mathew Davis,General Physician,25,Mumbai,Mulund West,100% ,11,1500,"MBBS, MD - General Medicine"
+66,Dr. Amita Mody,General Physician,37,Mumbai,Bhandup East,94% ,29,500,MBBS
+67,Dr. Virag Gokhale,General Physician,45,Mumbai,Mulund West,100% ,1,1500,"MBBS, DNB - General Medicine"
+68,Dr. Rekha Kadam,General Physician,24,Mumbai,Kandivali West,100% ,2,500,MBBS
+69,Dr. Mansi Bhatt,General Physician,6 ,Mumbai,Prabhadevi,100% ,1,600,MBBS
+70,Dr. Rupal V Rana,General Physician,21,Mumbai,Borivali West,97% ,29,1920,MBBS
+71,Dr. Sanchaita Garg Shah,General Physician,12,Mumbai,Parel,92% ,19,700,"MBBS, MD - Medicine"
+72,Dr. Alka Dilip Bhedi,General Physician,44,Mumbai,Mulund West,100% ,N/A,1500,"MBBS, MD - General Medicine"
+73,Dr. Pradip Padamsi Shah,Internal Medicine,42,Mumbai,Mulund West,75% ,7,1500,"MBBS, MD - General Medicine"
+74,Dr. Ram Krishna Modi,General Physician,44,Mumbai,Mulund West,69% ,7,1500,"MBBS, MD - General Medicine"
+75,Dr. Manjeet Singh Arora,General Physician,39,Mumbai,Mulund West,100% ,1,1500,MBBS
+76,Dr. Pankaj Mistry,General Physician,40,Mumbai,Vileparle East,98% ,37,2000,"MBBS, MD - General Medicine"
+77,Dr. Trupti Gilada,General Physician,Sp,Mumbai,Lamington Road,83% ,6,5,"MBBS, MD - General Medicine"
+78,Dr. Binita Mehta,General Physician,25,Mumbai,Lokhandwala,100% ,2,600,MBBS
+79,Dr. Naresh Shetty,General Physician,34,Mumbai,Mulund West,100% ,N/A,1500,"MBBS, MD - General Medicine"
+80,Dr. Pradeep Talwalkar,Internal Medicine,45,Mumbai,Mahim,96% ,11,2000,"MBBS, MD - General Medicine"
+81,Dr. Umakant V. Ragte,General Physician,46,Mumbai,Mumbai Central,75% ,3,550,MBBS
+82,Dr. Nainesh Meswani,General Physician,28,Mumbai,Kurla West,100% ,1,500,MBBS
+83,Dr. Manish Shirsat,Internal Medicine,24,Mumbai,Mulund West,100% ,N/A,1500,"MBBS, MD - General Medicine"
+84,Dr. Indumathi Kuberan,General Physician,Sp,Mumbai,Borivali East,100% ,246,9,MBBS
+85,Dr. Anju Meswani,General Physician,22,Mumbai,Kurla West,80% ,5,650,MBBS
+86,Dr. Pritish Achalia,General Physician,24,Mumbai,Parel,100% ,3,500,MBBS
+87,Dr. Gaurav Beswal,General Physician,Sp,Mumbai,Opera House,100% ,248,6,MBBS
+88,Dr. Amish Mhatre,General Physician,24,Mumbai,Mulund West,20% ,3,2000,"MBBS, DNB - Peripheral Vascular Surgery"
+89,Dr. Tushar Rane,General Physician,15,Mumbai,Chembur,80% ,1,1200,"MBBS, FCPS - Medicine"
+90,Dr. Aniket Mule,General Physician,7 ,Mumbai,Mira Road,75% ,3,900,"MD - General Medicine, MBBS"
+91,Dr. Shubhashree Patil,Diabetologist,17,Mumbai,Andheri East,99% ,230,1000,"MBBS, DNB - General Medicine, Diploma in Diabetology (Mumbai University)"
+92,Dr. Yatin Gadgil,General Physician,24,Mumbai,Mahim,100% ,35,1300,"MBBS, MD - General Medicine"
+93,Dr. Anil  Bhoraskar,General Physician,44,Mumbai,Mahim,100% ,3,2300,"MBBS, MD - Medicine"
+94,Dr. Shoibalini Karmokar,General Physician,2 ,Mumbai,Santacruz West,100% ,12,900,MBBS
+95,Dr. Nirav Navin Tanna,General Physician,16,Mumbai,Kalbadevi,100% ,1,1000,MD - Physician
+96,Dr. Akshay Jain,General Physician,8 ,Mumbai,Lower Parel,99% ,103,500,MBBS
+97,Dr. Disha Bhanushali,General Physician,6 ,Mumbai,Mulund West,100% ,5,1000,"MBBS, Diploma in Child Health (DCH)"
+98,Dr. Veda,General Physician,21,Mumbai,Santacruz West,N/A,N/A,1500,MBBS
+99,Dr. Swati Vilas Indulkar,Ayurveda,31,Mumbai,Sion Koliwada,N/A,N/A,250,BAMS
+100,Dr. Sanjay Meriya,General Physician,9 ,Mumbai,Jogeshwari East,100% ,1,500,MBBS
+101,Dr. Suresh Jain,General Physician,30,Mumbai,Parel,N/A,N/A,1850,"MBBS, MD - General Medicine"
+102,Dr. Akshay Kumar,General Physician,1 ,Mumbai,Vikhroli East,N/A,N/A,299,MBBS
+103,Dr. Siddharth Vinod Lakhani,Nephrologist,13,Mumbai,Mahim,100% ,21,1800,"MBBS, MD - General Medicine, DM - Nephrology, DNB - Nephrology"
+104,Dr. Vijay Kulkarni,General Physician,18,Mumbai,Mahim,100% ,1,2300,MBBS
+105,Dr. Avinash Deo,General Physician,31,Mumbai,Mahim,89% ,13,1800,"MBBS, MD - General Medicine"
+106,Dr. Ashwini Bansode,General Physician,18,Mumbai,Andheri West,87% ,25,600,"MBBS, DOMS"
+107,Dr. A M Argikar,General Physician,28,Mumbai,Mahim,100% ,4,2300,"MBBS, MD - Medicine"
+108,Dr. R.B. Phatak,Internal Medicine,38,Mumbai,Mahim,100% ,N/A,2300,"MBBS, MD - Medicine"
+109,Dr. D K Baheti,General Physician,46,Mumbai,Mahim,N/A,N/A,1300,"MBBS, MD - Anaesthesiology"
+110,Dr. Rituparna Roy,General Physician,16,Mumbai,Andheri West,97% ,33,800,"MBBS, DNB - Family Medicine"
+111,Dr. Adwait Patil,General Physician,36,Mumbai,Mahim,N/A,N/A,1300,"MBBS, MD - Medicine"
+112,Dr. Hardik Shah,General Physician,24,Mumbai,Mahim,100% ,N/A,1300,"MBBS, MD - General Medicine"
+113,Dr. Alpana Sowani,Diabetologist,21,Mumbai,Mahim,86% ,4,1300,"MBBS, Diploma in Diabetology (Maharashtra University of Health Science)"
+114,Dr. Ravindra Hodarkar,Urologist,45,Mumbai,Mahim,43% ,9,1300,"MBBS, MS - General Surgery, MCh - Urology, DNB - Urology/Genito - Urinary Surgery"
+115,Dr. Uday Hegdekar,General Physician,36,Mumbai,Mahim,N/A,N/A,1800,"MBBS, MD - General Medicine"
+116,Dr. Aman  Syed,Internal Medicine,18,Mumbai,Andheri West,100% ,16,1500,"MBBS, MD - General Medicine"
+117,Dr. Santosh Jagtap,General Physician,27,Mumbai,Chembur East,92% ,9,1000,"MBBS, MD - General Medicine"
+118,Dr. Aarya Patil,General Physician,2 ,Mumbai,Vileparle,100% ,1,250,MBBS
+119,Dr. Sapna Shetty,General Physician,18,Mumbai,Borivali West,100% ,2,700,"MBBS, MD - General Medicine"
+120,Dr. Nikhil Kulkarni,General Physician,27,Mumbai,Mahim,50% ,1,2500,"MBBS, MD - General Medicine"
+121,Dr. Amitkumar Shah,General Physician,16,Mumbai,Andheri West,100% ,N/A,800,"MBBS, DNB - General Medicine, FCPS - Medicine"
+122,Dr. Umesh Shantilal Wadile,General Physician,13,Mumbai,Malad West,N/A,N/A,500,"MBBS, DNB - General Medicine"
+123,Dr. Tarun Jain,General Physician,14,Mumbai,Kandivali,N/A,N/A,800,MBBS
+124,Dr. Sunita Jonwal,Ayurveda,14,Mumbai,Kandivali West,90% ,132,800,MD - Ayurveda Medicine
+125,Dr. Jayashree Todkar,Bariatric Surgeon,30,Mumbai,Powai,95% ,7,1500,"MBBS, MS - General Surgery"
+126,Dr. Arun Kumar,Ayurveda,34,Mumbai,Dadar West,97% ,503,700,"MD - Alternate Medicine, BAMS"
+127,Dr. Amit Aroskar,Ayurveda,23,Mumbai,Borivali West,100% ,25,600,"BAMS, MD - Ayurveda Medicine"
+128,Dr. Nikhil Surana,Dentist,13,Mumbai,Kandivali East,96% ,27,500,"MDS - Orthodontics, BDS"
+129,Dr. Amar Ravjiani,Dentist,30,Mumbai,Ghatkopar East,98% ,135,750,"BDS, MDS - Orthodontics"
+130,Dr. Umesh Shetty,Orthopedist,32,Mumbai,Andheri West,84% ,236,1500,"MS - Orthopaedics, MBBS"
+131,Dr. Rupesh Singh,Homoeopath,23,Mumbai,Mira Road,94% ,52,700,DHMS (Diploma in Homeopathic Medicine and Surgery)
+132,Dr. Rahul Rane,Orthopedist,17,Mumbai,Powai,95% ,93,1400,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics"
+133,Dr. Pradeep Moonot,Orthopedist,27,Mumbai,Santacruz West,100% ,7,2200,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics"
+134,Dr. Saurabh Dani,Gynecologist/Obstetrician,22,Mumbai,Malad West,100% ,3,1000,"FCPS - Mid. & Gynae, MBBS, DGO"
+135,Dr. Vaishali Chaudhary,Gynecologist/Obstetrician,29,Mumbai,Chembur,97% ,166,1200,"MD - Obstetrics & Gynaecology, MBBS"
+136,Dr. Kapil Khandelwal,Neurosurgeon,13,Mumbai,Mulund West,92% ,34,2000,"MBBS, MCh - Neuro Surgery, MS - General Surgery"
+137,Dr. Pallavi Kendrekar,Dentist,24,Mumbai,Borivali West,98% ,110,800,BDS
+138,Dr. Rameshwar Gutte,Dermatologist,18,Mumbai,Kanjurmarg,95% ,85,500,"MBBS, MD - Dermatology, DVD"
+139,Dr. Suhas Lele,Dentist,41,Mumbai,Prabhadevi,98% ,29,ree,BDS
+140,Dr. Fayyaz A Sattar,Sexologist,31,Mumbai,Andheri West,98% ,875,500,"MD - Alternate Medicine, PG Diploma in Trichology, Diplomate of the American Board of Sexology (Sexology), BUMS"
+141,Dr. Kiran Katkar,Dermatologist,37,Mumbai,Dadar West,93% ,121,1000,"MBBS, DVD, MD - Skin Diseases"
+142,Dr. Chandrashekhar Kulkarni,Cardiac Surgeon,26,Mumbai,Parel,100% ,2,1850,"MCh - Thoracic Surgery, MRCS (UK), MS - General Surgery, MBBS"
+143,Dr. Neelkanth Dhamnaskar,Orthopedist,27,Mumbai,Parel,100% ,10,1850,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS"
+144,Dr. Prashant Kewle,Ear-Nose-Throat (ENT) Specialist,22,Mumbai,Chembur,96% ,17,1200,"MBBS, MS - ENT, Diploma in Otorhinolaryngology (DLO)"
+145,Dr. Gaurav Gupta,General Surgeon,19,Mumbai,Mulund West,100% ,N/A,2000,"MBBS, MS - General Surgery"
+146,Dr. Nalini Bhat,Ear-Nose-Throat (ENT) Specialist,33,Mumbai,Powai,N/A,N/A,1300,"MBBS, MS - ENT"
+147,Dr. Hemlata Hardasani,Gynecologist/Obstetrician,26,Mumbai,Andheri West,99% ,739,1500,"MBBS, DGO"
+148,Dr. Shaival Chauhan,Orthopedist,17,Mumbai,Ghatkopar West,100% ,301,1000,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics"
+149,Dr. Shilpa Bansal Agrawal,Gynecologist/Obstetrician,17,Mumbai,Andheri West,99% ,461,1200,"MBBS, MD - Obstetrics & Gynaecology"
+150,Dr. Aparna Prabhu,Gynecologist/Obstetrician,44,Mumbai,Vikhroli East,100% ,1,700,"MD - Obstetrics & Gynaecology, MBBS"
+151,Dr. Mukul Dabholkar,Dentist,42,Mumbai,Bandra West,100% ,11,500,BDS
+152,Dr. Sanjay Bhatia,Ear-Nose-Throat (ENT) Specialist,29,Mumbai,Mulund West,94% ,8,1500,"MBBS, DNB - ENT, Diploma in Otorhinolaryngology (DLO)"
+153,Dr. Jiten Chowdhry,General Surgeon,29,Mumbai,Bhandup West,94% ,130,1000,"MS - General Surgery, MBBS"
+154,Dr. Uma Dangi,Oncologist,15,Mumbai,Mulund West,69% ,8,2000,"MBBS, DNB - General Medicine, DNB  - Medical Oncology"
+155,Dr. Mohan Koppikarle,Laparoscopic Surgeon,27,Mumbai,Mulund West,100% ,1,1300,"MBBS, MS - General Surgery, MNAMS - General Surgery"
+156,Dr. Reshma Phulwar,Dentist,25,Mumbai,Chembur,96% ,329,700,BDS
+157,Dr. Neha V Shah,Dermatologist,13,Mumbai,Ghatkopar East,99% ,114,1000,"MBBS, DVD"
+158,Dr. Ketan Parmar,Psychiatrist,34,Mumbai,Borivali East,86% ,2,1200,"MBBS, DPM (Psychiatry), MD - Psychological Medicine"
+159,Dr. Jesal Seth,Pediatrician,23,Mumbai,Mulund West,100% ,1,1300,"MBBS, MD - Pediatrics"
+160,Dr. Prashanth Rao,Laparoscopic Surgeon,30,Mumbai,Parel,100% ,5,1850,"MBBS, MS - General Surgery"
+161,Dr. Alok Shah,Dentist,11,Mumbai,Powai,98% ,54,200,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+162,Dr. Naazneen Ladak,Psychiatrist,16,Mumbai,Andheri West,91% ,130,2000,"MBBS, DPM (Psychiatry)"
+163,Dr. Adip K shetty,Ear-Nose-Throat (ENT) Specialist,14,Mumbai,Bandra West,97% ,189,1200,"MBBS, MS - ENT"
+164,Dr. Parag M. Khatri,Dentist,29,Mumbai,Andheri East,99% ,290,500,"MDS - Periodontics, BDS"
+165,Dr. Priyanka Deshpande,Dentist,19,Mumbai,Borivali West,99% ,77,600,"BDS, MDS - Prosthodontics"
+166,Dr. Kirti Sabnis,,Sp,Mumbai,Mulund West,100% ,3,2,"DNB - General Medicine, MBBS"
+167,Dr. Shantanu Jambhekar,Dentist,15,Mumbai,Parel,99% ,85,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+168,Dr. Sameer Sadawarte,Pediatrician,22,Mumbai,Mulund West,100% ,2,1300,"MBBS, Diploma in Child Health (DCH)"
+169,Dr. Swapnil Shah,Dentist,33,Mumbai,Powai,98% ,133,500,BDS
+170,Dr. Sheeba Raveendran,Ayurveda,34,Mumbai,Borivali West,N/A,N/A,400,BAMS
+171,Dr. Gauri Kadam,Dentist,18,Mumbai,Andheri West,100% ,107,500,"BDS, MDS - Prosthodontics"
+172,Dr. P M Bhanej,Homoeopath,53,Mumbai,Malad West,91% ,7,700,Diploma in Homoeopathy and Biochemistry (D.H.B)
+173,Dr. N Arulvanan,General Surgeon,29,Mumbai,Mulund West,86% ,6,1300,"MBBS, MS - General Surgery"
+174,Dr. Prasad Chaudhari,Orthopedist,24,Mumbai,Chembur,95% ,10,1000,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics"
+175,Dr. Jayna Shah,Dentist,33,Mumbai,Powai,100% ,33,500,BDS
+176,Dr. Mukund Jaganathan,Plastic Surgeon,29,Mumbai,Chembur,100% ,N/A,1200,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+177,Dr. Himanshu Mehta,Ophthalmologist,39,Mumbai,Juhu,92% ,53,1200,"MBBS, DOMS"
+178,Dr. Sandhya Biyani,Dentist,12,Mumbai,Bandra West,99% ,169,500,BDS
+179,Dr. Girish Sabnis,Gynecologist/Obstetrician,43,Mumbai,Mulund West,N/A,N/A,1300,"MBBS, MD - Obstetrics & Gynaecology"
+180,Dr. Upasana Gosalia,Dentist,13,Mumbai,Ghatkopar East,100% ,244,350,BDS
+181,Dr. Richard Pereira,Dentist,26,Mumbai,Khar West,98% ,124,500,"BDS, MDS - Periodontics"
+182,Dr. Sujata Surana,Dentist,13,Mumbai,Kandivali East,100% ,1,500,"BDS, MDS - Oral Medicine and Radiology"
+183,Dr. Nilima Paranjpe,Veterinarian,27,Mumbai,Malad West,97% ,161,650,"Bachelor in Veterinary Science and Animal Husbandary (BVSc & AH), M.V.Sc - Veterinary Surgery & Radiology"
+184,Dr. Hitesh Shah,Sexologist,34,Mumbai,Kandivali West,99% ,505,1500,"Certificate Course in Integrated Clinical Hypnotherapy, Diplomate of the American Board of Sexology (Sexology), BHMS"
+185,Dr. Suresh Isawe,Dentist,41,Mumbai,Malad West,94% ,92,750,BDS
+186,Dr. Haresh  Timbadia,Cosmetologist,41,Mumbai,Borivali West,95% ,73,1200,"MD - Skin Diseases, MBBS"
+187,Dr. Kunal Mehta,Dentist,13,Mumbai,Mira Road,99% ,347,200,BDS
+188,Dr. Swati Garekar,Cardiologist,26,Mumbai,Mulund West,100% ,1,1500,"MBBS, Diplomater, American Board of Cardiology"
+189,Dr. Rikin Gogri,Dentist,21,Mumbai,Goregaon West,99% ,240,400,BDS
+190,Dr. Ritu Sharma,Dentist,12,Mumbai,Borivali East,100% ,47,300,BDS
+191,Dr. Safiuddin,Orthopedist,12,Mumbai,Tardeo,N/A,N/A,1500,"MBBS, MS - Orthopaedics"
+192,Dr. Nitesh Motwani,Dentist,14,Mumbai,Andheri West,99% ,118,300,"BDS, MDS - Oral & Maxillofacial Surgery"
+193,Dr. Simi Saksena,General Surgeon,33,Mumbai,Andheri West,99% ,61,1500,"MBBS, MS - General Surgery"
+194,Dr. Surinder Hansra,Cardiologist,23,Mumbai,Kandivali East,95% ,49,1000,"MBBS, MD - General Medicine, DNB - Cardiology"
+195,Dr. Deval Naik,Dentist,18,Mumbai,Goregaon West,99% ,109,500,BDS
+196,Dr. Riddhi Mehta,Dentist,13,Mumbai,Malad West,100% ,24,400,BDS
+197,Dr. Shalini Pal,Dentist,15,Mumbai,Marol,100% ,31,350,BDS
+198,Dr. Prashant Patel,Dentist,25,Mumbai,Borivali West,99% ,109,500,BDS
+199,Dr. Anand Narla,Dentist,23,Mumbai,Powai,94% ,54,500,"BDS, MDS - Orthodontics"
+200,Dr. Anand Narla,Dentist,23,Mumbai,Powai,94% ,54,500,"BDS, MDS - Orthodontics"
+201,Dr. Anviti Puranik,Dentist,12,Mumbai,Goregaon East,99% ,108,500,BDS
+202,Dr. Namrata Patil,Dentist,17,Mumbai,Powai,96% ,27,500,BDS
+203,Dr. Aditi Gaur,Dentist,11,Mumbai,Mulund West,100% ,11,200,"MDS - Orthodontics and Dentofacial Orthopaedics, BDS"
+204,Dr. A. K. Tandon,Ophthalmologist,37,Mumbai,Andheri West,98% ,219,1000,"MBBS, MS - Ophthalmology"
+205,Dr. Disha Sanghvi,Dentist,14,Mumbai,Versova,100% ,194,500,BDS
+206,Dr. Naman Hiralal Vora,Dentist,21,Mumbai,Mulund West,99% ,134,500,"BDS, MDS - Orthodontics"
+207,Dr. Nishant Gandhi,Dentist,16,Mumbai,Powai,98% ,229,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+208,Dr. Nikita Motwani,Dentist,10,Mumbai,Andheri West,100% ,63,300,BDS
+209,Dr. Sejal Jain,Dentist,12,Mumbai,Kandivali East,100% ,48,400,BDS
+210,Dr. Shalin Ghatalia,Dentist,15,Mumbai,Sion West,99% ,36,200,BDS
+211,Dr. Devang Shah,Dentist,12,Mumbai,Kandivali West,98% ,52,300,"BDS, MDS - Paedodontics And Preventive Dentistry"
+212,Dr. Manish Kachhara,Dentist,20,Mumbai,Ghatkopar East,99% ,189,500,BDS
+213,Dr. Rajesh Shinde,General Practitioner,27,Mumbai,Oshiwara,100% ,19,600,MBBS
+214,Dr. Preeti Hooda,Dentist,12,Mumbai,Kandivali East,100% ,23,300,BDS
+215,Dr. Parag Shah,Dentist,20,Mumbai,Ghatkopar East,99% ,54,500,BDS
+216,Dr. Prakash Trivedi,Gynecologist/Obstetrician,43,Mumbai,Ghatkopar East,99% ,133,3000,"MBBS, DGO, MD - Obstetrics & Gynaecology, FCPS - Mid. & Gynae"
+217,Dr. Meghal Shah,Dentist,16,Mumbai,Vileparle East,99% ,14,400,BDS
+218,Dr. Devesh Dholakia,Orthopedist,31,Mumbai,Parel,100% ,5,1750,"MBBS, MS - Orthopaedics"
+219,Dr. Kukreja A. Kalani,Homoeopath,25,Mumbai,Powai,98% ,342,500,"MD - Homeopathy, DHMS (Diploma in Homeopathic Medicine and Surgery)"
+220,Dr. Manish S. Sonawane,Dentist,17,Mumbai,Lokhandwala,98% ,46,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+221,Dr. Jigar Gala,Dentist,17,Mumbai,Andheri West,95% ,81,500,BDS
+222,Dr. Mayuri Jobanputra Shah,Dentist,12,Mumbai,Borivali West,97% ,49,300,"MDS - Oral & Maxillofacial Surgery, BDS"
+223,Dr. Jolly Shah Kapadia,Dermatologist,23,Mumbai,Mulund West,96% ,194,900,"DNB - Dermatology & Venereology, MBBS, DVD"
+224,Dr. Prabha Acharya,Homoeopath,34,Mumbai,Andheri East,98% ,191,1500,"BHMS, MD - Homeopathy"
+225,Dr. Pankaj Ashok Agarwal,Neurologist,25,Mumbai,Parel,79% ,10,2350,"MBBS, MD - General Medicine, DNB - General Medicine, DM - Neurology"
+226,Dr. Jasmit B.Desai,Dentist,13,Mumbai,Borivali West,97% ,147,300,BDS
+227,Dr. Sagar D. Barkade,Dentist,16,Mumbai,Chembur,99% ,231,700,BDS
+228,Dr. Kruti Harsh Mehta   (Physiotherapist),Physiotherapist,13,Mumbai,Vikhroli,100% ,58,400,"BPTh/BPT, MPTh/MPT - Neurological Physiotherapy"
+229,Dr. Sonia Tekchandani,Dermatologist,36,Mumbai,Malad West,93% ,253,2000,"DVD, MBBS"
+230,Dr. Sejal Saheta,Dermatologist,18,Mumbai,Powai,95% ,238,900,"DNB - Dermatology & Venereology, MBBS"
+231,Dr. Keerti Sachdeva (PhD)   (PhD),Psychologist,37,Mumbai,Andheri West,87% ,34,2000,"M.Phil. Educational Psychology, MSc. - Child Psychology"
+232,Dr. Rucha Baphna,Dentist,10,Mumbai,Vileparle West,99% ,35,300,BDS
+233,Dr. Nysha Garg,Dentist,14,Mumbai,Goregaon East,98% ,49,500,"MDS - Prosthodontics, BDS"
+234,Dr. Sonia Anare,Dentist,13,Mumbai,Parel,100% ,20,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+235,Dr. Hetal Chheda,Dentist,15,Mumbai,Borivali West,100% ,37,400,BDS
+236,Dr. Siddhi Dinesh Prabhu,Dentist,12,Mumbai,Grant Road,100% ,79,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+237,Dr. Rajesh Shetty,Dentist,25,Mumbai,Bandra West,99% ,192,1000,"BDS, MDS - Periodontology and Oral Implantology, Certificate in Cosmetic Dentistry"
+238,Dr. Dipika Bharani,Dentist,13,Mumbai,Vileparle East,99% ,125,300,BDS
+239,Dr. Amit Chavan,Dentist,14,Mumbai,Dadar East,99% ,144,500,"MDS - Periodontics, BDS"
+240,Dr. Sanket Sheth,Dentist,15,Mumbai,Ghatkopar East,99% ,141,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+241,Dr. Priyanka Sukthankar   (Physiotherapist),Physiotherapist,14,Mumbai,Andheri East,99% ,204,600,BPTh/BPT
+242,Dr. Jagat Shah,Homoeopath,20,Mumbai,Borivali West,95% ,124,800,"MD - Homeopathy, BHMS"
+243,Dr. Pradnya Randive,Gynecologist/Obstetrician,16,Mumbai,Bhandup West,95% ,78,800,"MBBS, MS - Obstetrics & Gynaecology"
+244,Dr. Vividha Singhania,Dentist,13,Mumbai,Mahim,100% ,188,500,"MDS - Oral & Maxillofacial Surgery, BDS"
+245,Dr. Manoj Bodhwani,Dentist,16,Mumbai,Khar West,98% ,142,500,"BDS, MDS - Prosthodontics"
+246,Dr. Prakash S. Jain,Dentist,22,Mumbai,Cumballa Hill,99% ,48,600,BDS
+247,Dr. Saba Rasool,Dentist,22,Mumbai,Andheri West,100% ,42,1000,BDS
+248,Dr. Pooja Ghodke,Ophthalmologist,12,Mumbai,Andheri West,100% ,178,600,"MBBS, MS - Ophthalmology"
+249,Dr. Pankti Shah,Dentist,10,Mumbai,Kandivali West,98% ,52,300,BDS
+250,Dr. Fauzia Khimani Naaz,Dentist,12,Mumbai,Jacob Circle,99% ,93,500,BDS
+251,Dr. Shraddha Khot   (Physiotherapist),Physiotherapist,15,Mumbai,Borivali West,100% ,30,500,BPTh/BPT
+252,Dr. Janaki Kodkani,Ophthalmologist,23,Mumbai,Bandra West,92% ,25,1000,"MBBS, MS - Ophthalmology, DOMS, FCPS- Ophthalmology"
+253,Dr. Vinit Pandhi,Dentist,14,Mumbai,Andheri West,100% ,10,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+254,Dr. Urvi Ashar,Dentist,9 ,Mumbai,Chembur,99% ,112,700,BDS
+255,Dr. Sakarwala Mustafa,Dentist,27,Mumbai,Mazgaon,99% ,78,1000,"MDS - Oral & Maxillofacial Surgery, BDS"
+256,Dr. Shital S Jadhav,Gynecologist/Obstetrician,18,Mumbai,Kandivali East,99% ,59,1000,"DNB - Obstetrics & Gynecology, MBBS"
+257,Dr. Rajiv Bhanej,Homoeopath,21,Mumbai,Malad West,96% ,42,700,"BHMS, MD - Homeopathy"
+258,Dr. Yash Devckar,Ear-Nose-Throat (ENT) Specialist,10,Mumbai,Chembur East,100% ,49,700,"MBBS, MS - ENT"
+259,Dr. Jignesh Kothari,Dentist,19,Mumbai,Santacruz West,98% ,249,1000,"BDS, MDS - Orthodontics"
+260,Dr. Ganesh Avhad,Dermatologist,14,Mumbai,Sion,99% ,67,800,"MBBS, MD - Dermatology , Venereology & Leprosy"
+261,Dr. Vidhan C Doshi,Ophthalmologist,12,Mumbai,Andheri East,99% ,173,800,"MBBS, MS - Ophthalmology"
+262,Dr. Vilas Kulkarni,Pediatrician,52,Mumbai,Andheri West,98% ,43,1000,"MD - Pediatrics, MBBS"
+263,Dr. Menaz Thakkar,Dentist,13,Mumbai,Chembur,98% ,82,700,BDS
+264,Dr. Mohit Solanki,Dentist,11,Mumbai,Andheri West,98% ,200,500,"BDS, Certificate of Oral Implantology, FICOI"
+265,Dr. Rati Chadha,Dentist,14,Mumbai,Bandra West,99% ,351,500,"BDS, MDS - Prosthodontics"
+266,Dr. Ajaykumar R. Gajengi,Urologist,18,Mumbai,Borivali West,91% ,21,1000,"MS - General Surgery, MCh - Urology, MBBS"
+267,Dr. Anju Hajari,Gynecologist/Obstetrician,25,Mumbai,Santacruz West,98% ,39,2000,"MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, Fellow of Royal College of Obstetricians and Gynaecologists FRCOG (London)"
+268,Dr. Sagar J Abichandani,Dentist,13,Mumbai,Chembur,97% ,8,500,"BDS, MDS - Prosthodontics"
+269,Dr. Priyal Virani,Dentist,15,Mumbai,Mulund West,93% ,10,400,BDS
+270,Dr. Fahad Naaz,Dentist,13,Mumbai,Jacob Circle,98% ,133,500,BDS
+271,Dr. Gouri Sultane Gupta,Gynecologist/Obstetrician,19,Mumbai,Goregaon West,92% ,93,1000,"MBBS, DNB - Obstetrics & Gynecology, DGO, FCPS - Mid. & Gynae"
+272,Dr. Sneha Hukmani Sheth,Dentist,14,Mumbai,Ghatkopar East,100% ,19,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+273,Dr. Haresh Mangalani,Orthopedist,31,Mumbai,Mulund West,N/A,N/A,2000,"MBBS, MS - Orthopaedics"
+274,Dr. Chandra Pal,Dentist,26,Mumbai,Kurla West,93% ,5,500,BDS
+275,Dr. Nitin Goradia,Ayurveda,30,Mumbai,Grant Road,97% ,67,1500,BAMS
+276,Dr. Keyur Mehta,Dentist,15,Mumbai,Khar West,100% ,49,800,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+277,Dr. Shubhangi Mahajan,Dermatologist,12,Mumbai,Parel,100% ,57,800,"MBBS, DDVL"
+278,Dr. Yogesh Kalyanpad,Dermatologist,12,Mumbai,Santacruz West,100% ,343,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+279,Dr. Abhishek Modi,Dentist,10,Mumbai,Walkeshwar,100% ,52,500,"BDS, Fellowship in Oral implantlogy"
+280,Dr. Sarika Holmukhe,Dermatologist,17,Mumbai,Andheri West,95% ,102,1000,"DNB - Dermatology & Venereology, MBBS, DDVL"
+281,Dr. Rohan Virani,Dentist,16,Mumbai,Mulund West,95% ,144,500,"BDS, MDS - Oral Medicine and Radiology"
+282,Dr. Prajct Sao,Dermatologist,20,Mumbai,Lower Parel,93% ,33,1000,"MBBS, MD - Dermatology"
+283,Ms. Geetanjali,Dietitian/Nutritionist,18,Mumbai,Bandra West,99% ,58,1500,"Post Graduate Diploma in Dietetics and Hospital Food Service, MSc. - Dietetics & Food Service Management, BSc. - Home Science (Applied Nutrition)"
+284,Dr. Diksha Tahilramani Batra,Dentist,15,Mumbai,Bandra West,98% ,312,1000,"BDS, MDS - Prosthodontics, FICOI"
+285,Dr. Devanshi Shah,Ophthalmologist,11,Mumbai,Ghatkopar East,98% ,35,800,"MS - Ophthalmology, DNB - Ophthalmology, MBBS, Fellow of the Royal College of Ophthalmologists of UK (FRCOphth. UK)"
+286,Dr. Amit Majethia,Dentist,12,Mumbai,Ghatkopar East,100% ,88,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+287,Dr. Kuldip Raj Kohli,Ayurveda,40,Mumbai,Lower Parel,100% ,444,1000,"BAMS, MD - Ayurveda Medicine, PhD- Ayurveda"
+288,Dr. Varun Parikh,Dentist,14,Mumbai,Ghatkopar East,99% ,31,500,"PhD - Orthodontics & Dentofacial Orthopaedics, BDS"
+289,Dr. Ishwari Bhirud,Dentist,32,Mumbai,Andheri East,96% ,39,500,"BDS, Diploma in Health Administration"
+290,Dr. Suhani Talesara,Dentist,13,Mumbai,Jogeshwari,100% ,200,500,BDS
+291,Dr. Yuvaraja S Shetty,Pediatrician,17,Mumbai,Mulund West,99% ,182,1000,"MBBS, MD - Pediatrics"
+292,Dr. Ashlesha Sankhe,Gynecologist/Obstetrician,26,Mumbai,Andheri West,98% ,89,1500,"MD - Obstetrics & Gynaecology, MBBS"
+293,Dr. Anita Gupta,Ayurveda,26,Mumbai,Mulund West,98% ,133,2000,"BAMS, Certificate in Food and Nutrition"
+294,Dr. Priyam Bhagat,Dermatologist,16,Mumbai,Goregaon East,98% ,137,1200,"MD - Skin & VD, Diploma in Dermatology, MBBS"
+295,Dr. Punit Kaur Anand Khalsa,Dentist,7 ,Mumbai,Chembur East,99% ,49,100,BDS
+296,Dr. Raina Nahar,Dermatologist,14,Mumbai,Andheri West,92% ,122,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+297,Dr. Suhas Vidyadhar Abhyankar,Plastic Surgeon,26,Mumbai,Dadar East,98% ,22,1000,"MBBS, MS - General Surgery, MCh - Plastic Surgery, DNB - Plastic Surgery"
+298,Dr. Darshan Sheth,Dentist,14,Mumbai,Ghatkopar East,98% ,115,500,BDS
+299,Dr. Lajja Shah   (Physiotherapist),Physiotherapist,14,Mumbai,Ghatkopar East,96% ,24,800,"BPTh/BPT, MPTh/MPT - Musculoskeletal Physiotherapy"
+300,Dr. Namrata Jadwani,Dentist,8 ,Mumbai,Bandra West,99% ,8,1000,MDS - Prosthodontics
+301,Dr. Raman  Sandhu,Dentist,9 ,Mumbai,Andheri West,98% ,42,500,"BDS, MDS - Prosthodontics"
+302,Dr. Erbaz Riyazahmed Momin,General Surgeon,23,Mumbai,Chembur,N/A,N/A,1500,"MBBS, MS - General Surgery"
+303,Dr. Abhinav Tiwari,Pediatrician,11,Mumbai,Powai,99% ,104,800,"MBBS, Diploma in Child Health (DCH)"
+304,Dr. Sadhana Deshmukh,Dermatologist,19,Mumbai,Bandra West,97% ,138,1500,"MBBS, DNB - Dermatology & Venereology, FCPS - Dermatology, Venereology & Leprosy"
+305,Dr. Ashish Agrawal,Cardiologist,19,Mumbai,Mulund West,97% ,165,1500,"DM - Cardiology, MD - Medicine, MBBS"
+306,Dr. Payal Sharma Kamath,Psychiatrist,11,Mumbai,Borivali East,96% ,154,1500,"MBBS, M.D. (Psychiatry)"
+307,Dr. Pooja Desai,Dentist,15,Mumbai,Oshiwara,98% ,86,800,BDS
+308,Dr. Husain Harianawala,Dentist,13,Mumbai,Lokhandwala,96% ,49,1000,"BDS, MDS - Prosthodontist And Crown Bridge"
+309,Dr. Gaurav Poplai,Dentist,14,Mumbai,Bandra West,99% ,61,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+310,Dr. Namrita Sheregar,Gynecologist/Obstetrician,16,Mumbai,Andheri West,99% ,106,1000,"MBBS, DNB - Obstetrics & Gynecology, DGO, MNAMS - Obstetrics & Gynaecology"
+311,Dr. Zinal,Pediatrician,24,Mumbai,Andheri West,98% ,11,2000,"MBBS, Diploma in Child Health (DCH)"
+312,Dr. Dinesh Kumar Joshi   (Physiotherapist),Physiotherapist,6 ,Mumbai,Goregaon West,100% ,50,700,BPTh/BPT
+313,Dr. Nida Rangila,Dentist,3 ,Mumbai,Bandra West,100% ,28,500,N/A
+314,Dr. Sachin Singh,Dentist,11,Mumbai,Kandivali West,97% ,58,300,"BDS, PhD - Orthodontics & Dentofacial Orthopaedics"
+315,Dr. Amit Oswal,Dentist,13,Mumbai,Lal baug,100% ,4,200,"BDS, MDS - Conservative Dentistry & Endodontics"
+316,Dr. Prakash Kumar Jha,Homoeopath,24,Mumbai,Mira Road,92% ,12,450,BHMS
+317,Dr. Chetan Bhole,Dentist,24,Mumbai,Mulund East,92% ,N/A,500,BDS
+318,Dr. Siddharth Prakash,Plastic Surgeon,22,Mumbai,Andheri West,98% ,74,3000,"DNB - Plastic Surgery, MS - General Surgery, DNB - General Surgery, MBBS"
+319,Dr. Sujata Chitnis,Pediatrician,41,Mumbai,Vileparle East,100% ,16,1000,"MBBS, MD - Pediatrics"
+320,Dr. Asmita Sawe,Dietitian/Nutritionist,15,Mumbai,Vileparle East,97% ,41,1500,"BHMS, Post Graduation Diploma in Dietetics and Public Health Nutrition"
+321,Dr. C. B. Munjewar,Cardiologist,16,Mumbai,Ghatkopar,97% ,17,1500,"MBBS, MD - General Medicine, DM - Cardiology"
+322,Dr. Neha Agarwal,Dentist,8 ,Mumbai,Mira Bhayandar,100% ,3,200,BDS
+323,Dr. Yogesh P Mehta,Pediatrician,38,Mumbai,Ghatkopar West,99% ,62,1000,MD - Pediatrics
+324,Dr. Ajay Nimbalkar,Dermatologist,11,Mumbai,Bandra West,96% ,66,1200,"MD - Dermatology , Venereology & Leprosy, MBBS"
+325,Dr. Rajesh Mishra,Ophthalmologist,16,Mumbai,Matunga East,100% ,15,1500,"MBBS, MS - Ophthalmology"
+326,Dr. Swapnil Sharma,GastroIntestinal Surgeon,14,Mumbai,Powai,N/A,N/A,1600,"DNB - Surgical Gastroenterology, MS - General Surgery, MBBS"
+327,Dr. Parzan Mistry,Gynecologist/Obstetrician,8 ,Mumbai,Nana Chowk,100% ,25,1000,"MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+328,Dr. Komal Dixit,Homoeopath,15,Mumbai,Ghatkopar East,75% ,14,450,"BHMS, MD - Homeopathy"
+329,Dr. Hetal Pabaria,Homoeopath,19,Mumbai,Mulund West,100% ,7,450,BHMS
+330,Dr. Mohd Asif,Hair Transplant Surgeon,10,Mumbai,Santacruz West,100% ,99,1000,"MBBS, MD - Dermatology , Venereology & Leprosy"
+331,Dr. Manish Hinduja,Cardiac Surgeon,12,Mumbai,Mulund West,100% ,3,1500,"MBBS, DNB - Cardiothoracic Surgery, MS - General Surgery, MCh - Cardio Thoracic and Vascular Surgery"
+332,Dr. Shilpa Nayak,Pediatrician,19,Mumbai,Andheri West,98% ,127,1500,"Diploma in Child Health (DCH), MBBS"
+333,Dr. Anshuman Manaswi,Plastic Surgeon,28,Mumbai,Vileparle West,100% ,2,1500,"MBBS, MS - General Surgery, MCh - Plastic Surgery"
+334,Dr. Neeta Warty,Gynecologist/Obstetrician,35,Mumbai,Santacruz West,80% ,3,2700,"MBBS, MD - Obstetrics & Gynaecology, DGO"
+335,Dr. Shlesha Shah,Dentist,15,Mumbai,Mulund West,99% ,56,300,BDS
+336,Dr. Kavin J. Shah,Dentist,13,Mumbai,JB Nagar,100% ,37,500,"MDS - Orthodontics and Dentofacial Orthopaedics, BDS"
+337,Dr. Vibha Arora,Gynecologist/Obstetrician,21,Mumbai,Malad West,98% ,98,1000,"MBBS, MD - Obstetrics & Gynaecology"
+338,Dr. Punam Solanki,Gynecologist/Obstetrician,13,Mumbai,Andheri West,86% ,11,900,MD - Obstetrics & Gynaecology
+339,Dr. Ravikiran M. Vernekar,Ear-Nose-Throat (ENT) Specialist,21,Mumbai,Powai,96% ,66,1600,"MBBS, MS - ENT"
+340,Dr. Ajay Randive,Orthopedist,23,Mumbai,Santacruz East,84% ,18,1000,"MS - Orthopaedics, MBBS"
+341,Dr. Aashish Tiwari,Dentist,14,Mumbai,Tilak Nagar,100% ,171,300,BDS
+342,Dr. Rajshree Chavan,Ayurvedic Pharmacologist,13,Mumbai,Dadar East,97% ,152,600,"BAMS, Advanced Diploma in Dietetics, MD - Ayurvedic Pharmacology"
+343,Dr. Vandana Bansal,Gynecologist/Obstetrician,29,Mumbai,Santacruz West,70% ,7,1500,"MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, DGO"
+344,Dr. Hetal Kothari,Dentist,25,Mumbai,Santacruz West,99% ,142,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+345,Dr. Ankesh Jain,Dentist,12,Mumbai,Mazgaon,100% ,42,200,"BDS, MDS - Oral & Maxillofacial Surgery"
+346,Dr. Nirali Mehta,Dentist,12,Mumbai,Santacruz West,N/A,N/A,1200,"BDS, MDS - Paedodontics And Preventive Dentistry"
+347,Dr. Chitralekha Rane,Dentist,21,Mumbai,Andheri West,100% ,14,800,BDS
+348,Dr. Wishi Parihar,Dentist,11,Mumbai,Mira Road,100% ,17,200,BDS
+349,Dr. Mikeen Shah,Ophthalmologist,13,Mumbai,Andheri East,94% ,15,600,"MBBS, DNB - Ophthalmology"
+350,Dr. Sumana Kar,Dentist,12,Mumbai,Marol,100% ,43,500,"MDS - Prosthodontist And Crown Bridge, BDS"
+351,Dr. Aditi Lele,Dentist,14,Mumbai,Prabhadevi,98% ,2,500,"BDS, MDS - Oral Medicine and Radiology, Certificate in Dental Implants"
+352,Dr. Yash Girish Shete,Homoeopath,7 ,Mumbai,Malad West,100% ,6,500,BHMS
+353,Dr. Akshaya Shetty,General Physician,10,Mumbai,Andheri East,100% ,21,600,"MD - General Medicine, MBBS"
+354,Dr. Sanjeev Upadhyaya,Ophthalmologist,23,Mumbai,Marine Drive,100% ,6,2500,"MBBS, MS - Ophthalmology"
+355,Dr. Ankur Sharma   (Physiotherapist),Physiotherapist,16,Mumbai,Malad West,99% ,66,600,BPTh/BPT
+356,Dr. Pooja Gawand,Dentist,12,Mumbai,Mulund West,98% ,11,500,BDS
+357,Dr. Rahul N. Patil,Dentist,15,Mumbai,Chandivali,94% ,46,400,"BDS, MDS - Oral & Maxillofacial Surgery"
+358,Dr. Ritu Girdhar,Dentist,15,Mumbai,Wadala,100% ,366,500,BDS
+359,Dr. Hiral Shah,Dentist,13,Mumbai,Ghatkopar East,99% ,42,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+360,Dr. Hiral Shah,Dentist,13,Mumbai,Ghatkopar East,99% ,42,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+361,Dr. Kirti Aherwal,Dentist,10,Mumbai,Mira Bhayandar,100% ,77,200,BDS
+362,Dr. Sweta Sinha,Cosmetologist,16,Mumbai,Ghatkopar East,99% ,98,500,"Diploma in Diet and Nutrition, BHMS, PG Diploma In Clinical Cosmetology (PGDCC), PG Diploma in Trichology"
+363,Dr. Rachna Ghatalia,Dentist,15,Mumbai,Sion West,100% ,1,200,BDS
+364,Dr. Ashitesh Kumar,Dentist,11,Mumbai,Chembur East,99% ,125,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+365,Dr. Abhijit  Jadhav,Diabetologist,22,Mumbai,Mulund East,98% ,137,1000,"MBBS, Diploma in Diabetology (Mumbai University), FCPS - Medicine"
+366,Dr. Sejal Vivek Parekar,Homoeopath,24,Mumbai,Borivali West,100% ,N/A,450,"BHMS, Masters in Counselling and Psychotherapy"
+367,Dr. Sanket Brahmbhatt,Dentist,10,Mumbai,Vileparle West,100% ,9,300,"BDS, MDS - Periodontology and Oral Implantology"
+368,Dr. Vaishali Chaudhari,Gynecologist/Obstetrician,14,Mumbai,Chembur East,100% ,10,800,"MBBS, DGO"
+369,Dr. Abbasali Barodawala,Dentist,12,Mumbai,Andheri West,100% ,19,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+370,Dr. Dhvani Desai   (Physiotherapist),Physiotherapist,2 ,Mumbai,Mulund West,100% ,5,500,Masters of Physiotheraphy
+371,Dr. Mary Grace Dakey,Dentist,14,Mumbai,Andheri East,99% ,35,500,BDS
+372,Dr. Aditi Gvalani,Dentist,17,Mumbai,Tardeo,99% ,53,500,BDS
+373,Dr. Vishakha Darade,Dentist,9 ,Mumbai,Bhandup West,97% ,31,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+374,Dr. Prasad Rane,Dentist,21,Mumbai,Andheri West,99% ,315,800,"BDS, MDS - Conservative Dentistry "
+375,Dr. Bhumija Gautam,Dentist,15,Mumbai,Andheri West,99% ,181,500,BDS
+376,Dr. Shruti Thar,Gynecologist/Obstetrician,11,Mumbai,Mulund West,100% ,9,1000,"MBBS, DGO, FCPS - Mid. & Gynae"
+377,Dr. Perola Menon,Dentist,34,Mumbai,Churchgate,100% ,108,1500,BDS
+378,Dr. Maya Nair,Dentist,9 ,Mumbai,Mulund West,99% ,157,500,BDS
+379,Dr. Amol Patil,Ear-Nose-Throat (ENT) Specialist,18,Mumbai,Vileparle West,98% ,154,1000,"MBBS, Diploma in Otorhinolaryngology (DLO), DNB - Otorhinolaryngology"
+380,Dr. Dilip Rajpal,Laparoscopic Surgeon,23,Mumbai,Chembur,100% ,134,1200,"MBBS, MS - General Surgery, FICS - General Surgery"
+381,Dr. Danesh Nair,Dentist,12,Mumbai,Chembur East,100% ,14,100,"BDS, MDS - Periodontics"
+382,Dr. Yajuvendra Gawai,Orthopedist,23,Mumbai,Santacruz West,98% ,78,1500,"MBBS, MS - Orthopaedics"
+383,Dr. Kaustubh Mahajan,Neurologist,8 ,Mumbai,Mahim,93% ,8,1300,"MBBS, FCPS - Medicine, DNB - Neurology"
+384,Dr. Shreyas Shah,Dentist,16,Mumbai,Mulund West,100% ,4,1500,"BDS, MDS - Oral Medicine and Radiology"
+385,Dr. Raksha Savla,Dentist,12,Mumbai,Andheri West,96% ,10,500,BDS
+386,Dr. Shipra Jhawar,Dentist,7 ,Mumbai,Walkeshwar,100% ,32,300,BDS
+387,Dr. Rabiah Patel,Dentist,14,Mumbai,Andheri West,100% ,1,300,BDS
+388,Dr. Nana D Morkane,Spine And Pain Specialist,24,Mumbai,Chembur East,96% ,80,1000,"MBBS, MD - Anaesthesiology"
+389,Dr. Rahul Shetty,Dermatologist,11,Mumbai,Vileparle West,97% ,19,800,"MBBS, MD - Dermatology"
+390,Dr. Suraj Shetty,Dermatologist,13,Mumbai,Andheri West,98% ,61,900,"MBBS, DDVL"
+391,Dr. Priyanka Pandhi,Dentist,10,Mumbai,Andheri West,98% ,13,500,BDS
+392,Dr. Shalomith Uppapalli,Ophthalmologist,14,Mumbai,Andheri West,100% ,113,1000,"DNB - Ophthalmology, MBBS"
+393,Dr. Pragnya Rathod,Ophthalmologist,12,Mumbai,Chembur,96% ,13,1000,"MBBS, DNB - Ophthalmology"
+394,Dr. Karanjit Singh Chaudhary,Dentist,18,Mumbai,Chembur,100% ,156,500,"BDS, MDS - Prosthodontics"
+395,Dr. Bhavin Shial,Spine Surgeon,21,Mumbai,Andheri West,97% ,25,2000,"MS - Orthopaedics, MBBS"
+396,Dr. Saadan  Shahid,Homoeopath,24,Mumbai,Lokhandwala,100% ,6,450,BHMS
+397,Dr. Meenu Dinesh,Dentist,6 ,Mumbai,Chembur East,N/A,N/A,200,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+398,Dr. Manoj Gandhi,Laparoscopic Surgeon,27,Mumbai,Dadar,90% ,19,1500,"DNB - General Surgery, MBBS"
+399,Dr. Tejal Shah,Dentist,18,Mumbai,Goregaon West,98% ,49,500,BDS
+400,Dr. Kinnari,Dentist,10,Mumbai,Borivali West,100% ,1,200,BDS
+401,Dr. Anagha Chhatrapati,Gynecologist/Obstetrician,15,Mumbai,Parel,100% ,6,1600,"MS - Obstetrics & Gynaecology, MBBS"
+402,Dr. Geoffrey Vaz,Dermatologist,10,Mumbai,Versova,100% ,10,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+403,Dr. Ritu R Singh,Homoeopath,19,Mumbai,Mira Road,83% ,16,500,BHMS
+404,Dr. Jyoti Narla,Dentist,22,Mumbai,Powai,96% ,318,500,"BDS, MDS - Periodontics"
+405,Dr. Radhika Parekh Paleja,Dentist,14,Mumbai,Bandra West,100% ,28,1500,"BDS, MDS - Prosthodontics"
+406,Dr. Utkarsh Pawar,Orthopedist,10,Mumbai,Andheri West,100% ,16,1500,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+407,Dr. Shantanu  K Kundgir,Orthopedist,19,Mumbai,Bandra West,90% ,36,1500,"MBBS, Diploma in Orthopaedics, FCPS - Orthopedic"
+408,Dr. Anjali Jitendra Bapat,Gynecologist/Obstetrician,36,Mumbai,Mahim,95% ,146,1000,"MBBS, MD - Obstetrics & Gynaecology, DGO, FCPS - Mid. & Gynae"
+409,Dr. Amruta Bhalchandra Wadekar,Dentist,28,Mumbai,Dahisar East,100% ,59,500,BDS
+410,Dr. Gauri Patil,Dermatologist,11,Mumbai,Dadar,91% ,9,700,"DDVL, MBBS"
+411,Dr. Jay Mehta,Gynecologist/Obstetrician,11,Mumbai,Ghatkopar East,85% ,8,3000,"MBBS, DNB - Obstetrics & Gynecology"
+412,Dr. Shravan Chawla,Dentist,13,Mumbai,Peddar Road,100% ,64,1000,BDS
+413,Ms. Riddhi Sagar,Psychologist,9 ,Mumbai,Vileparle West,96% ,34,1500,MA - Psychology
+414,Dr. Chandni Kotak,Ophthalmologist,11,Mumbai,Malabar Hill,100% ,21,1200,"DNB - Ophthalmology, FAICO (Fellow of All India Collegium of Ophthalmology), MNAMS - Ophthalmology, MBBS"
+415,Dr. Aashiq Shaikh,Dentist,13,Mumbai,Bhandup West,100% ,267,300,BDS
+416,Dr. Abhishek Ramesh Chauhan,Hair Transplant Surgeon,14,Mumbai,Ghatkopar West,98% ,34,1000,"MDS - Oral & Maxillofacial Surgery, BDS"
+417,Dr. Rajendra S Sankpal,Gynecologist/Obstetrician,28,Mumbai,Malad West,98% ,66,1000,"MD - Obstetrics & Gynaecology, DGO, MBBS"
+418,Dr. Raashi Mehta,Dermatologist,12,Mumbai,Peddar Road,96% ,49,1500,"MBBS, DNB - Dermatology & Venereology"
+419,Dr. Shoaib Akhai,Dentist,13,Mumbai,Lower Parel,100% ,10,300,BDS
+420,Dr. Rajasree S,Pediatrician,15,Mumbai,Santacruz West,N/A,N/A,1500,"Member of the Royal College of Paediatrics and Child Health (MRCPCH, London, Glasgow or Edinburgh), MBBS"
+421,Dr. Subhash K Dhawale,Homoeopath,22,Mumbai,Parel,97% ,17,2500,"BHMS, MD - Homeopathy"
+422,Dr. Ameya Manish Sonawane,Dentist,12,Mumbai,Lokhandwala,100% ,N/A,300,BDS
+423,Dr. Arun Swarup,Dentist,42,Mumbai,Bandra West,99% ,116,1000,BDS
+424,Dr. Renubala Rout,Gynecologist/Obstetrician,16,Mumbai,Kandivali East,98% ,33,1000,"DNB - Obstetrics & Gynecology, MBBS"
+425,Dr. Soumil Trivedi,Gynecologist/Obstetrician,14,Mumbai,Ghatkopar East,100% ,83,2000,"MBBS, DNB - Obstetrics & Gynecology"
+426,Dr. Hitesh Singhavi,Dentist,7 ,Mumbai,Mulund West,N/A,N/A,2000,"BDS, MDS - Oral & Maxillofacial Surgery"
+427,Dr. Neha Palvia Parikh,Dentist,13,Mumbai,Ghatkopar East,100% ,18,1000,BDS
+428,Dr. Charmi Mehta,Dentist,12,Mumbai,Kandivali West,100% ,95,200,BDS
+429,Dr. Aayush Tandon,Ophthalmologist,10,Mumbai,Andheri West,99% ,71,1000,"MBBS, MS - Ophthalmology"
+430,Dr. Nasreen Akhai,Dentist,10,Mumbai,Lower Parel,100% ,4,300,"BDS, Diploma in Cosmetology"
+431,Dr. Aaditi Mahajan,Dentist,12,Mumbai,Chembur East,98% ,51,300,"MDS - Periodontics, BDS"
+432,Dr. Mangesh Govardhan Mohod,Dentist,10,Mumbai,Kandivali East,100% ,N/A,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+433,Dr. Shivangi Singh,Endocrinologist,18,Mumbai,Chembur East,96% ,150,2000,"DM - Endocrinology, MD - General Medicine, MBBS"
+434,Dr. Jigna Sanghavi,Dentist,13,Mumbai,Mira Road,100% ,140,200,BDS
+435,Ms. Geeta Shenoy,Dietitian/Nutritionist,32,Mumbai,Chembur East,98% ,102,2000,"BSc - Dietitics / Nutrition, Post Graduation Diploma in Dietetics"
+436,Dr. Bhushan Ghodke,Ophthalmologist,14,Mumbai,Andheri West,100% ,385,600,"MS - Ophthalmology, MBBS"
+437,Dr. Preetam Kumar Jain,Oncologist,15,Mumbai,Mahim,100% ,2,2500,"DM - Oncology, MD - General Medicine, MBBS"
+438,Ms. Deekshaa Athwani,Psychologist,2 ,Mumbai,Mulund West,N/A,N/A,1500,"M.Phil - Clinical Psychology, MA - Clinical Psychology, BA - Clinical Psychology"
+439,Dr. Kunal Chavan,Dentist,13,Mumbai,Bhandup West,98% ,81,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+440,Dr. Vivian Varghese,Dentist,11,Mumbai,Borivali West,100% ,107,300,"BDS, MDS - Paedodontics And Preventive Dentistry"
+441,Dr. Gautam Kikeri,Dentist,24,Mumbai,Powai,100% ,N/A,700,"BDS, MDS - Conservative Dentistry & Endodontics, Fellowship and Diplomate in Implantology from ICOI (USA)"
+442,Dr. Amit Vora,Homoeopath,18,Mumbai,Bhandup West,96% ,201,1000,"BHMS, M. D. Hom. (Material Medica)"
+443,Dr. Kinjal Shah,Homoeopath,13,Mumbai,Kandivali West,100% ,16,2200,"BHMS, MD - Homeopathy"
+444,Dr. Gautam Nadkarni,General Surgeon,25,Mumbai,Chembur,75% ,4,1000,MS - General Surgery
+445,Dr. Harsh Haren Shah,Dentist,12,Mumbai,Mira Road,99% ,177,200,"BDS, MDS - Conservative Dentistry & Endodontics"
+446,Dr. Swarup Sampat,Homoeopath,18,Mumbai,Sakinaka,57% ,4,450,BHMS
+447,Dr. Bhavesh Gohil,Ophthalmologist,22,Mumbai,Wadala,99% ,68,800,"MBBS, MS - Ophthalmology, DNB - Ophthalmology, DOMS"
+448,Dr. Bhushan Sabnis,Orthopedist,23,Mumbai,Andheri West,100% ,3,2000,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK), FRCS - Trauma & Orthopedic Surgery"
+449,Dr. Kanika Madan,Dentist,12,Mumbai,Bandra West,95% ,11,500,"MDS - Conservative Dentistry & Endodontics, BDS"
+450,Dr. Kalpesh Shah,Ophthalmologist,20,Mumbai,Ghatkopar East,100% ,1,1000,"MBBS, MS - Ophthalmology"
+451,Dr. Abhijit Pawar,Dentist,20,Mumbai,Powai,100% ,73,200,"BDS, MDS - Oral & Maxillofacial Surgery"
+452,Dr. Tanuja Deshpande,Dentist,14,Mumbai,Vileparle East,100% ,3,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+453,Dr. Harshada Mane,Dentist,8 ,Mumbai,Dadar West,98% ,162,ree,BDS
+454,Dr. Nirmal Rathore,Dentist,8 ,Mumbai,Dadar West,100% ,3,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+455,Dr. Punit Vinod Garg,Pediatrician,8 ,Mumbai,Malad West,100% ,3,800,"MD - Pediatrics, MBBS"
+456,Dr. Ritu Mehta,Dentist,6 ,Mumbai,Borivali West,100% ,16,250,BDS
+457,Dr. Nisha Jain,Dentist,12,Mumbai,Mazgaon,95% ,35,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+458,Dr. Rohan Sawant   (Physiotherapist),Physiotherapist,9 ,Mumbai,Kandivali West,100% ,50,400,BPTh/BPT
+459,Dr. Darshan Desai,Ayurveda,21,Mumbai,Borivali West,98% ,46,800,"BAMS, MD - Ayurveda Medicine"
+460,Dr. Jeetendra Khatuja,Dermatologist,14,Mumbai,Andheri West,99% ,208,1000,"DNB - Dermatology & Venereology, DVD, MBBS"
+461,Dr. Rima Sonpal,Gynecologist/Obstetrician,11,Mumbai,Ghatkopar West,98% ,37,800,"MBBS, DGO, FCPS - Mid. & Gynae"
+462,Dr. Kunjal Shah   (Physiotherapist),Physiotherapist,15,Mumbai,Santacruz West,100% ,1,1200,"BPTh/BPT, MPTh/MPT - Sports Physiotherapy"
+463,Dr. Reema Nanavati,Dentist,14,Mumbai,Borivali,100% ,19,300,"MDS - Conservative Dentistry & Endodontics, BDS"
+464,Dr. Manoj S Thamke,Pediatrician,19,Mumbai,Mulund East,100% ,45,700,N/A
+465,Dr. Tabrez Lakha,Dentist,10,Mumbai,Khar West,94% ,17,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+466,Dr. Nanda R Kumar,Gynecologist/Obstetrician,19,Mumbai,Chembur East,89% ,117,1000,N/A
+467,Dr. Indu Bubna,Pulmonologist,20,Mumbai,Malad West,98% ,296,1500,"MD - Physician, Diploma in Tuberculosis Diseases (TDD)"
+468,Dr. Varsha Gupta,Ayurveda,14,Mumbai,Ghatkopar West,96% ,25,500,BAMS
+469,Dr. Prajakta Rajurkar,Ayurveda,16,Mumbai,Andheri West,100% ,1,299,BAMS
+470,Dr. Archana Pathare,Homoeopath,18,Mumbai,Dahisar,100% ,21,700,N/A
+471,Dr. Soham Mallick,Dentist,10,Mumbai,Powai,100% ,43,600,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+472,Dr. Anuja Jadhav,Dermatologist,9 ,Mumbai,Dadar,98% ,34,800,N/A
+473,Dr. Ameera Lakha,Dentist,7 ,Mumbai,Khar West,100% ,13,500,N/A
+474,Dr. Akshay Chitnis,General Surgeon,6 ,Mumbai,Bandra,100% ,2,1500,"MS - General Surgery, MBBS"
+475,Dr. Shrutika Jaju,Dentist,11,Mumbai,Vileparle West,100% ,59,500,"MDS - Conservative Dentistry & Endodontics, BDS"
+476,Dr. Shubhada Kulkarni,Gynecologist/Obstetrician,43,Mumbai,Andheri West,91% ,124,1000,"MBBS, MD - Obstetrics & Gynaecology"
+477,Dr. Kruti Dholakia,Dentist,14,Mumbai,Andheri West,97% ,35,500,BDS
+478,Dr. Vikas Halwai,Dermatologist,13,Mumbai,Chinchpokli,94% ,73,800,"MBBS, DVD"
+479,Dr. Manjushri Kothekar,Gynecologist/Obstetrician,18,Mumbai,Chembur,100% ,13,1000,"MBBS, MS - Obstetrics & Gynaecology"
+480,Dr. Manisha Kshirsagar,Dermatologist,18,Mumbai,Vikhroli East,93% ,33,850,"MBBS, DVD"
+481,Dr. Deepti Chawla,Pediatrician,12,Mumbai,Malad,100% ,17,800,"MBBS, MD - Pediatrics"
+482,Dr. Shruti Shah,Dentist,15,Mumbai,Dadar East,100% ,31,500,BDS
+483,Dr. Shyamal Anand Lad,Dentist,8 ,Mumbai,Cuffe Parade,100% ,29,300,BDS
+484,Dr. Priyanka M Tater,Neurologist,12,Mumbai,Mahim,N/A,N/A,1800,"MBBS, MD - General Medicine, DM - Neurology"
+485,Dr. Kaiwan K. Shroff,Dentist,12,Mumbai,Bandra West,100% ,12,500,"MDS - Prosthodontist And Crown Bridge, BDS"
+486,Dr. Priya Karande   (Physiotherapist),Physiotherapist,8 ,Mumbai,Parel,100% ,22,500,BPTh/BPT
+487,Dr. Ankita Chauhan,Dentist,11,Mumbai,Ghatkopar West,100% ,22,600,BDS
+488,Dr. Ashish Castellino,Ear-Nose-Throat (ENT) Specialist,15,Mumbai,Bandra West,96% ,9,1000,"MBBS, DNB - ENT, MNAMS - Otorhinolaryngology"
+489,Dr. Rahul Siraskar,Dermatologist,13,Mumbai,Sion,96% ,22,1000,"MBBS, DDVL"
+490,Dr. Radhika Sheth,Reproductive Endocrinologist (Infertility),14,Mumbai,Malad West,100% ,241,1100,"MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, FCPS - Mid. & Gynae, DGO, DNB - Family Medicine"
+491,Ms. Varsha Ugaonkar,Yoga and Naturopathy,5 ,Mumbai,Mulund West,98% ,36,300,Bachelor in Naturopathy (B Nat)
+492,Dr. Ashish Agarwal,Orthopedist,33,Mumbai,Matunga,97% ,42,1500,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics"
+493,Dr. Brijesh Kumar Yadav,Homoeopath,13,Mumbai,Mira Road,96% ,59,700,BHMS
+494,Dr. Vikrant Bagwe,Ear-Nose-Throat (ENT) Specialist,8 ,Mumbai,Dahisar West,100% ,16,700,"MS - ENT, MBBS"
+495,Dr. Darpan Kaur,Psychiatrist,17,Mumbai,Sion East,99% ,50,1500,"MBBS, DNB - Psychiatry"
+496,Dr. Pankaj Savla,Dentist,13,Mumbai,Andheri West,99% ,71,500,BDS
+497,Dr. Pruthviraj Dabarase,Neurologist,14,Mumbai,Vikhroli,100% ,2,1500,"MD - General Medicine, DNB - Neurology"
+498,Dr. Malay Mehta,Dermatologist,11,Mumbai,Vileparle West,96% ,79,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+499,Dr. Priyanka S. Udeshi,Dentist,8 ,Mumbai,Prabhadevi,100% ,4,500,"BDS, MDS - Orthodontics and Dentofacial Orthopaedics"
+500,Dr. Sneh Mehta,Dentist,11,Mumbai,Ghatkopar East,100% ,33,500,N/A
+501,Dr. Pranita Patil,Homoeopath,18,Mumbai,Khar West,75% ,4,450,BHMS
+502,Dr. Priyanka Jairaj Dalvi,Dentist,11,Mumbai,Vileparle West,100% ,32,500,"BDS, MDS - Periodontics"
+503,Dr. Pratima S  Wagh,Ophthalmologist,27,Mumbai,Kandivali,100% ,13,600,"MBBS, DOMS"
+504,Dr. Chetan Lokhande,Psychiatrist,12,Mumbai,Kurla East,100% ,10,1300,"MBBS, M.D. (Psychiatry)"
+505,Dr. Prachi Shah,Dentist,11,Mumbai,Khar West,100% ,27,500,BDS
+506,Dr. Rishika Chauhan,Ophthalmologist,13,Mumbai,Ghatkopar West,100% ,160,1500,"MBBS, MS - Ophthalmology"
+507,Dr. Sanjay Erande,Sexologist,16,Mumbai,Dadar West,98% ,73,700,"BAMS, Certificate of Fellowship in Sexology"
+508,Dr. Mitale Pimpale,Dentist,9 ,Mumbai,Mulund West,100% ,53,500,BDS
+509,Dr. Anoop Dhamangaonkar,Orthopedist,9 ,Mumbai,Mahim,N/A,N/A,1800,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FCPS - Orthopedic, MNAMS - Orthopaedics"
+510,Dr. Rahul Oza,Dentist,12,Mumbai,Juhu,100% ,35,500,BDS
+511,Dr. Bhushan S  Bawankar,Dermatologist,12,Mumbai,Matunga West,97% ,123,1000,"MBBS, DVD"
+512,Dr. Sanhita Shelar,Dentist,7 ,Mumbai,Borivali West,100% ,48,300,BDS
+513,Dr. Disha Bamboli   (Physiotherapist),Physiotherapist,9 ,Mumbai,Jogeshwari West,100% ,47,500,"MPTh/MPT - Neurological Physiotherapy, BPTh/BPT"
+514,Dr. Nitin Aherrao,Gastroenterologist,15,Mumbai,Andheri West,97% ,17,2000,"MBBS, MD - General Medicine, DM - Gastroenterology"
+515,Dr. Avani Khadepau   (Physiotherapist),Physiotherapist,20,Mumbai,Kandivali West,100% ,9,500,BPTh/BPT
+516,Dr. Dhwani Kapadia,Dentist,10,Mumbai,Borivali West,100% ,17,800,BDS
+517,Dr. Ambika Arora,Dentist,11,Mumbai,Tilak Nagar,100% ,37,2000,"BDS, MDS - Oral Medicine and Radiology"
+518,Dr. Priti Nandanwar,Gynecologist/Obstetrician,30,Mumbai,Kurla East,97% ,25,800,"MBBS, DGO"
+519,Dr. Zubeda Tumbi   (PhD),Dietitian/Nutritionist,33,Mumbai,Andheri West,96% ,421,1000,N/A
+520,Dr. Jeenam Shah,Pulmonologist,11,Mumbai,Gamdevi,95% ,27,2000,"MBBS, MD - Pulmonary Medicine, DAA - Diploma in Allergy Asthma and Immunology, DNB - Pulmonary Medicine"
+521,Dr. Ayesha,Cosmetologist,6 ,Mumbai,Andheri West,97% ,29,800,"Diploma in Medical Cosmetology, BUMS"
+522,Dr. Nirali Shah,Homoeopath,17,Mumbai,Mulund West,100% ,42,750,BHMS
+523,Dr. Dipti Gandhi,Dentist,38,Mumbai,Ghatkopar East,99% ,39,300,"BDS, FICOI"
+524,Dr. Avanti Shah,Dentist,10,Mumbai,Chembur,100% ,2,400,BDS
+525,Dr. Avya Bansal,Pulmonologist,8 ,Mumbai,Khar West,100% ,95,1500,"MBBS, MD - Respiratory Medicine, DNB - Respiratory Diseases"
+526,Dr. Himanshu Shah,Dentist,14,Mumbai,Lamington Road,100% ,N/A,500,BDS
+527,Dr. Reshma Chawla Beriwal,Dentist,12,Mumbai,Bandra West,99% ,65,1000,"BDS, MDS - Conservative Dentistry & Endodontics"
+528,Dr. M T KHAN,Orthopedist,12,Mumbai,Khar West,100% ,16,1500,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MBBS"
+529,Dr. Nisarg Bhatt,Orthopedist,8 ,Mumbai,Malad West,100% ,10,1200,"Diploma in Orthopaedics, MBBS"
+530,Dr. Ravi Kumar   (Physiotherapist),Physiotherapist,14,Mumbai,Chembur East,100% ,7,400,BPTh/BPT
+531,Dr. Bhadra P. Vaidya,Ayurveda,20,Mumbai,Goregaon West,100% ,11,700,BAMS
+532,Dr. Bhumika Rai,Gynecologist/Obstetrician,9 ,Mumbai,Vikhroli East,100% ,10,700,"MBBS, MS - Obstetrics & Gynaecology"
+533,Dr. Ketki Trivedi,Ayurveda,36,Mumbai,Vileparle West,100% ,1,300,BAMS
+534,Dr. Nikhil Ranjan,Dentist,5 ,Mumbai,Elphinstone Road,100% ,25,300,BDS
+535,Dr. Anuradha Narayanan,Gynecologist/Obstetrician,16,Mumbai,Chembur,88% ,4,800,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+536,Dr. Reetu Kait,Dentist,5 ,Mumbai,Mira Road,91% ,9,200,BDS
+537,Dr. Rangnath Jhawar,Dentist,8 ,Mumbai,Mira Road,100% ,2,300,BDS
+538,Dr. Sangita B Manek,Ophthalmologist,24,Mumbai,Bhandup West,100% ,29,700,"MBBS, DOMS"
+539,Dr. Farhath Sayed,Dentist,11,Mumbai,Lokhandwala,97% ,33,1000,"BDS, MDS - Conservative Dentistry & Endodontics"
+540,Dr. Shivani Gupta,Dentist,7 ,Mumbai,Chinchpokli,100% ,3,300,BDS
+541,Dr. Ritu Shah,Ophthalmologist,11,Mumbai,Andheri East,100% ,1,1000,"MD - Ophthalmology, MBBS"
+542,Dr. Meghna Radhakrishnan,Dentist,10,Mumbai,Chembur East,100% ,12,500,BDS
+543,Dr. Deepak K. Jaybhaye,Pediatrician,9 ,Mumbai,Bhandup West,100% ,N/A,500,"MBBS, MD - Pediatrics"
+544,Dr. Samarjit S. Bansal,Orthopedist,16,Mumbai,Borivali,99% ,56,600,"MBBS, MS - Orthopaedics"
+545,Dr. Ismail Shaikh,Dermatologist,24,Mumbai,Colaba,91% ,4,1000,"MD - Skin & VD, MBBS"
+546,Dr. Samriddhi Shetty   (Physiotherapist),Physiotherapist,6 ,Mumbai,Dadar,67% ,2,1000,BPTh/BPT
+547,Dr. Rashmi Shetty,Dentist,17,Mumbai,Chembur,97% ,61,500,BDS
+548,Dr. Julie Davda,Dentist,16,Mumbai,Bhandup,N/A,N/A,200,BDS
+549,Dr. Ujjvala Jadhav,Dermatologist,23,Mumbai,Goregaon East,93% ,107,900,"FCPS - Dermatology, Venereology & Leprosy, DVD, MBBS"
+550,Dr. Neelu Jain   (Physiotherapist),Physiotherapist,32,Mumbai,Kandivali West,99% ,223,600,BPTh/BPT
+551,Dr. Shivani Nirav Agrawat,Ophthalmologist,14,Mumbai,Borivali East,100% ,47,500,"DO, MBBS"
+552,Dr. Mamatha Shriyan,Gynecologist/Obstetrician,23,Mumbai,Malad West,N/A,N/A,500,"MBBS, MD - Obstetrics & Gynaecology"
+553,Dr. Joshika Bhandary,Dermatologist,11,Mumbai,Andheri West,100% ,1,900,"MBBS, MD - Dermatology , Venereology & Leprosy"
+554,Dr. Pratiksha Tiwari,Dentist,7 ,Mumbai,Mulund East,100% ,7,300,"BDS, MDS - Prosthodontics"
+555,Dr. Vaishali Shedge,Gynecologist/Obstetrician,15,Mumbai,Borivali West,92% ,16,800,"MBBS, DGO"
+556,Dr. Abhijit  Jadhav,Diabetologist,22,Mumbai,Mulund East,98% ,137,1000,"MBBS, Diploma in Diabetology (Mumbai University), FCPS - Medicine"
+557,Dr. Nidhi Shah,Dermatologist,6 ,Mumbai,Marine Lines,100% ,33,1250,"MBBS, MD - Dermatology , Venereology & Leprosy"
+558,Dr. Vaidehi Dande,Pediatrician,18,Mumbai,Prabhadevi,100% ,1,1200,"MBBS, MD - Pediatrics"
+559,Dr. Sapna Khare,Gynecologist/Obstetrician,14,Mumbai,Goregaon West,100% ,67,800,"MBBS, DNB - Obstetrics & Gynecology"
+560,Dr. Sachin Salunkhe,Dentist,12,Mumbai,Mulund West,100% ,3,200,BDS
+561,Dr. Deepika Asati,Gynecologist/Obstetrician,18,Mumbai,Kandivali East,95% ,13,800,"MBBS, DGO"
+562,Dr. Mit Doshi,Ophthalmologist,10,Mumbai,Malad East,100% ,3,600,"MBBS, MS - Ophthalmology"
+563,Dr. Prabhjot Manchanda,Gynecologist/Obstetrician,12,Mumbai,Ghatkopar East,88% ,39,800,"MBBS, DNB - Obstetrics & Gynecology"
+564,Dr. Minal M Thamke Pawar,Dermatologist,16,Mumbai,Mulund East,99% ,43,800,"DNB - Dermatology & Venereology, Diploma in Dermatology, MBBS"
+565,Dr. Rais Ansari,General Surgeon,22,Mumbai,Worli,98% ,17,3500,"MS - General Surgery, MBBS"
+566,Dr. Rajani Singh   (Physiotherapist),Physiotherapist,3 ,Mumbai,Andheri East,N/A,N/A,600,N/A
+567,Dr. Prarthana Thakkar,Dentist,5 ,Mumbai,Ghatkopar East,100% ,4,500,BDS
+568,Dr. Jyoti Shetty,Gynecologist/Obstetrician,29,Mumbai,Bandra East,60% ,4,1200,"MBBS, MD - Obstetrics & Gynaecology"
+569,Ms. Shubhangi Deshmukh,Acupuncturist,20,Mumbai,Powai,100% ,3,1200,MD - Acupuncture
+570,Dr. Swapnil Tople,Urologist,14,Mumbai,Chembur,94% ,8,1500,"DNB - Urology/Genito - Urinary Surgery, MBBS"
+571,Dr. Priyanka Ghuge Avhad,Dermatologist,12,Mumbai,Sion,95% ,32,800,"MBBS, DNB - Dermatology & Venereology"
+572,Dr. Atul Patil,Orthopedist,11,Mumbai,Mulund East,97% ,123,800,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+573,Dr. Vinita Tekchandani,Dentist,11,Mumbai,Bandra West,100% ,11,500,"BDS, MDS - Oral Pathology and Oral Microbiology"
+574,Dr. Vasudev,Gastroenterologist,23,Mumbai,Bhandup West,87% ,118,1700,"MBBS, MD - Medicine, DM - Gastroenterology"
+575,Dr. Iti Garg,Dentist,15,Mumbai,Wadala,100% ,1,500,"MDS - Paedodontics And Preventive Dentistry, BDS"
+576,Dr. Neetu Patel,Ayurveda,27,Mumbai,Malad West,100% ,N/A,400,BAMS
+577,Dr. Shreya Dutta,Dentist,6 ,Mumbai,Bandra West,95% ,21,500,BDS
+578,Dr. Premlata Jaiswal   (Physiotherapist),Physiotherapist,10,Mumbai,Mira Road,95% ,52,300,BPTh/BPT
+579,Dr. Prithviraj Deshmukh,Orthopedist,4 ,Mumbai,Andheri East,N/A,N/A,800,"MBBS, MS - Orthopaedics"
+580,Dr. Sneha Naik Samant,Psychiatrist,12,Mumbai,Borivali,99% ,57,1200,"DPM (Psychiatry), MBBS"
+581,Dr. Deven Dabholkar,Dentist,13,Mumbai,Borivali West,100% ,11,300,N/A
+582,Dr. Arpan Dhoka,Pulmonologist,10,Mumbai,Chembur,100% ,10,1200,"MBBS, MD - Pulmonary Medicine"
+583,Dr. Sonyabai Sasane,Dentist,7 ,Mumbai,Borivali West,100% ,10,500,BDS
+584,Dr. Apeksha Chaudhari,Dermatologist,8 ,Mumbai,Marol,98% ,54,800,"MBBS, DVD"
+585,Dr. Preeti Patil,Ophthalmologist,27,Mumbai,Bandra West,100% ,53,1000,"DOMS, MBBS"
+586,Dr. Shaikh Firdos Mukhtar Ahmed   (Physiotherapist),Physiotherapist,12,Mumbai,Prabhadevi,100% ,12,1000,"BPTh/BPT, MPTh/MPT - Musculoskeletal Physiotherapy"
+587,Dr. Manisha Jethava,Dermatologist,8 ,Mumbai,Mulund West,100% ,5,900,"MBBS, MD - Dermatology , Venereology & Leprosy"
+588,Dr. Gautami Sharangpani,Dentist,7 ,Mumbai,Kandivali East,100% ,20,600,N/A
+589,Dr. Varun H Shah,Gynecologist/Obstetrician,14,Mumbai,Borivali West,100% ,143,1000,"DNB - Obstetrics & Gynecology, DGO, MBBS, Diploma in Advanced Endoscopic Gynae Surgery, Fellowship in Reproductive Medicine"
+590,Dr. Sanjeev Ahuja,Pediatrician,26,Mumbai,Powai,85% ,31,1100,"MBBS, MD - Pediatrics, Diploma in Child Health (DCH)"
+591,Dr. Mayuri Surve,Ayurveda,12,Mumbai,Ghatkopar East,75% ,5,300,BAMS
+592,Dr. Ankita Gupta,Dentist,8 ,Mumbai,Bandra West,100% ,8,500,BDS
+593,Dr. Hemang Parekh,Ayurveda,18,Mumbai,Malad West,100% ,N/A,300,BAMS
+594,Dr. Amol Gaikwad,Ayurveda,16,Mumbai,Mira Road,69% ,11,299,BAMS
+595,Dr. Nikita Jadhav,Trichologist,8 ,Mumbai,Lal baug,88% ,15,1000,"MD - Dermatology, MBBS"
+596,Dr. K Neethu John   (Physiotherapist),Physiotherapist,10,Mumbai,Prabhadevi,100% ,8,1000,BPTh/BPT
+597,Dr. Preeti Shetty,Dentist,19,Mumbai,Kandivali West,N/A,N/A,300,"MDS - Periodontics, BDS"
+598,Dr. Kripal M Panchal   (Physiotherapist),Physiotherapist,6 ,Mumbai,Malad East,100% ,5,1000,BPTh/BPT
+599,Dr. Harshida Pai   (Physiotherapist),Physiotherapist,12,Mumbai,Andheri East,99% ,148,800,BPTh/BPT
+600,Dr. Nikita Naik,Dentist,10,Mumbai,Vileparle West,98% ,63,800,BDS
+601,Dr. Rahul Shukla,Pediatrician,9 ,Mumbai,Mira Road,100% ,14,800,"MD - Pediatrics, MBBS"
+602,Dr. Shraddha Ganatra,Gynecologist/Obstetrician,13,Mumbai,Malad West,100% ,2,700,"MBBS, DGO"
+603,Dr. Avanti Kadam Rane   (Physiotherapist),Physiotherapist,17,Mumbai,Bandra West,98% ,76,1000,BPTh/BPT
+604,Ms. Smita Nanda R D,Dietitian/Nutritionist,16,Mumbai,Kandivali East,97% ,112,1200,PGD ND
+605,Dr. Nikhil Gurjar,Psychiatrist,4 ,Mumbai,Mahim,100% ,8,1300,"MBBS, M.D. (Psychiatry)"
+606,Dr. Usha Beloskar,Dermatologist,26,Mumbai,Dadar West,100% ,N/A,1000,"MBBS, Diploma in Dermatology"
+607,Dr. Khushboo   (Physiotherapist),Physiotherapist,13,Mumbai,Ghatkopar East,100% ,N/A,500,BPTh/BPT
+608,Dr. Bandish Parekh,Dentist,14,Mumbai,Matunga,99% ,117,500,"MDS - Conservative Dentistry & Endodontics, BDS"
+609,Dr. Lekha Mishra,Pediatrician,Sp,Mumbai,Powai,N/A,N/A,,"MBBS, MD - Pediatrics"
+610,Dr. Sayali Nilesh Rangnekar,Ayurveda,9 ,Mumbai,Kandivali East,100% ,1,299,BAMS
+611,Dr. Niraj Jha   (Physiotherapist),Physiotherapist,16,Mumbai,Chembur,97% ,694,1000,"BPTh/BPT, MPTh/MPT - Neurological Physiotherapy"
+612,Dr. Manveen Kaur Lamba,Dentist,7 ,Mumbai,Oshiwara,100% ,1,300,BDS
+613,Dr. Rajashri Shanbhag,Pediatrician,26,Mumbai,Jogeshwari East,100% ,8,800,"MBBS, Diploma in Child Health (DCH)"
+614,Ms. Deesha Ponda,Occupational Therapist,15,Mumbai,Malad West,100% ,22,1000,"Bachelor of Occupational Therapy (BOT), Master of Occupational Therapy (MOT)"
+615,Dr. Sonal Katwala,Gynecologist/Obstetrician,22,Mumbai,Borivali West,97% ,59,800,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+616,Dr. Priyam Bhagat,Dermatologist,16,Mumbai,Goregaon East,98% ,137,1200,"MD - Skin & VD, Diploma in Dermatology, MBBS"
+617,Dr. Gunjan Patel,Dentist,14,Mumbai,Mulund West,98% ,31,200,BDS
+618,Dr. Ila Tyagi,Reproductive Endocrinologist (Infertility),30,Mumbai,Chembur East,88% ,9,1000,"MBBS, MD - Anaesthesiology, DGO, DNB - Obstetrics & Gynecology"
+619,Dr. Nihar P Thakkar,Dentist,12,Mumbai,Mulund West,100% ,7,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+620,Dr. Karishma Bhate-Chavan,Ophthalmologist,11,Mumbai,Chembur East,100% ,N/A,800,"MBBS, DNB - Ophthalmology"
+621,Dr. Suhas Vilasrao Aagre,Oncologist,9 ,Mumbai,Chembur,95% ,39,2000,"DM - Medical Oncology, MD - General Medicine, MBBS"
+622,Dr. Saket Sathe,Urologist,11,Mumbai,Kandivali West,94% ,8,1000,"MBBS, DNB - Urology/Genito - Urinary Surgery, DNB - General Surgery"
+623,Dr. Madhura Nayak,Ophthalmologist,12,Mumbai,Goregaon West,100% ,12,800,MS - Ophthalmology
+624,Dr. Rashmi Naik Mhatre,Dentist,18,Mumbai,Dahisar West,95% ,63,400,BDS
+625,Dr. Pramila Das Shah,Ophthalmologist,11,Mumbai,Ghatkopar,100% ,13,500,"MBBS, DO"
+626,Dr. Tamara Lopez,Dentist,12,Mumbai,Bandra West,100% ,1,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+627,Dr. Shraddha Karotia,Homoeopath,15,Mumbai,Borivali West,100% ,2,700,BHMS
+628,Dr. Aastha Chandra,Dentist,11,Mumbai,Juhu,100% ,1,500,BDS
+629,Dr. Yatishakumari Kesalikar   (Physiotherapist),Physiotherapist,3 ,Mumbai,Borivali West,100% ,2,600,BPTh/BPT
+630,Dr. Chirag D. Mody,General Surgeon,38,Mumbai,Bhandup East,100% ,4,1000,"MS - General Surgery, MBBS"
+631,Dr. Sakshi Balani,Dentist,1 ,Mumbai,Chembur,N/A,N/A,500,BDS
+632,Dr. Jayesh Ghuge,Dentist,7 ,Mumbai,Mira Road,100% ,21,200,BDS
+633,Dr. Onkar Sawant,Dentist,2 ,Mumbai,Bandra West,N/A,N/A,200,BDS
+634,Dr. Arun Fegde,Dentist,49,Mumbai,Dadar West,N/A,N/A,300,BDS
+635,Dr. Santosh Patil,Orthopedist,19,Mumbai,Chembur,100% ,19,1000,"MBBS, MS - Orthopaedics"
+636,Dr. Rohann Bokdawala,Psychiatrist,13,Mumbai,Marine Lines,97% ,157,2500,"MBBS, M.D. (Psychiatry)"
+637,Dr. Srushti Garg,Dentist,9 ,Mumbai,Borivali West,100% ,22,300,BDS
+638,Dr. Sanjana Sanwal,Dentist,8 ,Mumbai,Parel,N/A,N/A,300,BDS
+639,Dr. Anjali Jaiswal,Dentist,6 ,Mumbai,Mira Bhayandar,N/A,N/A,200,"MDS - Orthodontics and Dentofacial Orthopaedics, BDS"
+640,Dr. Swati Subhash Dhawale,Homoeopath,21,Mumbai,Parel,100% ,1,2500,BHMS
+641,Dr. Sharmishtha Prashant Kewle,Gynecologist/Obstetrician,16,Mumbai,Chembur,N/A,N/A,1000,"MBBS, DGO"
+642,Dr. Amit Jain,Nephrologist,8 ,Mumbai,Goregaon West,100% ,1,1500,"DNB - Nephrology, MBBS, MD - General Medicine"
+643,Dr. Reena kumari Sengupta,Gynecologist/Obstetrician,11,Mumbai,Wadala,50% ,2,1000,"MBBS, DNB - Obstetrics & Gynecology"
+644,Dr. Nitesh B. Karnire,Cardiologist,13,Mumbai,Bandra East,100% ,4,1000,"MBBS, DM - Cardiology, MD - General Medicine, Fellowship In Interventional  Cardiology"
+645,Ms. Mithila Desai,Psychologist,34,Mumbai,Borivali West,94% ,87,2500,MA - Applied Psychology
+646,Dr. Tuhina Mehta,Dentist,11,Mumbai,Ghatkopar East,100% ,42,500,"BDS, MDS - Periodontics"
+647,Dr. Prasad Wankhede,Dermatologist,14,Mumbai,Worli,98% ,33,1200,"MBBS, MD - Dermatology , Venereology & Leprosy"
+648,Dr. Simple Aher,Dermatologist,13,Mumbai,Andheri West,100% ,1,2000,"MBBS, DVD"
+649,Dr. Milind Wankhede,Gynecologist/Obstetrician,18,Mumbai,Kandivali East,100% ,N/A,1000,"MS - Obstetrics & Gynaecology, MBBS"
+650,Dr. Kuldeep Rasal,Homoeopath,18,Mumbai,Sion,N/A,N/A,450,BHMS
+651,Dr. Chen Lanin Choun Min,Ophthalmologist,9 ,Mumbai,Chembur East,N/A,N/A,800,"MBBS, MS - Ophthalmology"
+652,Dr. Honey Mishra,Gynecologist/Obstetrician,10,Mumbai,Goregaon West,100% ,34,800,"MBBS, DNB - Obstetrics & Gynecology, DGO"
+653,Dr. Deep Garg,Dentist,13,Mumbai,Borivali West,100% ,47,500,"BDS, MDS - Orthodontics"
+654,Dr. Amit Shashikant Munde,Orthopedist,9 ,Mumbai,Borivali West,100% ,13,700,"MS - Orthopaedics, MBBS"
+655,Dr. Kashmira Sandeep Kesarkar,Dentist,11,Mumbai,Andheri East,N/A,N/A,300,"MDS - Oral Pathology and Oral Microbiology, BDS"
+656,Dr. Sahil Singh,Dentist,4 ,Mumbai,Chembur East,N/A,N/A,500,MDS - Prosthodontist And Crown Bridge
+657,Dr. Anushka,Dentist,4 ,Mumbai,Bandra West,N/A,N/A,200,BDS
+658,Dr. Smit JP,Psychiatrist,2 ,Mumbai,Borivali East,100% ,1,1200,"MBBS, M.D. (Psychiatry)"
+659,Dr. Pramod Patil,Homoeopath,15,Mumbai,Borivali East,99% ,69,1200,BHMS
+660,Dr. Pallavi Deshmukh Gaikwad,Pediatrician,12,Mumbai,Kandivali East,86% ,2,700,"Diploma in Child Health (DCH), MBBS"
+661,Dr. Swati Upendra Limaye,Homoeopath,25,Mumbai,Goregaon East,100% ,28,1500,BHMS
+662,Dr. Shamsher,General Surgeon,10,Mumbai,Jogeshwari West,50% ,2,800,"MBBS, MS - General Surgery"
+663,Dr. Vijal Modi,Gynecologist/Obstetrician,12,Mumbai,Goregaon West,100% ,13,800,"MBBS, DNB - Obstetrics & Gynecology"
+664,Dr. Anuj Shah,Dentist,9 ,Mumbai,Malad,N/A,N/A,500,"MDS - Paedodontics And Preventive Dentistry, BDS"
+665,Dr. Minal Chandrashekhar Chalwade,Gynecologist/Obstetrician,15,Mumbai,Sion East,100% ,9,800,"DGO, MBBS"
+666,Dr. Eesha N Gokhale,Ophthalmologist,10,Mumbai,Goregaon West,100% ,2,700,"MBBS, MS - Ophthalmology"
+667,Dr. Pravin Hanumant Shinde,General Surgeon,19,Mumbai,Sion,100% ,2,1000,"MBBS, DNB - General Surgery"
+668,Dr. Viral Maru,Dentist,16,Mumbai,Girgaon,N/A,N/A,1000,"BDS, MDS - Paedodontics And Preventive Dentistry"
+669,Dr. Smit Sheth,Oncologist,13,Mumbai,Mulund,N/A,N/A,1000,"MBBS, MD - Medicine, DM - Medical Oncology"
+670,Dr. Jaydeep A Walinjkar,Ophthalmologist,9 ,Mumbai,Wadala,N/A,N/A,1400,"MBBS, DNB - Ophthalmology"
+671,Dr. Aditya Dhawale,Cardiologist,13,Mumbai,Ghatkopar West,100% ,7,1000,"MBBS, MD - General Medicine, DNB - Cardiology"
+672,Dr. Bindiya Doshi,Ophthalmologist,8 ,Mumbai,Malad East,100% ,3,600,"MBBS, MS - Ophthalmology"
+673,Dr. Hemant Kanojiya,Gynecologist/Obstetrician,26,Mumbai,Kandivali,N/A,N/A,1500,"MBBS, Diploma in Gynaecology & Obstetrics, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+674,Dr. Palak Shah,Homoeopath,12,Mumbai,Kandivali West,100% ,N/A,1500,"BHMS, M.D. Hom. (Paeditrics)"
+675,Dr. Ajay   (Physiotherapist),Physiotherapist,13,Mumbai,Mulund West,98% ,141,2100,"BPTh/BPT, Masters of Physiotheraphy"
+676,Dr. Noorsabha A. Khan,Homoeopath,12,Mumbai,Lokhandwala,100% ,10,1000,BHMS
+677,Dr. Pranav Thakkar,Dentist,8 ,Mumbai,Mulund West,100% ,7,250,"BDS, MDS - Conservative Dentistry & Endodontics"
+678,Ms. Deepa Nandy,Dietitian/Nutritionist,15,Mumbai,Andheri West,100% ,80,2500,Post Graduate Diploma in Sports Nutrition
+679,Ms. Mansi D Chheda,Psychologist,9 ,Mumbai,Borivali West,100% ,114,2500,"MA - Psychology, Certificate Course in Integrated Clinical Hypnotherapy"
+680,Dr. Niraj B. Singh,General Surgeon,8 ,Mumbai,Borivali East,100% ,66,800,"MBBS, MS - General Surgery"
+681,Dr. Ashvinikumar Dound,Ophthalmologist,12,Mumbai,Sion West,N/A,N/A,700,"MS - Ophthalmology, MBBS"
+682,Dr. Pooja S Parab,Homoeopath,16,Mumbai,Goregaon East,100% ,29,1500,BHMS
+683,Dr. Hiral Bhatt,Ayurveda,12,Mumbai,Andheri East,100% ,16,700,BAMS
+684,Ms. Hetal Dharod,Dietitian/Nutritionist,22,Mumbai,Kandivali West,94% ,29,1000,M.Sc. - Home Science (Food & Nutrition)
+685,Dr. Kunal Praful Sinkar,Cardiologist,5 ,Mumbai,Dadar West,100% ,9,1500,"MBBS, DNB - Cardiology, DNB - General Medicine"
+686,Dr. Hardik Shah,General Physician,7 ,Mumbai,Kandivali,100% ,4,600,"MBBS, MD - General Medicine"
+687,Ms. Himani Mittal,Dietitian/Nutritionist,19,Mumbai,Andheri West,100% ,28,1200,BSc - Applied Nutrition
+688,Dr. Shraddha Shivgan,Gynecologist/Obstetrician,13,Mumbai,Chembur East,100% ,1,700,"DGO, MBBS, DNB - Obstetrics & Gynecology"
+689,Dr. Swapnil Pande,Dentist,13,Mumbai,Mira-Bhayandar Road,89% ,2,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+690,Dr. Aditi S. Trivedi,,11,Mumbai,Ghatkopar East,100% ,151,2000,"MBBS, DNB - Obstetrics & Gynecology"
+691,Dr. Namita P. Patil,Homoeopath,14,Mumbai,Borivali East,100% ,2,1000,"BHMS, MD - Homeopathy"
+692,Dr. Dr Pooja Sharma   (PhD),Dietitian/Nutritionist,18,Mumbai,Powai,97% ,34,1500,"PhD - Gastro & Human Nutrition Unit, M.Sc. - Home Science (Food & Nutrition)"
+693,Dr. Vandana Viswanath,Dentist,10,Mumbai,Powai,N/A,N/A,300,BDS
+694,Dr. Vijay Patil,Orthopedist,14,Mumbai,Borivali West,75% ,4,800,"MS - Orthopaedics, MBBS"
+695,Dr. Sunny Agarwal,General Surgeon,13,Mumbai,Chembur East,N/A,N/A,800,"MBBS, MS - General Surgery"
+696,Dr. Prasad Deshmukh,Gynecologist/Obstetrician,13,Mumbai,Bandra East,100% ,1,1000,"MBBS, MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology"
+697,Dr. Pallavi Pandey Mishra,Gynecologist/Obstetrician,13,Mumbai,Malad West,100% ,N/A,1200,"MBBS, MS - Obstetrics & Gynaecology"
+698,Dr. Harshant Upadhyaya   (PhD),Psychologist,17,Mumbai,Ghatkopar West,98% ,43,3000,"PhD - Psychology, MA/MPhil - Health Psychology"
+699,Ms. Khushboo Jain,Psychologist,7 ,Mumbai,Andheri East,100% ,12,1800,MA - Psychology
+700,Dr. Varsha Degwekar,Gynecologist/Obstetrician,35,Mumbai,Powai,94% ,141,1000,"MS - Obstetrics & Gynaecology, MBBS"
+701,Dr. Nikhil D Datar,Gynecologist/Obstetrician,31,Mumbai,Malad West,99% ,473,1000,"MBBS, MD - Midwifery & Gynecology, DGO, FCPS - Mid. & Gynae, DNB - Obstetrics & Gynecology"
+702,Ms. Jennifer Dhuri,Dietitian/Nutritionist,24,Mumbai,Powai,98% ,9,2500,PG Diploma in Dietitics and Hospital Food Service
+703,Ms. Twinkle Haria,Dietitian/Nutritionist,12,Mumbai,Mulund West,99% ,62,1800,Post Graduate Diploma in Clinical Nutrition & Dietetics
+704,Ms. Nikita Lawande,Dietitian/Nutritionist,0 ,,Mumba,N/A,N/A,350,Post Graduate Diploma in Applied Nutrition and Dietetics
+705,Ms. Mukta Tolani,Dietitian/Nutritionist,8 ,Mumbai,Kandivali West,96% ,21,1000,"Diploma in Dietetics, Health and Nutrition (DDHN)"
+706,Ms. Rochelle Gomes,Psychologist,18,Mumbai,Bandra,100% ,14,2500,MA - Psychology
+707,Ms. Sajida Shaikh,Dietitian/Nutritionist,4 ,Mumbai,Mira Road,98% ,90,1000,Diploma in Diet and Nutrition
+708,Dr. Akshata Shenvi,Dentist,7 ,Mumbai,Dahisar East,N/A,N/A,500,"BDS, MDS - Paedodontics And Preventive Dentistry"
+709,Dr. Ketaki Shingare   (Physiotherapist),Physiotherapist,12,Mumbai,Ghatkopar East,100% ,1,600,"BPTh/BPT, MSc. - Applying Physiotherapy (Musculoskeletal)"
+710,Ms. Kausar S,Psychologist,24,Mumbai,Khar West,93% ,6,2500,"MA - Psychology, BA - Psychology"
+711,Dr. Sita Gururaja,Gynecologist/Obstetrician,26,Mumbai,Powai,98% ,67,800,"MBBS, DNB - Obstetrics & Gynecology, DGO"
+712,Dr. Jagruti Parghi   (Physiotherapist),Physiotherapist,6 ,Mumbai,Parel,88% ,13,350,BPTh/BPT
+713,Dr. Gaurav Jain   (Physiotherapist),Physiotherapist,9 ,Mumbai,Kandivali West,100% ,13,500,BPTh/BPT
+714,Dr. Abnish Kumar,Pediatrician,8 ,Mumbai,Wadala,N/A,N/A,1000,MD - Pediatrics
+715,Dr. Sultanali Shaikh,Homoeopath,7 ,Mumbai,Girgaon,N/A,N/A,450,BHMS
+716,Dr. Laxman G. Jonwal,,34,Mumbai,Kandivali West,90% ,244,800,"MD - Medicine, BAMS"
+717,Dr. Thejas Thomas   (Physiotherapist),Physiotherapist,12,Mumbai,Cuffe Parade,100% ,N/A,350,BPTh/BPT
+718,Dr. Mehta Devangee Bakul   (Physiotherapist),Physiotherapist,15,Mumbai,Prabhadevi,100% ,13,1000,"BPTh/BPT, Masters of Physiotheraphy"
+719,Dr. Mohammad Sayeed   (Physiotherapist),Physiotherapist,14,Mumbai,Bandra West,100% ,5,1500,BPTh/BPT
+720,Dr. Rachel Susan Quadros,Dentist,7 ,Mumbai,Bandra West,100% ,1,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+721,Dr. Ameet Mandot,Gastroenterologist,20,Mumbai,Parel,100% ,9,1850,"MBBS, MD - General Medicine, DNB - Gastroenterology"
+722,Ms. Sofia Ansari,Dietitian/Nutritionist,5 ,Mumbai,Cuffe Parade,100% ,N/A,350,"M.Sc. - Home Science (Clinical Nutrition and Dietetics), B.Sc. - Home Science (Food & Nutrition)"
+723,Ms. Purvi Palvia,Psychologist,5 ,Mumbai,Matunga,93% ,28,1500,MA - Psychology
+724,Dr. Rachayta Parikh Gala,Dentist,11,Mumbai,Vileparle West,100% ,114,400,"BDS, MDS - Paedodontics And Preventive Dentistry"
+725,Dr. Resham Vasani Bhojani,Dermatologist,23,Mumbai,Matunga,99% ,242,1500,"MBBS, MD - Dermatology , Venereology & Leprosy, DDVL, FCPS - Dermatology & Venereology"
+726,Ms. Jinisha Bhatt,Psychologist,5 ,Mumbai,Vileparle East,100% ,11,1500,MA - Psychology
+727,Ms. Preeti Shahal,Psychologist,30,Mumbai,Kandivali East,98% ,40,1300,MA - Psychology
+728,Ms. Aarti,Dietitian/Nutritionist,9 ,Mumbai,Andheri East,91% ,80,500,BSc. - Home Science (Dietetics)
+729,Dr. Bhagyasree A,Gynecologist/Obstetrician,10,Mumbai,Chembur East,N/A,N/A,700,"MBBS, DNB - Obstetrics & Gynecology"
+730,Ms. Ritu Kabra,Hypnotherapist,17,Mumbai,Cumballa Hill,75% ,4,3000,"Certificate in Clinical Hypnotherapy (CCht ), Bachelor in Hypnotherapy (BHT)"
+731,Dr. Sameer Sawant,Ophthalmologist,21,Mumbai,Santacruz East,99% ,52,850,"MBBS, MS - Ophthalmology"
+732,Dr. Sheetal R Gore,Dentist,22,Mumbai,Borivali East,97% ,138,300,BDS
+733,Dr. Rajendra Sankpal,Dentist,30,Mumbai,Powai,96% ,114,600,"BDS, Fellowship in Oral implantlogy, Fellowship and Diplomate in Implantology from ICOI (USA)"
+734,Dr. Shyam Mithiya,Sexologist,15,Mumbai,Ghatkopar West,96% ,527,1750,"MBBS, DPM (Psychiatry)"
+735,Dr. Shilpa Abhyankar,Gynecologist/Obstetrician,28,Mumbai,Dadar East,97% ,127,800,"MBBS, DGO, MD - Midwifery & Gynecology"
+736,Dr. Ritika Arora,Dentist,21,Mumbai,Khar West,96% ,156,800,"BDS, MDS - Periodontics"
+737,Ms. Shruti Kainya,Dietitian/Nutritionist,4 ,Mumbai,Worli,100% ,1,2500,Post Graduate Diploma in Sports Nutrition
+738,Dr. Madhushree Venkat,Gynecologist/Obstetrician,22,Mumbai,Mulund West,82% ,18,800,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+739,Ms. Zubaida I Shaikh,Acupuncturist,21,Mumbai,Andheri West,50% ,1,1000,Diploma in Acupuncture
+740,Dr. Sunayana Dubey,Gynecologist/Obstetrician,21,Mumbai,Kandivali East,94% ,13,700,"MBBS, DGO"
+741,Dr. Vijay D Shetty,Orthopedist,27,Mumbai,Powai,99% ,567,2100,"MBBS, MS - Orthopaedics"
+742,Dr. Ajay Bajaj,Dentist,29,Mumbai,Juhu,96% ,191,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+743,Dr. Shrikant Badwe,Urologist,44,Mumbai,Goregaon West,90% ,114,1500,"MBBS, MS - General Surgery, MCh - Urology"
+744,Ms. Anushree Chatterji,Psychotherapist,13,Mumbai,Chembur,98% ,39,1500,MA - Psychology
+745,Dr. Susheel Deshmukh,Ophthalmologist,18,Mumbai,Goregaon East,97% ,35,500,"MBBS, MS - Ophthalmology"
+746,Dr. Reshma Shah,Dentist,24,Mumbai,Girgaon,99% ,73,500,BDS
+747,Dr. Nishant Kalsekar,Dentist,22,Mumbai,Kanjurmarg,94% ,30,200,BDS
+748,Dr. Nitin Dange,Neurosurgeon,27,Mumbai,Parel,100% ,1,2600,"MCh - Neuro Surgery, MS - General Surgery, MBBS"
+749,Dr. Jenin Patel,Ophthalmologist,24,Mumbai,Malad West,95% ,127,800,"MBBS, MS - Ophthalmology"
+750,Dr. Jenin Patel,Ophthalmologist,24,Mumbai,Malad West,95% ,127,800,"MBBS, MS - Ophthalmology"
+751,Dr. Sachin Bhonsle,Orthopedist,37,Mumbai,Mulund West,85% ,18,2000,"MBBS, MS - Orthopaedics, FRCS (Glasgow)"
+752,Dr. Gul J. Nankani,Ophthalmologist,32,Mumbai,Parel,99% ,282,1500,"MS - Ophthalmology, MBBS"
+753,Dr. Sobh Singh Khambay,Dentist,44,Mumbai,Mulund West,100% ,6,1300,"BDS, MDS - Oral & Maxillofacial Surgery"
+754,Dr. Anju Bijoy Methil,Dermatologist,28,Mumbai,Andheri West,96% ,140,1000,"MBBS, DVD, MD - Dermatology"
+755,Dr. Shilpa Mittal,Dentist,24,Mumbai,Kandivali East,98% ,137,500,BDS
+756,Dr. Neha Agarwal,Pediatrician,14,Mumbai,Kandivali East,100% ,6,600,"MBBS, DNB - Paediatrics"
+757,Dr. Miten L Pandya,Dentist,26,Mumbai,Vidyavihar,97% ,3,500,BDS
+758,Dr. Dhawal Haria,Ophthalmologist,14,Mumbai,Borivali West,100% ,224,400,"MBBS, DNB - Ophthalmology"
+759,Dr. Yazad R Gandhi,Dentist,25,Mumbai,Kemps Corner,98% ,97,1200,"BDS, MDS - Oral & Maxillofacial Surgery"
+760,Dr. Darshan Hiralal Vora,Dentist,24,Mumbai,Mulund West,99% ,287,500,"BDS, PGDE (Cosmetic & Esthetic Dentist)"
+761,Dr. Arpit Doshi,Dentist,14,Mumbai,Ghatkopar East,96% ,59,600,"BDS, MDS - Orthodontics"
+762,Dr. Sandesh S Kumar,Dentist,21,Mumbai,Mulund West,98% ,20,250,BDS
+763,Dr. Seema Behl,Ophthalmologist,31,Mumbai,Andheri East,93% ,16,800,"MBBS, MS - Ophthalmology"
+764,Dr. Nitin R Kochar,Ayurveda,27,Mumbai,Goregaon West,96% ,106,2000,"BAMS, MD - Ayurveda Medicine, Post Graduate Diploma In Yoga"
+765,Dr. Hardik J. Shah,Dentist,17,Mumbai,JB Nagar,98% ,72,500,"MDS - Periodontics, BDS"
+766,Dr. Rahul Pagare,Dentist,16,Mumbai,Govandi,98% ,123,200,BDS
+767,Dr. Salem Tariq,Dentist,13,Mumbai,Andheri West,99% ,65,500,"BDS, MDS - Periodontology and Oral Implantology"
+768,Dr. Minali Goyal,Ophthalmologist,35,Mumbai,Worli,95% ,36,800,"MS - Ophthalmology, MBBS"
+769,Dr. Suresh Sankla,Neurosurgeon,39,Mumbai,Parel,100% ,2,1850,"MBBS, DNB - Neurosurgery"
+770,Dr. Sanjay Bakhshi   (Physiotherapist),Physiotherapist,25,Mumbai,Andheri West,97% ,174,1500,"BPTh/BPT, Diploma in Acupuncture, MPTh/MPT - Sports Physiotherapy, MPTh/MPT - Musculoskeletal Physiotherapy"
+771,Dr. Abhijit V. Shetty,Dentist,14,Mumbai,Chembur,98% ,75,300,"BDS, MDS - Conservative Dentistry & Endodontics"
+772,Dr. Vipulroy Rathod,Gastroenterologist,33,Mumbai,Santacruz West,87% ,131,2500,"MS - General Surgery, MBBS, DM - Medical Gastroenterology"
+773,Dr. Kunal Shah,Orthopedist,19,Mumbai,Dahisar,98% ,32,600,"MBBS, MS - Orthopaedics"
+774,Dr. Santosh Nayak,Dentist,12,Mumbai,Mahim,99% ,151,500,"BDS, Fellowship in Oral implantlogy"
+775,Dr. Pooja Kukreja,Dentist,12,Mumbai,Khar West,100% ,38,500,BDS
+776,Dr. Prashant Murugkar,Plastic Surgeon,32,Mumbai,Bandra West,97% ,119,1500,"MBBS, DNB - Plastic Surgery, MRCS (UK), MCh - Plastic Surgery"
+777,Dr. Dhruti Raut Chavan,Dentist,11,Mumbai,Dadar East,98% ,13,500,"MDS - Prosthodontics, BDS"
+778,Dr. Kishori Dinendra Kadam,Gynecologist/Obstetrician,38,Mumbai,Mulund West,90% ,24,1300,"MBBS, DGO, MD - Obstetrics & Gynaecology"
+779,Dr. Rujuta Mehta,Orthopedist,29,Mumbai,Santacruz West,96% ,18,1500,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery"
+780,Dr. Nimisha Mehta,Gynecologist/Obstetrician,8 ,Mumbai,Bhandup West,100% ,32,800,"MS - Obstetrics & Gynaecology, MBBS"
+781,Dr. Meena P. Mistry,Dentist,35,Mumbai,Vileparle East,97% ,17,200,BDS
+782,Dr. Jyotsna Patel,Gynecologist/Obstetrician,28,Mumbai,Andheri East,89% ,33,1000,"MD - Obstetrics & Gynaecology, DGO, MBBS"
+783,Dr. Poorvi Chothani Kachwala,Dentist,14,Mumbai,Andheri West,100% ,179,500,"BDS, MDS - Prosthodontics"
+784,Dr. Dhara Shah   (Physiotherapist),Physiotherapist,12,Mumbai,Borivali West,94% ,11,500,BPTh/BPT
+785,Dr. Shruti Parikh,Gynecologist/Obstetrician,14,Mumbai,Borivali West,100% ,156,800,"MBBS, MS - Obstetrics & Gynaecology"
+786,Dr. Jay N. Harde,Homoeopath,30,Mumbai,Borivali,96% ,123,250,DHMS (Diploma in Homeopathic Medicine and Surgery)
+787,Dr. Dimple Kapasi   (Physiotherapist),Physiotherapist,19,Mumbai,Kandivali West,99% ,52,1200,BPTh/BPT
+788,Dr. Ankesh Sahetya,Gynecologist/Obstetrician,14,Mumbai,Andheri West,100% ,1001,1000,"DNB - Obstetrics & Gynecology, DGO, MNAMS - Obstetrics & Gynaecology, MBBS"
+789,Dr. Shaurya Rohatgi,Dermatologist,13,Mumbai,Andheri West,96% ,171,1000,"MD - Dermatology , Venereology & Leprosy, MBBS"
+790,Dr. Punit Bhojani,Gynecologist/Obstetrician,19,Mumbai,Matunga,99% ,65,1000,"MBBS, MS - Obstetrics & Gynaecology, FCPS - Mid. & Gynae"
+791,Dr. Savneet Kaur,Dentist,19,Mumbai,Sion,100% ,67,150,BDS
+792,Ms. Renuka Gandhi,Psychologist,5 ,Mumbai,Worli,N/A,N/A,2000,"MA - Psychology, B. Ed in Special Education (Mental Retardation)"
+793,Dr. Pooja Shetty,Dentist,8 ,Mumbai,Charni Road,100% ,8,500,BDS
+794,Dr. Ankita Mishra,Psychiatrist,15,Mumbai,Dadar,97% ,26,3000,"MBBS, M.D. (Psychiatry)"
+795,Dr. Sanjay S Chopra,Dermatologist,11,Mumbai,Parel,96% ,27,900,"MBBS, DVD"
+796,Dr. Partho Bakshi,Ophthalmologist,18,Mumbai,Chembur,100% ,11,1200,"MBBS, DOMS, DNB - Ophthalmology"
+797,Dr. Garima Sharma,Gynecologist/Obstetrician,12,Mumbai,Mulund,99% ,79,800,"MS - Obstetrics & Gynaecology, Post Doctoral Fellowship in Reproductive Medicine, MBBS, DNB - Obstetrics & Gynecology"
+798,Dr. Ritesh Nazareth,Orthopedist,21,Mumbai,Kalina,99% ,41,1000,"MBBS, DNB - Orthopedics/Orthopedic Surgery"
+799,Dr. Sonal Malguria,Dentist,25,Mumbai,Santacruz West,98% ,33,200,BDS
+800,Dr. Raju Sahetya,Gynecologist/Obstetrician,43,Mumbai,Malad West,95% ,32,1000,"MD - Obstetrics & Gynaecology, DGO, FCPS - Mid. & Gynae, MBBS"
+801,Dr. Sanjay Borude,Bariatric Surgeon,38,Mumbai,Chembur,98% ,8,3000,"MS - General Surgery, MBBS"
+802,Dr. Hussain Kotawala,Laparoscopic Surgeon,11,Mumbai,Byculla,98% ,244,500,"MBBS, MS - General Surgery, MCh - Pediatric  Surgery"
+803,Dr. Indu Khosla,Pediatrician,32,Mumbai,Malad West,99% ,60,1000,"MBBS, Diploma in Child Health (DCH), MD - Pediatrics"
+804,Dr. Priti H Nirmal,Ophthalmologist,9 ,Mumbai,Malad West,100% ,6,500,"MBBS, MS - Ophthalmology, DNB - Ophthalmology"
+805,Dr. Jasmine Modi,Acupuncturist,25,Mumbai,Andheri West,98% ,191,1500,"MD - Alternate Medicine, PhD - Acupuncture, Diploma in Acupuncture, Bachelor in TCM"
+806,Dr. Shabbir Suterwala,Orthopedist,19,Mumbai,Charni Road,97% ,85,1500,"MBBS, Diploma in Orthopaedics"
+807,Dr. Parul Tank,Psychiatrist,26,Mumbai,Mulund West,95% ,58,2000,"MBBS, MD - Psychological Medicine"
+808,Dr. Purnima Parikh,Dentist,35,Mumbai,Vileparle West,92% ,9,500,MDS - Oral & Maxillofacial Surgery
+809,Dr. Bhagwat Chaudhary,Ear-Nose-Throat (ENT) Specialist,44,Mumbai,Mulund West,87% ,4,1500,"MS - ENT, MBBS"
+810,Dr. Bhagwat Chaudhary,Ear-Nose-Throat (ENT) Specialist,44,Mumbai,Mulund West,87% ,4,1500,"MS - ENT, MBBS"
+811,Dr. Anjali  Karira,Psychiatrist,15,Mumbai,Bandra West,99% ,71,2000,"MBBS, M.D. (Psychiatry)"
+812,Dr. Sana Bhamla,Dermatologist,14,Mumbai,Mumbai Central,95% ,60,1500,"MBBS, DVD"
+813,Dr. Ishan B. Thakkar,Homoeopath,13,Mumbai,Borivali West,100% ,67,1500,BHMS
+814,Dr. Laxman Salve,General Surgeon,21,Mumbai,Chembur,99% ,145,2000,"MBBS, MS - General Surgery"
+815,Dr. Hemant A Patil,General Surgeon,21,Mumbai,Mulund West,100% ,372,1300,"MBBS, DNB - General Surgery, MNAMS - General Surgery"
+816,Dr. Rimmi Verma   (Physiotherapist),Physiotherapist,13,Mumbai,Andheri West,100% ,18,800,"BPTh/BPT, MPTh/MPT - Orthopedic Physiotherapy"
+817,Dr. Prema Kania,Gynecologist/Obstetrician,36,Mumbai,Marine Lines,99% ,19,1200,"MBBS, MD - Obstetrics & Gynaecology"
+818,Dr. Rajshree Murudkar,General Surgeon,25,Mumbai,Malad West,99% ,142,1000,"MS - General Surgery, MBBS"
+819,Dr. Rupesh Singh,Homoeopath,23,Mumbai,Mira Road,94% ,52,700,DHMS (Diploma in Homeopathic Medicine and Surgery)
+820,Dr. Prakash L Tejwani,Urologist,18,Mumbai,Mira Road,97% ,136,1000,"MS - General Surgery, MBBS, MCh - Urology"
+821,Dr. Omkar Hajirnis,Pediatric Neurologist,10,Mumbai,Mulund West,97% ,47,2000,"DNB - Paediatrics, Member of the Royal College of Paediatrics and Child Health (MRCPCH, London, Glasgow or Edinburgh)"
+822,Dr. Rushabh Shah,Ophthalmologist,16,Mumbai,Girgaon,95% ,35,1000,"MBBS, DNB - Ophthalmology"
+823,Dr. Aparna Govil Bhasker,Bariatric Surgeon,16,Mumbai,Chembur,94% ,5,1500,"MS - General Surgery, MBBS"
+824,Dr. Bhooshan Pandit,Gastroenterologist,20,Mumbai,Powai,90% ,65,1600,"MBBS, MD - Medicine, DM - Gastroenterology"
+825,Dr. Ramesh Mahajan,Urologist,27,Mumbai,Mulund West,90% ,13,2000,"MBBS, MS - General Surgery, MCh - Urology"
+826,Mr. Chaitanya Ulhas Mantri,Occupational Therapist,15,Mumbai,Goregaon East,99% ,52,1000,Bachelor of Occupational Therapy (BOT)
+827,Dr. Raunak Mehta,Dentist,10,Mumbai,Andheri West,99% ,70,200,"BDS, MDS - Periodontics"
+828,Dr. Aditi Singhi,Gynecologist/Obstetrician,19,Mumbai,Chembur,95% ,9,1200,"MBBS, MS - Obstetrics & Gynaecology"
+829,Dr. Shoaib Padaria Fakhruddin,Cardiologist,40,Mumbai,Tardeo,82% ,12,1500,"MBBS, MD - General Medicine, DM - Cardiology"
+830,Dr. Vivek Rege,Pediatric Surgeon,31,Mumbai,Mulund West,100% ,1,2000,"MBBS, MS - General Surgery, MCh - Pediatric  Surgery, FICS"
+831,Dr. Smita Pawar,Gynecologist/Obstetrician,11,Mumbai,Malad West,98% ,26,500,"MBBS, DNB - Obstetrics & Gynecology"
+832,Dr. Prajakta Vaidya,Homoeopath,14,Mumbai,Malad West,97% ,26,3000,"MD - Homeopathy, BHMS"
+833,Dr. Pravin Gore,General Surgeon,22,Mumbai,Chembur,94% ,43,2000,"MBBS, DNB - General Surgery"
+834,Dr. Ketan Parikh Pravin,Pediatric Surgeon,37,Mumbai,Powai,100% ,7,2100,"MS - Paediatrics Surgery, MS - General Surgery, MBBS"
+835,Dr. Amol Akhade,Oncologist,18,Mumbai,Powai,84% ,16,1100,"MBBS, MD - General Medicine, DM - Oncology"
+836,Dr. Akshi Gvalani,Dentist,11,Mumbai,Tardeo,100% ,5,500,"BDS, MDS - Prosthodontist And Crown Bridge"
+837,Dr. Hardik Shah,Gastroenterologist,13,Mumbai,Gamdevi,98% ,356,2000,"MBBS, DNB - General Medicine, DNB - Gastroenterology"
+838,Dr. Santosh Bangar,Psychiatrist,23,Mumbai,Parel,100% ,111,3100,"MBBS, M.D. (Psychiatry), Diploma in Psychiatry, MRCPsych, Diploma in Clinical Psychiatry, Diploma in Clinical Psychiatry"
+839,Dr. Varun Shanbhag   (Physiotherapist),Physiotherapist,11,Mumbai,Andheri West,100% ,69,600,"BPTh/BPT, Bachelor in TCM"
+840,Dr. Imran Shaikh,GastroIntestinal Surgeon,17,Mumbai,Mira Road,100% ,14,1050,"MBBS, DNB - General Surgery, DNB - Surgical Gastroenterology"
+841,Dr. Dharmesh Kapoor,Gynecologist/Obstetrician,34,Mumbai,Chembur,100% ,2,1000,"MD - Obstetrics & Gynaecology, MBBS, CCST - Urogynecology, FRCOG (UK)"
+842,Dr. Suyash Bhandekar,Gynecologist/Obstetrician,14,Mumbai,Mulund,99% ,85,1200,"MBBS, MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, DGO, FCPS - Mid. & Gynae"
+843,Dr. Anil Heroor,,Sp,Mumbai,Mulund West,100% ,13,2,"MBBS, MS - General Surgery, Senior Residency Training Program (Surgical Oncology)"
+844,Dr. Yuti Nakhwa,Dermatologist,15,Mumbai,Parel,96% ,200,1600,"MBBS, MD - Dermatology , Venereology & Leprosy"
+845,Dr. Biswajeet Naidu,Orthopedist,32,Mumbai,Chembur,95% ,37,2000,"MBBS, MS - Orthopaedics"
+846,Dr. Rajesh Benny,Neurologist,19,Mumbai,Mulund West,100% ,17,2000,"MBBS, DNB - General Medicine, DM - Neurology"
+847,Dr. Tushar Thorat,Plastic Surgeon,13,Mumbai,Girgaon,100% ,52,1000,"MBBS, MS - General Surgery, MCh - Plastic & Reconstructive Surgery, DNB - Plastic Surgery"
+848,Dr. Saloni Suchak,Gynecologist/Obstetrician,17,Mumbai,Malad West,99% ,360,1000,"MBBS, MS - Obstetrics & Gynaecology"
+849,Dr. Mauli Potdar Shah,Ophthalmologist,23,Mumbai,Kandivali East,97% ,19,800,"MBBS, MS - Ophthalmology, DO"
+850,Dr. Uday M Pawar,Spine And Pain Specialist,22,Mumbai,Parel,96% ,18,1850,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics"
+851,Dr. Nehal Sabadra,Dentist,26,Mumbai,Colaba,100% ,3,1000,BDS
+852,Dr. Suhas Shah,Orthopedist,35,Mumbai,Mahim,95% ,9,1300,"MS - Orthopaedics, MBBS"
+853,Dr. Purushottam Vashistha,Gastroenterologist,20,Mumbai,Powai,87% ,74,1600,"MBBS, DM - Gastroenterology"
+854,Dr. Nimesh Mehta,Ophthalmologist,27,Mumbai,Borivali West,95% ,171,850,MS - Ophthalmology
+855,Dr. Prashant Shetty,Dentist,22,Mumbai,Dahisar West,99% ,129,200,BDS
+856,Dr. Ramen Goel,Bariatric Surgeon,36,Mumbai,Chembur,96% ,8,1500,"MBBS, MS - General Surgery"
+857,Dr. Sanket Pisat,Gynecologist/Obstetrician,19,Mumbai,Andheri West,100% ,11,800,"MS - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, MBBS"
+858,Dr. Vikas Gupte,Spine Surgeon,33,Mumbai,Mulund West,100% ,2,2000,"MBBS, MS - Orthopaedics"
+859,Dr. Namita M. Zaveri,General Practitioner,31,Mumbai,Chembur,83% ,4,300,MBBS
+860,Dr. Smita Sachin Khaire,Pediatrician,23,Mumbai,Dahisar East,98% ,47,500,"MBBS, Diploma in Child Health (DCH)"
+861,Dr. Rajiv Prakash Manek,Laparoscopic Surgeon,12,Mumbai,Mira Road,100% ,14,900,"MBBS, MS - General Surgery"
+862,Dr. Chirag Dalal,Orthopedist,17,Mumbai,Bhandup West,92% ,31,1000,"MBBS, MS - Orthopaedics"
+863,Dr. Kunal  Makhija,Orthopedist,15,Mumbai,Chembur,98% ,68,1500,"MS - Orthopaedics, MBBS"
+864,Dr. Poonam Nautiyal,Gynecologist/Obstetrician,20,Mumbai,Santacruz West,99% ,149,1500,"MBBS, DGO, DNB - Obstetrics & Gynecology"
+865,Dr. Kailash Kothari,Spine And Pain Specialist,28,Mumbai,Mulund West,92% ,5,1500,"MBBS, MD - Anaesthesiology"
+866,Dr. Suchita Pisat,Gynecologist/Obstetrician,15,Mumbai,Andheri West,100% ,20,800,"MBBS, DGO, FCPS - Mid. & Gynae"
+867,Dr. Sashikant Parchure,Gynecologist/Obstetrician,60,Mumbai,Dadar East,100% ,7,1000,"MBBS, DGO, FCPS - Mid. & Gynae, MD - Obstetrics & Gynaecology"
+868,Dr. Rohan Patani,Dentist,8 ,Mumbai,Borivali West,99% ,59,500,BDS
+869,Dr. Pankaj Maheshwari N,Urologist,33,Mumbai,Mulund West,89% ,11,2000,"MBBS, DNB - General Surgery, MS - General Surgery, MCh - Urology"
+870,Dr. Nimesh Shah,General Surgeon,30,Mumbai,Parel,89% ,5,1850,"MBBS, MS - General Surgery"
+871,Dr. Amrut Bambawale,Dentist,6 ,Mumbai,Andheri West,100% ,3,500,"MDS - Conservative Dentistry & Endodontics, BDS"
+872,Dr. Abhijit Bodke,Gynecologist/Obstetrician,19,Mumbai,Mira Road,100% ,3,300,"DGO, MBBS"
+873,Dr. Tanushri Mukherjee,Pediatrician,16,Mumbai,Malad West,91% ,19,1000,"MBBS, DNB - Paediatrics, Fellowship in Neonatology"
+874,Dr. Deepika Doshi,Gynecologist/Obstetrician,11,Mumbai,Borivali West,90% ,9,800,"MBBS, MS - Obstetrics & Gynaecology"
+875,Mr. Piyush Gujarathi,Audiologist,8 ,Mumbai,Parel,99% ,157,1500,MASLP
+876,Dr. Priti Shyamkul,Gynecologist/Obstetrician,19,Mumbai,Andheri East,94% ,76,800,"MBBS, DNB - Obstetrics & Gynecology"
+877,Dr. Nilesh  Vijay Chaudhary,Neurologist,13,Mumbai,Powai,96% ,16,1600,"MBBS, DNB - General Medicine, DNB - Neurology"
+878,Dr. Khushboo Kadri,Cosmetologist,18,Mumbai,Bandra West,93% ,33,1000,"Fellowship in Aesthetic Medicine (FAM), MBBS"
+879,Dr. Punam Sinha,Gynecologist/Obstetrician,42,Mumbai,Prabhadevi,100% ,15,1000,"DGO, MBBS"
+880,Dr. Swati Shah,Gynecologist/Obstetrician,30,Mumbai,Santacruz West,100% ,2,2200,"MBBS, MD - Obstetrics & Gynaecology, DGO"
+881,Dr. Sanjeev Parikh,Pediatrician,37,Mumbai,Ghatkopar East,98% ,67,900,"MBBS, MD - Pediatrics"
+882,Dr. Jalpa Bhuta,Psychiatrist,23,Mumbai,Parel,87% ,9,1850,"MBBS, MD - Psychological Medicine, DNB - Psychiatry, MRCPsych"
+883,Dr. Rakesh Pandia,Gynecologist/Obstetrician,31,Mumbai,Malad West,100% ,1,1000,"DNB - Obstetrics & Gynecology, MBBS, MD - Obstetrics & Gynaecology, DGO"
+884,Dr. Uddhavraj Dudhedia,Gynecologist/Obstetrician,25,Mumbai,Santacruz West,100% ,2,1500,"MBBS, MD - Obstetrics & Gynaecology, DGO, FCPS - Mid. & Gynae"
+885,Dr. Reny Miglani,Homoeopath,37,Mumbai,Chembur East,100% ,31,500,GHMS
+886,Dr. Maulik Joshi,Gynecologist/Obstetrician,29,Mumbai,Matunga West,100% ,N/A,800,"MBBS, MD - Obstetrics & Gynaecology"
+887,Dr. Kshitij Parekh,Ophthalmologist,9 ,Mumbai,Vikhroli,96% ,26,500,"MBBS, MS - Ophthalmology"
+888,Dr. P Suresh,Ophthalmologist,34,Mumbai,Mulund West,100% ,17,1200,"MBBS, MS - Ophthalmology"
+889,Dr. Shweta Shah,Gynecologist/Obstetrician,11,Mumbai,Malad West,99% ,163,1500,"MBBS, MS - Obstetrics & Gynaecology"
+890,Dr. Manish Shyamkul,Ophthalmologist,16,Mumbai,Goregaon,94% ,5,700,"MBBS, MS - Ophthalmology"
+891,Dr. Jayashree Gupte,Dentist,34,Mumbai,Kandivali East,92% ,20,300,BDS
+892,Dr. S.V.Ramesh   (Physiotherapist),Physiotherapist,10,Mumbai,Mulund West,93% ,6,500,MPTh/MPT - Orthopedic Physiotherapy
+893,Dr. Amit Prabhakar Maydeo,General Surgeon,42,Mumbai,Parel,75% ,14,3600,"MBBS, MS - General Surgery"
+894,Dr. Shreedhar Archik,Orthopedist,35,Mumbai,Parel,93% ,58,2350,"MBBS, MS - Orthopaedics"
+895,Dr. Sanyogita Y. Vichare,Ophthalmologist,16,Mumbai,Dadar,98% ,262,600,"MBBS, DOMS, FCPS- Ophthalmology, DNB - Ophthalmology"
+896,Dr. Gladys Swamy   (Physiotherapist),,12,Mumbai,Bandra West,100% ,5,1000,MPTh/MPT - Orthopedic Physiotherapy
+897,Dr. Darshan S Gupte,Dentist,36,Mumbai,Kandivali East,100% ,36,300,"BDS, MDS - Conservative Dentistry "
+898,Dr. Ravindra Dargainya,Dermatologist,14,Mumbai,Malad West,79% ,54,700,"MBBS, DDV"
+899,Dr. Nitin M Narvekar,Gynecologist/Obstetrician,40,Mumbai,Matunga,100% ,9,2000,"DGO, DNB - Obstetrics & Gynecology, MD - Obstetrics & Gynaecology"
+900,Dr. Akash S. Bhandari,Dentist,9 ,Mumbai,Colaba,100% ,27,500,BDS
+901,Dr. Amit jain,Orthopedist,22,Mumbai,Malad West,92% ,15,1500,"Diploma in Orthopaedics, MBBS"
+902,Dr. Uday Khopkar,Dermatologist,38,Mumbai,Parel,95% ,128,3100,"MBBS, DNB - Dermatology & Venereology"
+903,Dr. Pradeep K Singh,Spine Surgeon,22,Mumbai,Powai,85% ,37,1600,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, PhD - Orthopaedics"
+904,Dr. Rahul R. Modi,Ear-Nose-Throat (ENT) Specialist,15,Mumbai,Powai,95% ,14,1300,"MBBS, MS - ENT, DNB - Otorhinolaryngology"
+905,Dr. Nikhil Shetty,Orthopedist,13,Mumbai,Powai,95% ,14,1100,"MBBS, MS - Orthopaedics"
+906,Dr. Kaushal Malhan,Orthopedist,33,Mumbai,Mulund West,95% ,19,2000,"MBBS, MS - Orthopaedics"
+907,Dr. Aasif  Yusuf Virani,Ophthalmologist,15,Mumbai,Mulund West,100% ,1,1200,"MS - Ophthalmology, FRCS - General Surgery, DOMS"
+908,Dr. Mandar Agashe,Orthopedist,18,Mumbai,Mulund West,100% ,3,2000,"MBBS, MS - Orthopaedics"
+909,Dr. Sanket Rane,Dentist,12,Mumbai,Jogeshwari East,99% ,53,300,"BDS, MDS - Prosthodontist And Crown Bridge"
+910,Dr. Sandip Bipte,General Surgeon,22,Mumbai,Chembur,100% ,10,2000,"MBBS, MS - General Surgery"
+911,Dr. Pravina Ushakant Shah,Neurologist,47,Mumbai,Mulund West,85% ,6,2000,"MBBS, MD - General Medicine, DM - Neurology"
+912,Dr. Prakash Vasant Vaidya,Pediatrician,42,Mumbai,Mulund West,91% ,8,1300,"MBBS, MD - Pediatrics"
+913,Dr. Boman Dhabar,Oncologist,27,Mumbai,Mulund West,86% ,5,1500,"MBBS, MD - General Medicine, Fellowship in Medical Oncology"
+914,Dr. Vipul Mehrotra,Pediatrician,28,Mumbai,Andheri East,98% ,219,1500,"MBBS, Diploma in Child Health (DCH),  FCPS - Child Health"
+915,Dr. Gaurav Nitin Chaubal,Gastroenterologist,18,Mumbai,Parel,100% ,6,1850,"MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery, Fellowship in Abdominal Transplant Surgery"
+916,Dr. Smriti Naswa Singh,Dermatologist,13,Mumbai,Mulund West,100% ,8,1500,"MD - Dermatology, MBBS"
+917,Dr. Prabodh Garg,Pulmonologist,7 ,Mumbai,Kandivali West,100% ,8,1000,"MBBS, MD - Respiratory Medicine"
+918,Dr. Dipesh Choubisa,Homoeopath,8 ,Mumbai,Chembur East,100% ,3,800,BHMS
+919,Dr. Rachana Kaveri,Gynecologist/Obstetrician,7 ,Mumbai,Andheri,100% ,5,800,"DNB - Obstetrics & Gynecology, MBBS"
+920,Dr. Sagar,Dentist,24,Mumbai,Girgaon,98% ,116,500,BDS
+921,Dr. Sharika Prabhudesai,Ear-Nose-Throat (ENT) Specialist,27,Mumbai,Dadar West,94% ,41,1000,"MBBS, MS - ENT"
+922,Dr. Pradnya Manwatkar,Dermatologist,17,Mumbai,Mahim,98% ,216,1500,"MBBS, DDVL"
+923,Dr. Ganesh Kumar A.V,Cardiologist,20,Mumbai,Powai,90% ,6,2600,"MBBS, MD - General Medicine, DNB - Cardiology"
+924,Dr. Vanita Raut,Gynecologist/Obstetrician,42,Mumbai,Powai,97% ,32,1300,"MBBS, MD - Obstetrics & Gynaecology"
+925,Dr. Kashmira Chavan,Ear-Nose-Throat (ENT) Specialist,16,Mumbai,Powai,78% ,12,1600,"MBBS, DNB - Otorhinolaryngology"
+926,Dr. Girija Suresh,Ophthalmologist,23,Mumbai,Mulund West,100% ,11,1200,"MBBS, DOMS, FRCS - General Surgery"
+927,Dr. Mohammed Moin Abdul Rashid Holy,Dentist,13,Mumbai,Nagpada,99% ,240,300,BDS
+928,Dr. Sonali Dhuri,Dentist,27,Mumbai,Goregaon West,N/A,N/A,200,BDS
+929,Ms. Saachi Arora,Psychologist,2 ,Mumbai,Khar West,100% ,3,1500,M.Phil - Clinical Psychology
+930,Dr. Vrushali Saraswat,Homoeopath,22,Mumbai,Goregaon,100% ,19,3000,BHMS
+931,Dr. Ashish Shyamkul,Gynecologist/Obstetrician,19,Mumbai,Goregaon,100% ,1,500,"MBBS, MS - Obstetrics & Gynaecology"
+932,Dr. Parag Vibhakar,Plastic Surgeon,16,Mumbai,Andheri East,98% ,21,1500,"MBBS, MS - General Surgery, MCh - Plastic & Reconstructive Surgery"
+933,Dr. Zeenat Bhalwani,Dermatologist,21,Mumbai,Andheri West,99% ,225,1500,"MBBS, MD - Skin & VD"
+934,Dr. Keyur A Sheth,Gastroenterologist,20,Mumbai,Chembur,89% ,37,1500,"MBBS, DNB - General Medicine, DNB - Gastroenterology, CCST - Gastroenterology"
+935,Dr. Ashvith Shetty,Dermatologist,14,Mumbai,Powai,98% ,35,1100,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology"
+936,Dr. Bela Kedia,Gynecologist/Obstetrician,35,Mumbai,Mulund West,100% ,4,1300,"MBBS, DGO, MD - Obstetrics & Gynaecology"
+937,Dr. Anand Utture,Urologist,27,Mumbai,Mahim,86% ,38,1300,"MCh - Urology/Genito-Urinary Surgery, DNB - Urology/Genito - Urinary Surgery, MBBS, FICS, MS - General Surgery"
+938,Dr. Mehul Choksi,Gastroenterologist,21,Mumbai,Mahim,90% ,95,1300,"MBBS, MD - General Medicine, DM - Gastroenterology"
+939,Dr. Nirmal Nitin Gujarathi,Gynecologist/Obstetrician,16,Mumbai,Malad West,100% ,6,1000,"DNB - Obstetrics & Gynecology, DGO, MBBS"
+940,Dr. Jahnvi Purushottam Thakur,Ear-Nose-Throat (ENT) Specialist,23,Mumbai,Mulund West,67% ,6,1200,"MBBS, MS - ENT"
+941,Dr. Bhavesh Acharya,Homoeopath,33,Mumbai,Andheri East,98% ,579,1500,"BHMS, MD - Homeopathy"
+942,Dr. Anirudhha Gokhale,Urologist,17,Mumbai,Borivali West,92% ,16,1000,"MCh - Urology, MS - General Surgery, MBBS"
+943,Dr. Hemashree Patel,Gynecologist/Obstetrician,16,Mumbai,Kandivali West,98% ,112,1200,"DNB - Obstetrics & Gynecology, MBBS"
+944,Dr. Nipaj S. Ashar,Dentist,23,Mumbai,Matunga,99% ,171,500,BDS
+945,Dr. Sonal Kumta,Gynecologist/Obstetrician,18,Mumbai,Mulund West,94% ,20,1300,"MBBS, MD - Obstetrics & Gynaecology"
+946,Dr. Zahabia Basrai   (Physiotherapist),Physiotherapist,13,Mumbai,Churchgate,100% ,92,1500,BPTh/BPT
+947,Dr. Kiran Shah,Gastroentrology Surgeon,36,Mumbai,Tardeo,33% ,1,1500,"MBBS, MS - General Surgery"
+948,Dr. Nutan Devendra Desai,Gastroenterologist,37,Mumbai,Mulund West,73% ,16,2000,"MBBS, MD - General Medicine, DM - Gastroenterology"
+949,Dr. Atul Ganatra,Gynecologist/Obstetrician,33,Mumbai,Mulund West,88% ,5,1300,"MBBS, DGO, MD - Obstetrics & Gynaecology"
+950,Dr. Manasi Shreyas Joshi,Ayurveda,11,Mumbai,Mulund West,100% ,8,500,BAMS
+951,Dr. Sachin Dalal,Gynecologist/Obstetrician,20,Mumbai,Bhandup West,93% ,34,1000,"FCPS - Mid. & Gynae, DGO, DNB - Obstetrics & Gynecology"
+952,Dr. Hemlata Hardasani,Gynecologist/Obstetrician,26,Mumbai,Andheri West,99% ,739,1500,"MBBS, DGO"
+953,Dr. Shyam V Desai,Gynecologist/Obstetrician,45,Mumbai,Malad West,100% ,N/A,1200,"MD - Obstetrics & Gynaecology, MBBS"
+954,Dr. Liladhar  R. Chandan,General Surgeon,46,Mumbai,Mulund West,100% ,1,1300,"MBBS, MS - General Surgery"
+955,Dr. Chintan Doshi,Orthopedist,11,Mumbai,Santacruz West,89% ,17,2000,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics"
+956,Dr. Amit Gulati,Dermatologist,15,Mumbai,Malad West,99% ,42,750,"MBBS, DDVL"
+957,Dr. Haresh Dodeja,Nephrologist,18,Mumbai,Mulund West,94% ,63,2000,"MBBS, MD - Medicine, DNB - Nephrology"
+958,Dr. Devika Chopra,Gynecologist/Obstetrician,16,Mumbai,Tardeo,99% ,171,1500,"MBBS, DNB - Obstetrics & Gynecology, Post Doctoral Fellowship in Reproductive Medicine"
+959,Dr. Rajesh Kamdar,Dentist,39,Mumbai,Andheri West,98% ,97,800,"BDS, MDS - Orthodontics"
+960,Dr. Vaishali Prasad,Dentist,21,Mumbai,Powai,N/A,N/A,700,"MDS - Paedodontics And Preventive Dentistry, BDS"
+961,Dr. Bhupendra S Avasthi,Pediatrician,42,Mumbai,Santacruz West,92% ,11,2000,"MBBS, MD - Pediatrics, DNB - Paediatrics"
+962,Dr. Atul Ingale,Nephrologist,32,Mumbai,Mulund West,89% ,4,2000,"MBBS, MD - General Medicine, DM - Nephrology"
+963,Dr. Mohan Vs,Dentist,42,Mumbai,Andheri East,94% ,36,800,"BDS, PGDE (Cosmetic & Esthetic Dentist), Fellowship in Oral implantlogy, MDS - Conservative Dentistry & Endodontics"
+964,Dr. Suresh Advani,Oncologist,49,Mumbai,Mahim,71% ,18,5000,"MBBS, DM - Oncology"
+965,Dr. Sanjeev Jain,Orthopedist,35,Mumbai,Powai,71% ,30,2100,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics"
+966,Dr. Dhanashri Chonkar,Neurologist,35,Mumbai,Mulund West,90% ,13,2000,"MBBS, DNB - Neurology"
+967,Dr. Ketan Pandit,Gynecologist/Obstetrician,32,Mumbai,Mulund West,100% ,5,1300,"MBBS, MD - Obstetrics & Gynaecology"
+968,Dr. Sandeep Patel,Dentist,24,Mumbai,Bhandup West,97% ,69,400,"BDS, MDS - Periodontics"
+969,Dr. Varun Sanjay Gunavanthe,Urologist,8 ,Mumbai,Santacruz West,100% ,5,2200,"MCh - Urology/Genito-Urinary Surgery, DNB - Urology/Genito - Urinary Surgery"
+970,Dr. Yusuf Kotawala,Ayurveda,9 ,Mumbai,Malad East,95% ,21,250,BAMS
+971,Dr. Anand Subramanyam,Ophthalmologist,25,Mumbai,Mulund West,100% ,3,1200,"MBBS, MS - Ophthalmology"
+972,Dr. Vishal Parmar,Pediatrician,12,Mumbai,Mira Road,100% ,2,900,"Diploma in Child Health (DCH), MBBS, Member of the Royal College of Paediatrics and Child Health (MRCPCH, London, Glasgow or Edinburgh)"
+973,Dr. Suresh Vijan,Cardiologist,31,Mumbai,Mulund West,60% ,2,1500,"MD - Medicine,  FRCP, FACC, FESC"
+974,Dr. Om Parshuram Patil,Orthopedist,12,Mumbai,Chembur,100% ,17,1500,"MBBS, MS - Orthopaedics, FCPS - Orthopedic, Fellow in Spine Surgery"
+975,Dr. Anjali Bhosle,Urologist,27,Mumbai,Mulund West,95% ,4,2000,"MBBS, MS - General Surgery, MCh - Urology, DNB - Urology/Genito - Urinary Surgery"
+976,Dr. Yogesh Trivedi,Gynecologist/Obstetrician,9 ,Mumbai,Bhandup West,88% ,10,500,"MS - Obstetrics & Gynaecology, MBBS"
+977,Dr. Jyotsna Patel,Dentist,22,Mumbai,Bhandup West,100% ,7,400,BDS
+978,Dr. Pooja Shukla,Gynecologist/Obstetrician,14,Mumbai,Malad West,99% ,135,1100,"MD - Obstetrics & Gynaecology, MBBS"
+979,Dr. Kaushik Gandhi,Dentist,40,Mumbai,Sion West,100% ,109,800,"BDS, FICOI"
+980,Dr. Aruna Pradeep Bhave,Gastroenterologist,43,Mumbai,Mulund West,75% ,1,2000,"MBBS, DNB - Gastroenterology"
+981,Dr. Archana Ajit,Ear-Nose-Throat (ENT) Specialist,35,Mumbai,Vikhroli East,69% ,8,500,"MBBS, MS - ENT"
+982,Dr. Mihir Parekh,Dentist,13,Mumbai,Charni Road,97% ,59,300,BDS
+983,Dr. Raman Kumar Malik,Nephrologist,30,Mumbai,Mulund West,100% ,2,2000,"MBBS, DNB - Nephrology"
+984,Dr. Alpa Jain,Ophthalmologist,28,Mumbai,Andheri,99% ,92,600,"MBBS, MS - Ophthalmology"
+985,Dr. Sweta Budyal,Endocrinologist,11,Mumbai,Mulund West,97% ,18,2000,"MBBS, DM - Endocrinology"
+986,Dr. Ajay Rathod,Orthopedist,27,Mumbai,Tardeo,60% ,2,1500,"MBBS, MS - Orthopaedics"
+987,Dr. Vikas S. Yadav,Orthopedist,14,Mumbai,Andheri East,90% ,12,1000,"Diploma in Orthopaedics, MBBS"
+988,Dr. Verdith Hegde,Ophthalmologist,16,Mumbai,Bhandup,97% ,111,500,"MBBS, MS - Ophthalmology"
+989,Dr. Sulabhi Shyam,Dentist,12,Mumbai,Andheri West,100% ,69,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+990,Dr. Anurag Agarwal,Ophthalmologist,23,Mumbai,Goregaon West,98% ,33,700,"MBBS, MS - Ophthalmology"
+991,Dr. Badshah Khan,Pediatrician,20,Mumbai,Mira Road,100% ,6,900,"MD - Physician, Diploma in Child Health (DCH)"
+992,Dr. Shailesh Pandey,Ear-Nose-Throat (ENT) Specialist,24,Mumbai,Andheri West,98% ,428,1000,"MBBS, Diploma in Otorhinolaryngology (DLO)"
+993,Dr. Atul Gattani,Internal Medicine,15,Mumbai,Mulund West,80% ,20,1500,"MD - Medicine, MBBS"
+994,Dr. D B Bhosale,General Surgeon,37,Mumbai,Chembur,100% ,1,1000,"MBBS, MS - General Surgery"
+995,Dr. Ravindra U Rupawate,Pulmonologist,39,Mumbai,Mulund West,59% ,18,2000,"MBBS, DNB - Pulmonary Medicine"
+996,Dr. Adit B. Mehta,Dentist,16,Mumbai,Vileparle East,99% ,87,500,"BDS, MDS - Conservative Dentistry & Endodontics"
+997,Dr. Hasmukh Ravat,Cardiologist,40,Mumbai,Mulund West,75% ,3,1500,"MBBS, MD - Medicine, DM - Cardiology"
+998,Dr. Shaivali Joshi,Pediatrician,25,Mumbai,Matunga West,100% ,1,1000,"DNB - Pediatrics, Diploma in Child Health (DCH), MD - Pediatrics, FCPS - Child Health"
+999,Dr. Ramesh Punjani,General Surgeon,39,Mumbai,Mulund West,100% ,N/A,1300,"MBBS, MS - General Surgery"
+1000,Dr. Mohini Vachhani,Gynecologist/Obstetrician,42,Mumbai,Mahim,98% ,79,1300,"Fellow of Royal College of Obstetricians and Gynaecologists FRCOG (London), MRCOG(UK), MD - Obstetrics & Gynaecology, DGO"
+1001,Dr. Rajiv Rajan,Dentist,23,Mumbai,Chembur East,100% ,103,300,BDS
+1002,Dr. Uday B Shetty,Dentist,37,Mumbai,Dadar West,98% ,170,500,"BDS, FICOI"
+1003,Dr. Chitwan Dubey,Gynecologist/Obstetrician,23,Mumbai,Powai,71% ,20,1300,"MBBS, MS - Obstetrics & Gynaecology"
+1004,Dr. Jui Mandke,Pediatric Surgeon,20,Mumbai,Santacruz West,100% ,1,1500,"MBBS, DNB - Pediatric Surgery"
+1005,Dr. Sanjana.A,Ophthalmologist,25,Mumbai,Powai,100% ,14,1100,"MBBS, MS - Ophthalmology"
+1006,Dr. Vrunda  Karanjgaokar,Gynecologist/Obstetrician,29,Mumbai,Chembur,100% ,N/A,1200,"MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, MRCOG(UK), CCT - OBG, MBBS"
+1007,Dr. Vinod Rambal,Neurosurgeon,40,Mumbai,Mira Road,95% ,14,1000,"MCh - Neuro Surgery, MBBS, MS - General Surgery"
+1008,Dr. Neeraj Srivastava,Orthopedist,41,Mumbai,Mulund West,100% ,2,2000,"MBBS, MS - Orthopaedics"
+1009,Dr. Paresh C. Trivedi,Psychiatrist,30,Mumbai,Andheri West,96% ,290,1500,"MBBS, DPM (Psychiatry)"
+1010,Dr. Neha Hardasani Thaver,Dentist,9 ,Mumbai,Lokhandwala,100% ,9,300,BDS
+1011,Dr. Satish Mutha,Spine Surgeon,29,Mumbai,Mahim,92% ,2,1300,"MS - Orthopaedics, MBBS"
+1012,Dr. Sunita Mohan,Ophthalmologist,13,Mumbai,Chembur,100% ,3,1000,"MBBS, MS - Ophthalmology, DNB - Ophthalmology"
+1013,Dr. Ramona S Thakur,Dentist,31,Mumbai,Powai,96% ,152,400,"BDS, MDS - Conservative Dentistry & Endodontics"
+1014,Dr. Subhaprakash Sanyal,Hematologist,23,Mumbai,Mulund West,74% ,20,2000,"MBBS, DM - Clinical Haematology"
+1015,Dr. Arun.H  Garg,Dentist,37,Mumbai,Chembur East,96% ,48,500,"BDS, MDS - Oral & Maxillofacial Surgery"
+1016,Dr. Mansi Sanghvi,Dermatologist,18,Mumbai,Powai,97% ,53,1200,"MBBS, DNB - Dermatology & Venereology"
+1017,Dr. Snehal Kothari,Cardiologist,21,Mumbai,Mahim,99% ,69,1800,"DM - Cardiology, DNB - Cardiology, MD - Medicine, FACC, Fellowship In Interventional  Cardiology"
+1018,Dr. Arun Behl,General Surgeon,49,Mumbai,Mulund West,50% ,N/A,2000,"MBBS, MS - General Surgery"
+1019,Dr. Zahra Hussain   (Physiotherapist),Physiotherapist,10,Mumbai,Colaba,98% ,40,350,BPTh/BPT
